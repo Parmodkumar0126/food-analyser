@@ -1,132 +1,48 @@
-from flask import Flask, render_template, request
+from flask import Flask, request, jsonify
+from flask_cors import CORS
 import json
 import os
-from flask_cors import CORS
+
+app = Flask(__name__)
 CORS(app)
 
+# Load JSON
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 file_path = os.path.join(BASE_DIR, "nutrition.json")
 
 with open(file_path, "r") as f:
-    food_data = json.load(f)
-
-# 🔑 API KEY
-PAT = "bd5404ab96ae4d0a954b113a31d3fb50"
-
-app = Flask(__name__)
-
-# Clarifai model
-model = Model(
-    user_id="clarifai",
-    app_id="main",
-    model_id="food-item-recognition",
-    pat=PAT
-)
-
-# Load JSON
-with open("nutrition.json") as f:
     nutrition_data = json.load(f)
 
-@app.route('/')
+# Home route
+@app.route("/")
 def home():
-    return render_template("index.html")
+    return "Food Analyzer API Running 🚀"
 
-# 🔍 SEARCH FUNCTION
-@app.route('/search', methods=['POST'])
-def search():
-    query = request.form.get('food')
-
-    if not query:
-        return render_template("index.html",
-                               food="Not Found",
-                               calories="-",
-                               protein="-",
-                               fat="-",
-                               sugar="-")
-
-    query = query.lower().strip()
+# API route
+@app.route("/predict", methods=["POST"])
+def predict():
+    data = request.get_json()
+    food = data.get("food", "").lower().strip()
 
     matched_food = None
 
-    # 🔥 SMART MATCHING
+    # Smart matching
     for key in nutrition_data:
-        if query in key or key in query:
+        if food in key or key in food:
             matched_food = key
             break
 
     if not matched_food:
-        return render_template("index.html",
-                               food="Not Found",
-                               calories="-",
-                               protein="-",
-                               fat="-",
-                               sugar="-")
+        return jsonify({
+            "status": "not_found"
+        })
 
     result = nutrition_data[matched_food]
 
-    return render_template("index.html",
-                           food=matched_food,
-                           calories=result["calories"],
-                           protein=result["protein"],
-                           fat=result["fat"],
-                           sugar=result["sugar"])
-
-
-# 📸 IMAGE ANALYSIS
-@app.route('/analyze', methods=['POST'])
-def analyze():
-
-    if 'image' not in request.files or request.files['image'].filename == "":
-        return render_template("index.html",
-                               food="Not Found",
-                               calories="-",
-                               protein="-",
-                               fat="-",
-                               sugar="-")
-
-    image = request.files['image']
-    image_bytes = image.read()
-
-    prediction = model.predict_by_bytes(image_bytes)
-
-    concept = prediction.outputs[0].data.concepts[0]
-    food_name = concept.name.lower()
-    confidence = concept.value
-
-    # ❌ Low confidence
-    if confidence < 0.8:
-        return render_template("index.html",
-                               food="Not Found",
-                               calories="-",
-                               protein="-",
-                               fat="-",
-                               sugar="-")
-
-    matched_food = None
-
-    # 🔥 SMART MATCHING
-    for key in nutrition_data:
-        if key in food_name or food_name in key:
-            matched_food = key
-            break
-
-    if not matched_food:
-        return render_template("index.html",
-                               food="Not Found",
-                               calories="-",
-                               protein="-",
-                               fat="-",
-                               sugar="-")
-
-    result = nutrition_data[matched_food]
-
-    return render_template("index.html",
-                           food=matched_food,
-                           calories=result["calories"],
-                           protein=result["protein"],
-                           fat=result["fat"],
-                           sugar=result["sugar"])
-
+    return jsonify({
+        "status": "found",
+        "data": result
+    })
 
 if __name__ == "__main__":
-    app.run(debug=True)
+    app.run()
