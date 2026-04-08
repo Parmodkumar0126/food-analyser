@@ -1,6 +1,15 @@
 from flask import Flask, render_template, request
 from clarifai.client.model import Model
 import json
+import os
+from flask_cors import CORS
+CORS(app)
+
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+file_path = os.path.join(BASE_DIR, "nutrition.json")
+
+with open(file_path, "r") as f:
+    food_data = json.load(f)
 
 # 🔑 API KEY
 PAT = "bd5404ab96ae4d0a954b113a31d3fb50"
