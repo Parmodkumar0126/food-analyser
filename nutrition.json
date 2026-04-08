@@ -1,0 +1,4700 @@
+{
+  "apple": {
+    "calories": 95,
+    "protein": 0.5,
+    "fat": 0.3,
+    "sugar": 19
+  },
+  "banana": {
+    "calories": 105,
+    "protein": 1.3,
+    "fat": 0.4,
+    "sugar": 14
+  },
+  "pizza": {
+    "calories": 285,
+    "protein": 12,
+    "fat": 10,
+    "sugar": 3
+  },
+  "burger": {
+    "calories": 250,
+    "protein": 15,
+    "fat": 12,
+    "sugar": 5
+  },
+  "sandwich": {
+    "calories": 300,
+    "protein": 10,
+    "fat": 8,
+    "sugar": 5
+  },
+  "rice": {
+    "calories": 200,
+    "protein": 4,
+    "fat": 1,
+    "sugar": 0
+  },
+  "chicken": {
+    "calories": 239,
+    "protein": 27,
+    "fat": 14,
+    "sugar": 0
+  },
+  "egg": {
+    "calories": 78,
+    "protein": 6,
+    "fat": 5,
+    "sugar": 0
+  },
+  "milk": {
+    "calories": 150,
+    "protein": 8,
+    "fat": 8,
+    "sugar": 12
+  },
+  "bread": {
+    "calories": 80,
+    "protein": 3,
+    "fat": 1,
+    "sugar": 2
+  },
+  "noodles": {
+    "calories": 220,
+    "protein": 6,
+    "fat": 3,
+    "sugar": 2
+  },
+  "fries": {
+    "calories": 365,
+    "protein": 4,
+    "fat": 17,
+    "sugar": 0
+  },
+  "pasta": {
+    "calories": 310,
+    "protein": 11,
+    "fat": 5,
+    "sugar": 3
+  },
+  "salad": {
+    "calories": 150,
+    "protein": 5,
+    "fat": 7,
+    "sugar": 6
+  },
+  "paneer": {
+    "calories": 265,
+    "protein": 18,
+    "fat": 20,
+    "sugar": 2
+  },
+  "dal": {
+    "calories": 180,
+    "protein": 9,
+    "fat": 1,
+    "sugar": 2
+  },
+  "roti": {
+    "calories": 120,
+    "protein": 3,
+    "fat": 1,
+    "sugar": 0
+  },
+  "dosa": {
+    "calories": 168,
+    "protein": 4,
+    "fat": 6,
+    "sugar": 1
+  },
+  "idli": {
+    "calories": 58,
+    "protein": 2,
+    "fat": 0.4,
+    "sugar": 0
+  },
+  "samosa": {
+    "calories": 262,
+    "protein": 4,
+    "fat": 17,
+    "sugar": 2
+  },
+  "chole": {
+    "calories": 210,
+    "protein": 10,
+    "fat": 6,
+    "sugar": 5
+  },
+  "aloo paratha": {
+    "calories": 320,
+    "protein": 7,
+    "fat": 14,
+    "sugar": 2
+  },
+  "paneer paratha": {
+    "calories": 340,
+    "protein": 10,
+    "fat": 18,
+    "sugar": 2
+  },
+  "butter naan": {
+    "calories": 300,
+    "protein": 9,
+    "fat": 10,
+    "sugar": 2
+  },
+  "garlic naan": {
+    "calories": 280,
+    "protein": 8,
+    "fat": 8,
+    "sugar": 2
+  },
+  "veg biryani": {
+    "calories": 320,
+    "protein": 7,
+    "fat": 9,
+    "sugar": 3
+  },
+  "chicken biryani": {
+    "calories": 400,
+    "protein": 15,
+    "fat": 15,
+    "sugar": 3
+  },
+  "tandoori roti": {
+    "calories": 110,
+    "protein": 4,
+    "fat": 1,
+    "sugar": 1
+  },
+  "rumali roti": {
+    "calories": 150,
+    "protein": 4,
+    "fat": 3,
+    "sugar": 1
+  },
+  "bhatura": {
+    "calories": 280,
+    "protein": 5,
+    "fat": 15,
+    "sugar": 1
+  },
+  "puri": {
+    "calories": 140,
+    "protein": 2,
+    "fat": 9,
+    "sugar": 0
+  },
+  "gobi paratha": {
+    "calories": 290,
+    "protein": 6,
+    "fat": 12,
+    "sugar": 2
+  },
+  "methi paratha": {
+    "calories": 260,
+    "protein": 6,
+    "fat": 10,
+    "sugar": 1
+  },
+  "lachha paratha": {
+    "calories": 280,
+    "protein": 6,
+    "fat": 12,
+    "sugar": 1
+  },
+  "missi roti": {
+    "calories": 160,
+    "protein": 6,
+    "fat": 2,
+    "sugar": 1
+  },
+  "plain naan": {
+    "calories": 260,
+    "protein": 8,
+    "fat": 4,
+    "sugar": 2
+  },
+  "onion kulcha": {
+    "calories": 250,
+    "protein": 7,
+    "fat": 6,
+    "sugar": 3
+  },
+  "jeera rice": {
+    "calories": 220,
+    "protein": 4,
+    "fat": 4,
+    "sugar": 0
+  },
+  "peas pulao": {
+    "calories": 250,
+    "protein": 6,
+    "fat": 5,
+    "sugar": 2
+  },
+  "curd rice": {
+    "calories": 190,
+    "protein": 5,
+    "fat": 4,
+    "sugar": 3
+  },
+  "lemon rice": {
+    "calories": 210,
+    "protein": 4,
+    "fat": 6,
+    "sugar": 1
+  },
+  "tamarind rice": {
+    "calories": 230,
+    "protein": 4,
+    "fat": 7,
+    "sugar": 2
+  },
+  "egg biryani": {
+    "calories": 350,
+    "protein": 12,
+    "fat": 12,
+    "sugar": 2
+  },
+  "mutton biryani": {
+    "calories": 450,
+    "protein": 18,
+    "fat": 20,
+    "sugar": 3
+  },
+  "khichdi": {
+    "calories": 210,
+    "protein": 8,
+    "fat": 4,
+    "sugar": 2
+  },
+  "bisi bele bath": {
+    "calories": 300,
+    "protein": 8,
+    "fat": 10,
+    "sugar": 4
+  },
+  "veg pulao": {
+    "calories": 240,
+    "protein": 5,
+    "fat": 5,
+    "sugar": 2
+  },
+  "dal makhani": {
+    "calories": 330,
+    "protein": 11,
+    "fat": 18,
+    "sugar": 4
+  },
+  "dal tadka": {
+    "calories": 200,
+    "protein": 10,
+    "fat": 7,
+    "sugar": 2
+  },
+  "chana masala": {
+    "calories": 260,
+    "protein": 12,
+    "fat": 10,
+    "sugar": 3
+  },
+  "rajma masala": {
+    "calories": 270,
+    "protein": 14,
+    "fat": 8,
+    "sugar": 4
+  },
+  "sambar": {
+    "calories": 150,
+    "protein": 6,
+    "fat": 4,
+    "sugar": 3
+  },
+  "rasam": {
+    "calories": 90,
+    "protein": 2,
+    "fat": 2,
+    "sugar": 2
+  },
+  "moong dal": {
+    "calories": 180,
+    "protein": 9,
+    "fat": 3,
+    "sugar": 1
+  },
+  "toor dal": {
+    "calories": 190,
+    "protein": 10,
+    "fat": 4,
+    "sugar": 1
+  },
+  "chole bhature": {
+    "calories": 550,
+    "protein": 15,
+    "fat": 25,
+    "sugar": 4
+  },
+  "pindi chole": {
+    "calories": 280,
+    "protein": 12,
+    "fat": 12,
+    "sugar": 2
+  },
+  "palak paneer": {
+    "calories": 280,
+    "protein": 14,
+    "fat": 20,
+    "sugar": 3
+  },
+  "shahi paneer": {
+    "calories": 350,
+    "protein": 12,
+    "fat": 25,
+    "sugar": 5
+  },
+  "paneer butter masala": {
+    "calories": 380,
+    "protein": 13,
+    "fat": 28,
+    "sugar": 4
+  },
+  "kadai paneer": {
+    "calories": 310,
+    "protein": 12,
+    "fat": 22,
+    "sugar": 4
+  },
+  "malai kofta": {
+    "calories": 400,
+    "protein": 10,
+    "fat": 30,
+    "sugar": 6
+  },
+  "aloo gobi": {
+    "calories": 180,
+    "protein": 4,
+    "fat": 8,
+    "sugar": 3
+  },
+  "bhindi masala": {
+    "calories": 160,
+    "protein": 3,
+    "fat": 9,
+    "sugar": 2
+  },
+  "baingan bharta": {
+    "calories": 150,
+    "protein": 3,
+    "fat": 7,
+    "sugar": 4
+  },
+  "mix veg": {
+    "calories": 170,
+    "protein": 5,
+    "fat": 8,
+    "sugar": 3
+  },
+  "dum aloo": {
+    "calories": 220,
+    "protein": 4,
+    "fat": 12,
+    "sugar": 4
+  },
+  "navratan korma": {
+    "calories": 320,
+    "protein": 8,
+    "fat": 20,
+    "sugar": 8
+  },
+  "methi matar malai": {
+    "calories": 340,
+    "protein": 9,
+    "fat": 24,
+    "sugar": 6
+  },
+  "kadhi pakora": {
+    "calories": 250,
+    "protein": 8,
+    "fat": 14,
+    "sugar": 3
+  },
+  "lauki ki sabzi": {
+    "calories": 110,
+    "protein": 3,
+    "fat": 4,
+    "sugar": 2
+  },
+  "sarson ka saag": {
+    "calories": 180,
+    "protein": 7,
+    "fat": 10,
+    "sugar": 3
+  },
+  "butter chicken": {
+    "calories": 420,
+    "protein": 22,
+    "fat": 28,
+    "sugar": 4
+  },
+  "chicken tikka masala": {
+    "calories": 380,
+    "protein": 24,
+    "fat": 22,
+    "sugar": 4
+  },
+  "kadai chicken": {
+    "calories": 350,
+    "protein": 23,
+    "fat": 18,
+    "sugar": 3
+  },
+  "mutton rogan josh": {
+    "calories": 450,
+    "protein": 26,
+    "fat": 30,
+    "sugar": 3
+  },
+  "fish curry": {
+    "calories": 280,
+    "protein": 20,
+    "fat": 15,
+    "sugar": 2
+  },
+  "egg curry": {
+    "calories": 250,
+    "protein": 14,
+    "fat": 16,
+    "sugar": 2
+  },
+  "chicken korma": {
+    "calories": 390,
+    "protein": 21,
+    "fat": 25,
+    "sugar": 4
+  },
+  "chicken chettinad": {
+    "calories": 360,
+    "protein": 22,
+    "fat": 20,
+    "sugar": 2
+  },
+  "goan fish curry": {
+    "calories": 310,
+    "protein": 18,
+    "fat": 22,
+    "sugar": 3
+  },
+  "prawn curry": {
+    "calories": 290,
+    "protein": 20,
+    "fat": 16,
+    "sugar": 3
+  },
+  "keema matar": {
+    "calories": 340,
+    "protein": 22,
+    "fat": 20,
+    "sugar": 4
+  },
+  "mutton curry": {
+    "calories": 410,
+    "protein": 24,
+    "fat": 26,
+    "sugar": 2
+  },
+  "andhra chicken": {
+    "calories": 350,
+    "protein": 23,
+    "fat": 19,
+    "sugar": 2
+  },
+  "fish fry": {
+    "calories": 250,
+    "protein": 18,
+    "fat": 15,
+    "sugar": 1
+  },
+  "laal maans": {
+    "calories": 460,
+    "protein": 25,
+    "fat": 32,
+    "sugar": 3
+  },
+  "kachori": {
+    "calories": 300,
+    "protein": 5,
+    "fat": 18,
+    "sugar": 1
+  },
+  "aloo tikki": {
+    "calories": 220,
+    "protein": 3,
+    "fat": 12,
+    "sugar": 1
+  },
+  "pav bhaji": {
+    "calories": 400,
+    "protein": 8,
+    "fat": 20,
+    "sugar": 4
+  },
+  "vada pav": {
+    "calories": 300,
+    "protein": 6,
+    "fat": 15,
+    "sugar": 2
+  },
+  "bhel puri": {
+    "calories": 150,
+    "protein": 3,
+    "fat": 2,
+    "sugar": 4
+  },
+  "pani puri": {
+    "calories": 120,
+    "protein": 2,
+    "fat": 4,
+    "sugar": 2
+  },
+  "dhokla": {
+    "calories": 160,
+    "protein": 6,
+    "fat": 2,
+    "sugar": 5
+  },
+  "plain dosa": {
+    "calories": 130,
+    "protein": 3,
+    "fat": 3,
+    "sugar": 0
+  },
+  "masala dosa": {
+    "calories": 350,
+    "protein": 7,
+    "fat": 14,
+    "sugar": 2
+  },
+  "upma": {
+    "calories": 220,
+    "protein": 5,
+    "fat": 6,
+    "sugar": 2
+  },
+  "poha": {
+    "calories": 250,
+    "protein": 4,
+    "fat": 7,
+    "sugar": 2
+  },
+  "medu vada": {
+    "calories": 200,
+    "protein": 5,
+    "fat": 10,
+    "sugar": 1
+  },
+  "dahi vada": {
+    "calories": 240,
+    "protein": 7,
+    "fat": 8,
+    "sugar": 6
+  },
+  "chicken tikka": {
+    "calories": 220,
+    "protein": 25,
+    "fat": 10,
+    "sugar": 2
+  },
+  "paneer tikka": {
+    "calories": 280,
+    "protein": 15,
+    "fat": 18,
+    "sugar": 3
+  },
+  "tandoori chicken": {
+    "calories": 260,
+    "protein": 28,
+    "fat": 12,
+    "sugar": 1
+  },
+  "chicken seekh kebab": {
+    "calories": 240,
+    "protein": 22,
+    "fat": 14,
+    "sugar": 1
+  },
+  "mutton seekh kebab": {
+    "calories": 290,
+    "protein": 20,
+    "fat": 20,
+    "sugar": 1
+  },
+  "hara bhara kebab": {
+    "calories": 180,
+    "protein": 6,
+    "fat": 8,
+    "sugar": 2
+  },
+  "fish tikka": {
+    "calories": 200,
+    "protein": 22,
+    "fat": 8,
+    "sugar": 1
+  },
+  "malai tikka": {
+    "calories": 300,
+    "protein": 24,
+    "fat": 18,
+    "sugar": 2
+  },
+  "reshmi kebab": {
+    "calories": 270,
+    "protein": 23,
+    "fat": 15,
+    "sugar": 2
+  },
+  "aloo chaat": {
+    "calories": 250,
+    "protein": 3,
+    "fat": 10,
+    "sugar": 6
+  },
+  "dahi bhalla": {
+    "calories": 220,
+    "protein": 6,
+    "fat": 8,
+    "sugar": 10
+  },
+  "papdi chaat": {
+    "calories": 280,
+    "protein": 5,
+    "fat": 12,
+    "sugar": 8
+  },
+  "sev puri": {
+    "calories": 240,
+    "protein": 4,
+    "fat": 10,
+    "sugar": 6
+  },
+  "raj kachori": {
+    "calories": 450,
+    "protein": 8,
+    "fat": 22,
+    "sugar": 12
+  },
+  "jhalmuri": {
+    "calories": 180,
+    "protein": 4,
+    "fat": 6,
+    "sugar": 2
+  },
+  "rava dosa": {
+    "calories": 210,
+    "protein": 5,
+    "fat": 7,
+    "sugar": 1
+  },
+  "onion uttapam": {
+    "calories": 240,
+    "protein": 6,
+    "fat": 8,
+    "sugar": 2
+  },
+  "tomato uttapam": {
+    "calories": 220,
+    "protein": 5,
+    "fat": 6,
+    "sugar": 3
+  },
+  "pongal": {
+    "calories": 320,
+    "protein": 8,
+    "fat": 12,
+    "sugar": 1
+  },
+  "appam": {
+    "calories": 120,
+    "protein": 2,
+    "fat": 3,
+    "sugar": 2
+  },
+  "idiyappam": {
+    "calories": 150,
+    "protein": 3,
+    "fat": 1,
+    "sugar": 0
+  },
+  "puttu": {
+    "calories": 200,
+    "protein": 4,
+    "fat": 2,
+    "sugar": 1
+  },
+  "chicken 65": {
+    "calories": 350,
+    "protein": 20,
+    "fat": 22,
+    "sugar": 2
+  },
+  "kothu parotta": {
+    "calories": 480,
+    "protein": 12,
+    "fat": 25,
+    "sugar": 3
+  },
+  "litti chokha": {
+    "calories": 380,
+    "protein": 14,
+    "fat": 10,
+    "sugar": 3
+  },
+  "dal bati churma": {
+    "calories": 650,
+    "protein": 15,
+    "fat": 35,
+    "sugar": 15
+  },
+  "macher jhol": {
+    "calories": 280,
+    "protein": 18,
+    "fat": 14,
+    "sugar": 2
+  },
+  "kosha mangsho": {
+    "calories": 450,
+    "protein": 22,
+    "fat": 28,
+    "sugar": 4
+  },
+  "dhansak": {
+    "calories": 380,
+    "protein": 18,
+    "fat": 15,
+    "sugar": 5
+  },
+  "vindaloo": {
+    "calories": 420,
+    "protein": 20,
+    "fat": 25,
+    "sugar": 3
+  },
+  "amritsari kulcha": {
+    "calories": 310,
+    "protein": 8,
+    "fat": 12,
+    "sugar": 2
+  },
+  "makki ki roti": {
+    "calories": 180,
+    "protein": 4,
+    "fat": 3,
+    "sugar": 1
+  },
+  "chole chawal": {
+    "calories": 420,
+    "protein": 12,
+    "fat": 8,
+    "sugar": 4
+  },
+  "rajma chawal": {
+    "calories": 400,
+    "protein": 14,
+    "fat": 7,
+    "sugar": 3
+  },
+  "soya chunks": {
+    "calories": 345,
+    "protein": 52,
+    "fat": 0.5,
+    "sugar": 7
+  },
+  "tofu": {
+    "calories": 144,
+    "protein": 15,
+    "fat": 8,
+    "sugar": 1
+  },
+  "khichdi with ghee": {
+    "calories": 280,
+    "protein": 9,
+    "fat": 10,
+    "sugar": 2
+  },
+  "dal fry": {
+    "calories": 195,
+    "protein": 10,
+    "fat": 8,
+    "sugar": 2
+  },
+  "chana dal": {
+    "calories": 165,
+    "protein": 9,
+    "fat": 3,
+    "sugar": 2
+  },
+  "masoor dal": {
+    "calories": 175,
+    "protein": 9,
+    "fat": 1,
+    "sugar": 2
+  },
+  "urad dal": {
+    "calories": 180,
+    "protein": 11,
+    "fat": 2,
+    "sugar": 1
+  },
+  "moth dal": {
+    "calories": 170,
+    "protein": 10,
+    "fat": 2,
+    "sugar": 2
+  },
+  "rajma": {
+    "calories": 270,
+    "protein": 14,
+    "fat": 8,
+    "sugar": 4
+  },
+  "lobiya": {
+    "calories": 200,
+    "protein": 13,
+    "fat": 1,
+    "sugar": 3
+  },
+  "kala chana": {
+    "calories": 240,
+    "protein": 13,
+    "fat": 4,
+    "sugar": 3
+  },
+  "matar paneer": {
+    "calories": 300,
+    "protein": 14,
+    "fat": 20,
+    "sugar": 5
+  },
+  "aloo matar": {
+    "calories": 190,
+    "protein": 5,
+    "fat": 8,
+    "sugar": 4
+  },
+  "aloo palak": {
+    "calories": 170,
+    "protein": 4,
+    "fat": 7,
+    "sugar": 3
+  },
+  "aloo jeera": {
+    "calories": 160,
+    "protein": 3,
+    "fat": 7,
+    "sugar": 2
+  },
+  "aloo tamatar": {
+    "calories": 155,
+    "protein": 3,
+    "fat": 6,
+    "sugar": 4
+  },
+  "baingan masala": {
+    "calories": 145,
+    "protein": 3,
+    "fat": 7,
+    "sugar": 4
+  },
+  "sem ki sabzi": {
+    "calories": 120,
+    "protein": 5,
+    "fat": 4,
+    "sugar": 3
+  },
+  "karela sabzi": {
+    "calories": 95,
+    "protein": 2,
+    "fat": 5,
+    "sugar": 2
+  },
+  "tinda sabzi": {
+    "calories": 100,
+    "protein": 2,
+    "fat": 4,
+    "sugar": 3
+  },
+  "parwal sabzi": {
+    "calories": 115,
+    "protein": 3,
+    "fat": 4,
+    "sugar": 3
+  },
+  "suran sabzi": {
+    "calories": 130,
+    "protein": 2,
+    "fat": 3,
+    "sugar": 2
+  },
+  "arbi masala": {
+    "calories": 175,
+    "protein": 3,
+    "fat": 8,
+    "sugar": 2
+  },
+  "kathal sabzi": {
+    "calories": 155,
+    "protein": 4,
+    "fat": 6,
+    "sugar": 4
+  },
+  "kele ki sabzi": {
+    "calories": 145,
+    "protein": 3,
+    "fat": 5,
+    "sugar": 6
+  },
+  "sev tameta nu shaak": {
+    "calories": 180,
+    "protein": 4,
+    "fat": 8,
+    "sugar": 5
+  },
+  "undhiyu": {
+    "calories": 290,
+    "protein": 8,
+    "fat": 15,
+    "sugar": 5
+  },
+  "surti locho": {
+    "calories": 200,
+    "protein": 7,
+    "fat": 6,
+    "sugar": 3
+  },
+  "khandvi": {
+    "calories": 120,
+    "protein": 4,
+    "fat": 5,
+    "sugar": 2
+  },
+  "fafda": {
+    "calories": 280,
+    "protein": 6,
+    "fat": 15,
+    "sugar": 1
+  },
+  "thepla": {
+    "calories": 160,
+    "protein": 4,
+    "fat": 7,
+    "sugar": 1
+  },
+  "dabeli": {
+    "calories": 320,
+    "protein": 6,
+    "fat": 14,
+    "sugar": 8
+  },
+  "misal pav": {
+    "calories": 450,
+    "protein": 12,
+    "fat": 20,
+    "sugar": 4
+  },
+  "sabudana khichdi": {
+    "calories": 350,
+    "protein": 4,
+    "fat": 12,
+    "sugar": 2
+  },
+  "sabudana vada": {
+    "calories": 280,
+    "protein": 3,
+    "fat": 14,
+    "sugar": 1
+  },
+  "thalipeeth": {
+    "calories": 220,
+    "protein": 6,
+    "fat": 8,
+    "sugar": 2
+  },
+  "puran poli": {
+    "calories": 280,
+    "protein": 6,
+    "fat": 8,
+    "sugar": 18
+  },
+  "ukdiche modak": {
+    "calories": 150,
+    "protein": 2,
+    "fat": 4,
+    "sugar": 12
+  },
+  "batata vada": {
+    "calories": 230,
+    "protein": 4,
+    "fat": 12,
+    "sugar": 2
+  },
+  "kanda bhaji": {
+    "calories": 190,
+    "protein": 4,
+    "fat": 10,
+    "sugar": 3
+  },
+  "zunka bhakar": {
+    "calories": 240,
+    "protein": 7,
+    "fat": 8,
+    "sugar": 2
+  },
+  "pitla bhakri": {
+    "calories": 260,
+    "protein": 8,
+    "fat": 9,
+    "sugar": 2
+  },
+  "solkadhi": {
+    "calories": 60,
+    "protein": 1,
+    "fat": 3,
+    "sugar": 3
+  },
+  "kokum sharbat": {
+    "calories": 80,
+    "protein": 0,
+    "fat": 0,
+    "sugar": 18
+  },
+  "aamras": {
+    "calories": 120,
+    "protein": 1,
+    "fat": 0.5,
+    "sugar": 26
+  },
+  "kadhi": {
+    "calories": 140,
+    "protein": 5,
+    "fat": 6,
+    "sugar": 4
+  },
+  "gatte ki sabzi": {
+    "calories": 220,
+    "protein": 7,
+    "fat": 12,
+    "sugar": 3
+  },
+  "ker sangri": {
+    "calories": 180,
+    "protein": 5,
+    "fat": 8,
+    "sugar": 3
+  },
+  "bajra roti": {
+    "calories": 170,
+    "protein": 5,
+    "fat": 2,
+    "sugar": 1
+  },
+  "jowar roti": {
+    "calories": 155,
+    "protein": 4,
+    "fat": 1,
+    "sugar": 0
+  },
+  "nachni roti": {
+    "calories": 180,
+    "protein": 5,
+    "fat": 2,
+    "sugar": 1
+  },
+  "besan chilla": {
+    "calories": 200,
+    "protein": 9,
+    "fat": 7,
+    "sugar": 2
+  },
+  "moong dal chilla": {
+    "calories": 180,
+    "protein": 10,
+    "fat": 5,
+    "sugar": 2
+  },
+  "rava idli": {
+    "calories": 110,
+    "protein": 3,
+    "fat": 3,
+    "sugar": 1
+  },
+  "mini idli": {
+    "calories": 50,
+    "protein": 2,
+    "fat": 0.3,
+    "sugar": 0
+  },
+  "pesarattu": {
+    "calories": 190,
+    "protein": 8,
+    "fat": 4,
+    "sugar": 1
+  },
+  "akki roti": {
+    "calories": 200,
+    "protein": 4,
+    "fat": 5,
+    "sugar": 1
+  },
+  "ragi mudde": {
+    "calories": 320,
+    "protein": 8,
+    "fat": 2,
+    "sugar": 1
+  },
+  "uppitu": {
+    "calories": 210,
+    "protein": 5,
+    "fat": 7,
+    "sugar": 2
+  },
+  "kesari bath": {
+    "calories": 280,
+    "protein": 3,
+    "fat": 10,
+    "sugar": 22
+  },
+  "puliyogare": {
+    "calories": 230,
+    "protein": 4,
+    "fat": 8,
+    "sugar": 2
+  },
+  "bisibele bath": {
+    "calories": 300,
+    "protein": 8,
+    "fat": 10,
+    "sugar": 3
+  },
+  "vangi bath": {
+    "calories": 270,
+    "protein": 5,
+    "fat": 9,
+    "sugar": 3
+  },
+  "chitranna": {
+    "calories": 220,
+    "protein": 4,
+    "fat": 7,
+    "sugar": 2
+  },
+  "kuzhi paniyaram": {
+    "calories": 180,
+    "protein": 4,
+    "fat": 5,
+    "sugar": 2
+  },
+  "adai": {
+    "calories": 210,
+    "protein": 8,
+    "fat": 5,
+    "sugar": 1
+  },
+  "kozhukattai": {
+    "calories": 160,
+    "protein": 3,
+    "fat": 3,
+    "sugar": 5
+  },
+  "murukku": {
+    "calories": 480,
+    "protein": 8,
+    "fat": 25,
+    "sugar": 1
+  },
+  "ribbon pakoda": {
+    "calories": 460,
+    "protein": 7,
+    "fat": 24,
+    "sugar": 1
+  },
+  "mixture": {
+    "calories": 440,
+    "protein": 9,
+    "fat": 20,
+    "sugar": 3
+  },
+  "thattai": {
+    "calories": 400,
+    "protein": 7,
+    "fat": 18,
+    "sugar": 2
+  },
+  "chakli": {
+    "calories": 460,
+    "protein": 8,
+    "fat": 24,
+    "sugar": 1
+  },
+  "namkeen sev": {
+    "calories": 510,
+    "protein": 12,
+    "fat": 28,
+    "sugar": 2
+  },
+  "mathri": {
+    "calories": 490,
+    "protein": 8,
+    "fat": 28,
+    "sugar": 1
+  },
+  "shakarpara": {
+    "calories": 450,
+    "protein": 7,
+    "fat": 18,
+    "sugar": 20
+  },
+  "namak para": {
+    "calories": 470,
+    "protein": 8,
+    "fat": 22,
+    "sugar": 1
+  },
+  "chivda": {
+    "calories": 420,
+    "protein": 8,
+    "fat": 18,
+    "sugar": 3
+  },
+  "papdi": {
+    "calories": 400,
+    "protein": 7,
+    "fat": 18,
+    "sugar": 2
+  },
+  "golgappa": {
+    "calories": 115,
+    "protein": 2,
+    "fat": 4,
+    "sugar": 2
+  },
+  "dahi puri": {
+    "calories": 180,
+    "protein": 5,
+    "fat": 6,
+    "sugar": 8
+  },
+  "ragda pattice": {
+    "calories": 320,
+    "protein": 9,
+    "fat": 12,
+    "sugar": 5
+  },
+  "sev tamatar": {
+    "calories": 200,
+    "protein": 5,
+    "fat": 9,
+    "sugar": 5
+  },
+  "chole tikki": {
+    "calories": 350,
+    "protein": 10,
+    "fat": 14,
+    "sugar": 5
+  },
+  "matar ki chaat": {
+    "calories": 220,
+    "protein": 8,
+    "fat": 7,
+    "sugar": 5
+  },
+  "corn chaat": {
+    "calories": 180,
+    "protein": 5,
+    "fat": 6,
+    "sugar": 8
+  },
+  "fruit chaat": {
+    "calories": 120,
+    "protein": 2,
+    "fat": 1,
+    "sugar": 18
+  },
+  "momos": {
+    "calories": 180,
+    "protein": 8,
+    "fat": 5,
+    "sugar": 2
+  },
+  "veg momos": {
+    "calories": 160,
+    "protein": 6,
+    "fat": 4,
+    "sugar": 2
+  },
+  "chicken momos": {
+    "calories": 210,
+    "protein": 12,
+    "fat": 8,
+    "sugar": 2
+  },
+  "fried momos": {
+    "calories": 280,
+    "protein": 9,
+    "fat": 14,
+    "sugar": 2
+  },
+  "puchka": {
+    "calories": 110,
+    "protein": 2,
+    "fat": 3,
+    "sugar": 2
+  },
+  "jhaal muri": {
+    "calories": 175,
+    "protein": 4,
+    "fat": 6,
+    "sugar": 2
+  },
+  "kathi roll": {
+    "calories": 320,
+    "protein": 12,
+    "fat": 12,
+    "sugar": 4
+  },
+  "egg roll": {
+    "calories": 290,
+    "protein": 10,
+    "fat": 13,
+    "sugar": 3
+  },
+  "chicken roll": {
+    "calories": 350,
+    "protein": 18,
+    "fat": 14,
+    "sugar": 3
+  },
+  "frankie": {
+    "calories": 300,
+    "protein": 10,
+    "fat": 11,
+    "sugar": 4
+  },
+  "bombay sandwich": {
+    "calories": 280,
+    "protein": 8,
+    "fat": 10,
+    "sugar": 5
+  },
+  "grilled sandwich": {
+    "calories": 310,
+    "protein": 12,
+    "fat": 14,
+    "sugar": 5
+  },
+  "masala pav": {
+    "calories": 240,
+    "protein": 6,
+    "fat": 8,
+    "sugar": 4
+  },
+  "keema pav": {
+    "calories": 380,
+    "protein": 20,
+    "fat": 18,
+    "sugar": 3
+  },
+  "bun maska": {
+    "calories": 200,
+    "protein": 5,
+    "fat": 8,
+    "sugar": 6
+  },
+  "irani chai": {
+    "calories": 120,
+    "protein": 3,
+    "fat": 5,
+    "sugar": 12
+  },
+  "bun omelette": {
+    "calories": 300,
+    "protein": 12,
+    "fat": 15,
+    "sugar": 4
+  },
+  "akuri": {
+    "calories": 220,
+    "protein": 10,
+    "fat": 14,
+    "sugar": 2
+  },
+  "salli boti": {
+    "calories": 380,
+    "protein": 22,
+    "fat": 20,
+    "sugar": 4
+  },
+  "dhansak dal": {
+    "calories": 200,
+    "protein": 11,
+    "fat": 6,
+    "sugar": 5
+  },
+  "patra": {
+    "calories": 180,
+    "protein": 4,
+    "fat": 6,
+    "sugar": 5
+  },
+  "bhakri": {
+    "calories": 190,
+    "protein": 5,
+    "fat": 3,
+    "sugar": 1
+  },
+  "kadi chawal": {
+    "calories": 280,
+    "protein": 8,
+    "fat": 7,
+    "sugar": 4
+  },
+  "chaas": {
+    "calories": 60,
+    "protein": 3,
+    "fat": 2,
+    "sugar": 3
+  },
+  "lassi": {
+    "calories": 160,
+    "protein": 6,
+    "fat": 6,
+    "sugar": 16
+  },
+  "mango lassi": {
+    "calories": 200,
+    "protein": 5,
+    "fat": 5,
+    "sugar": 28
+  },
+  "nimbu pani": {
+    "calories": 40,
+    "protein": 0,
+    "fat": 0,
+    "sugar": 10
+  },
+  "sugarcane juice": {
+    "calories": 90,
+    "protein": 0,
+    "fat": 0,
+    "sugar": 22
+  },
+  "coconut water": {
+    "calories": 46,
+    "protein": 2,
+    "fat": 0.5,
+    "sugar": 10
+  },
+  "butter milk": {
+    "calories": 60,
+    "protein": 3,
+    "fat": 2,
+    "sugar": 3
+  },
+  "rose sharbat": {
+    "calories": 100,
+    "protein": 0,
+    "fat": 0,
+    "sugar": 24
+  },
+  "panakam": {
+    "calories": 85,
+    "protein": 0,
+    "fat": 0,
+    "sugar": 20
+  },
+  "neera": {
+    "calories": 55,
+    "protein": 0,
+    "fat": 0,
+    "sugar": 13
+  },
+  "toddy": {
+    "calories": 70,
+    "protein": 0,
+    "fat": 0,
+    "sugar": 15
+  },
+  "jigarthanda": {
+    "calories": 280,
+    "protein": 6,
+    "fat": 10,
+    "sugar": 35
+  },
+  "nannari sharbat": {
+    "calories": 95,
+    "protein": 0,
+    "fat": 0,
+    "sugar": 22
+  },
+  "papad": {
+    "calories": 380,
+    "protein": 18,
+    "fat": 14,
+    "sugar": 2
+  },
+  "roasted papad": {
+    "calories": 300,
+    "protein": 15,
+    "fat": 6,
+    "sugar": 2
+  },
+  "pickle": {
+    "calories": 90,
+    "protein": 1,
+    "fat": 7,
+    "sugar": 2
+  },
+  "mango pickle": {
+    "calories": 100,
+    "protein": 1,
+    "fat": 8,
+    "sugar": 3
+  },
+  "lime pickle": {
+    "calories": 85,
+    "protein": 1,
+    "fat": 7,
+    "sugar": 2
+  },
+  "chutney": {
+    "calories": 70,
+    "protein": 1,
+    "fat": 2,
+    "sugar": 8
+  },
+  "green chutney": {
+    "calories": 45,
+    "protein": 2,
+    "fat": 2,
+    "sugar": 3
+  },
+  "tamarind chutney": {
+    "calories": 80,
+    "protein": 1,
+    "fat": 0,
+    "sugar": 16
+  },
+  "raita": {
+    "calories": 90,
+    "protein": 4,
+    "fat": 4,
+    "sugar": 5
+  },
+  "boondi raita": {
+    "calories": 130,
+    "protein": 5,
+    "fat": 5,
+    "sugar": 7
+  },
+  "vegetable raita": {
+    "calories": 100,
+    "protein": 4,
+    "fat": 4,
+    "sugar": 6
+  },
+  "pineapple raita": {
+    "calories": 110,
+    "protein": 4,
+    "fat": 3,
+    "sugar": 10
+  },
+  "pomegranate raita": {
+    "calories": 115,
+    "protein": 4,
+    "fat": 3,
+    "sugar": 11
+  },
+  "curd": {
+    "calories": 100,
+    "protein": 5,
+    "fat": 4,
+    "sugar": 5
+  },
+  "hung curd": {
+    "calories": 140,
+    "protein": 8,
+    "fat": 7,
+    "sugar": 4
+  },
+  "shrikhand": {
+    "calories": 280,
+    "protein": 8,
+    "fat": 10,
+    "sugar": 24
+  },
+  "mishti doi": {
+    "calories": 150,
+    "protein": 5,
+    "fat": 4,
+    "sugar": 18
+  },
+  "dahi": {
+    "calories": 100,
+    "protein": 5,
+    "fat": 4,
+    "sugar": 5
+  },
+  "amla murabba": {
+    "calories": 180,
+    "protein": 1,
+    "fat": 0,
+    "sugar": 42
+  },
+  "karela juice": {
+    "calories": 25,
+    "protein": 1,
+    "fat": 0,
+    "sugar": 3
+  },
+  "wheatgrass juice": {
+    "calories": 20,
+    "protein": 1,
+    "fat": 0,
+    "sugar": 2
+  },
+  "amla juice": {
+    "calories": 35,
+    "protein": 1,
+    "fat": 0,
+    "sugar": 6
+  },
+  "aloe vera juice": {
+    "calories": 30,
+    "protein": 0,
+    "fat": 0,
+    "sugar": 4
+  },
+  "giloy juice": {
+    "calories": 20,
+    "protein": 0,
+    "fat": 0,
+    "sugar": 3
+  },
+  "tulsi juice": {
+    "calories": 18,
+    "protein": 0,
+    "fat": 0,
+    "sugar": 2
+  },
+  "triphala juice": {
+    "calories": 25,
+    "protein": 0,
+    "fat": 0,
+    "sugar": 4
+  },
+  "brahmi juice": {
+    "calories": 22,
+    "protein": 0,
+    "fat": 0,
+    "sugar": 3
+  },
+  "neem juice": {
+    "calories": 15,
+    "protein": 0,
+    "fat": 0,
+    "sugar": 1
+  },
+  "drumstick soup": {
+    "calories": 80,
+    "protein": 4,
+    "fat": 3,
+    "sugar": 3
+  },
+  "tomato soup": {
+    "calories": 70,
+    "protein": 2,
+    "fat": 2,
+    "sugar": 6
+  },
+  "mushroom soup": {
+    "calories": 90,
+    "protein": 4,
+    "fat": 4,
+    "sugar": 3
+  },
+  "sweet corn soup": {
+    "calories": 110,
+    "protein": 4,
+    "fat": 3,
+    "sugar": 8
+  },
+  "hot and sour soup": {
+    "calories": 95,
+    "protein": 4,
+    "fat": 2,
+    "sugar": 4
+  },
+  "manchow soup": {
+    "calories": 105,
+    "protein": 5,
+    "fat": 3,
+    "sugar": 5
+  },
+  "chicken soup": {
+    "calories": 120,
+    "protein": 12,
+    "fat": 5,
+    "sugar": 2
+  },
+  "mutton soup": {
+    "calories": 140,
+    "protein": 14,
+    "fat": 7,
+    "sugar": 1
+  },
+  "paya soup": {
+    "calories": 130,
+    "protein": 12,
+    "fat": 6,
+    "sugar": 1
+  },
+  "nihari": {
+    "calories": 380,
+    "protein": 24,
+    "fat": 22,
+    "sugar": 2
+  },
+  "haleem": {
+    "calories": 320,
+    "protein": 20,
+    "fat": 14,
+    "sugar": 3
+  },
+  "biryani masala": {
+    "calories": 30,
+    "protein": 1,
+    "fat": 1,
+    "sugar": 2
+  },
+  "chicken afghani": {
+    "calories": 370,
+    "protein": 25,
+    "fat": 22,
+    "sugar": 2
+  },
+  "murgh musallam": {
+    "calories": 440,
+    "protein": 28,
+    "fat": 28,
+    "sugar": 3
+  },
+  "chicken handi": {
+    "calories": 360,
+    "protein": 24,
+    "fat": 20,
+    "sugar": 3
+  },
+  "murg makhani": {
+    "calories": 410,
+    "protein": 22,
+    "fat": 26,
+    "sugar": 4
+  },
+  "rogan josh": {
+    "calories": 450,
+    "protein": 26,
+    "fat": 30,
+    "sugar": 3
+  },
+  "do pyaza": {
+    "calories": 320,
+    "protein": 20,
+    "fat": 18,
+    "sugar": 6
+  },
+  "adraki gosht": {
+    "calories": 400,
+    "protein": 24,
+    "fat": 25,
+    "sugar": 3
+  },
+  "kadhi gosht": {
+    "calories": 350,
+    "protein": 22,
+    "fat": 20,
+    "sugar": 4
+  },
+  "shab deg": {
+    "calories": 380,
+    "protein": 23,
+    "fat": 22,
+    "sugar": 4
+  },
+  "peshwari naan": {
+    "calories": 320,
+    "protein": 8,
+    "fat": 12,
+    "sugar": 8
+  },
+  "stuffed paratha": {
+    "calories": 310,
+    "protein": 8,
+    "fat": 13,
+    "sugar": 2
+  },
+  "mooli paratha": {
+    "calories": 275,
+    "protein": 6,
+    "fat": 11,
+    "sugar": 2
+  },
+  "palak paratha": {
+    "calories": 265,
+    "protein": 7,
+    "fat": 10,
+    "sugar": 2
+  },
+  "besan paratha": {
+    "calories": 290,
+    "protein": 9,
+    "fat": 12,
+    "sugar": 2
+  },
+  "sattu paratha": {
+    "calories": 300,
+    "protein": 10,
+    "fat": 11,
+    "sugar": 2
+  },
+  "dal paratha": {
+    "calories": 280,
+    "protein": 10,
+    "fat": 10,
+    "sugar": 2
+  },
+  "chapati": {
+    "calories": 100,
+    "protein": 3,
+    "fat": 0.5,
+    "sugar": 0
+  },
+  "phulka": {
+    "calories": 90,
+    "protein": 3,
+    "fat": 0.4,
+    "sugar": 0
+  },
+  "bedmi puri": {
+    "calories": 200,
+    "protein": 5,
+    "fat": 10,
+    "sugar": 1
+  },
+  "dal puri": {
+    "calories": 190,
+    "protein": 6,
+    "fat": 9,
+    "sugar": 1
+  },
+  "stuffed puri": {
+    "calories": 210,
+    "protein": 5,
+    "fat": 11,
+    "sugar": 1
+  },
+  "banana flower curry": {
+    "calories": 140,
+    "protein": 4,
+    "fat": 5,
+    "sugar": 3
+  },
+  "raw jackfruit curry": {
+    "calories": 155,
+    "protein": 4,
+    "fat": 6,
+    "sugar": 4
+  },
+  "lotus stem curry": {
+    "calories": 130,
+    "protein": 3,
+    "fat": 4,
+    "sugar": 3
+  },
+  "elephant yam curry": {
+    "calories": 145,
+    "protein": 3,
+    "fat": 5,
+    "sugar": 2
+  },
+  "breadfruit curry": {
+    "calories": 160,
+    "protein": 4,
+    "fat": 5,
+    "sugar": 5
+  },
+  "snake gourd sabzi": {
+    "calories": 95,
+    "protein": 2,
+    "fat": 3,
+    "sugar": 2
+  },
+  "ridge gourd sabzi": {
+    "calories": 100,
+    "protein": 2,
+    "fat": 3,
+    "sugar": 2
+  },
+  "ash gourd sabzi": {
+    "calories": 85,
+    "protein": 1,
+    "fat": 2,
+    "sugar": 2
+  },
+  "drumstick sabzi": {
+    "calories": 110,
+    "protein": 4,
+    "fat": 3,
+    "sugar": 3
+  },
+  "fenugreek sabzi": {
+    "calories": 130,
+    "protein": 5,
+    "fat": 4,
+    "sugar": 2
+  },
+  "amaranth sabzi": {
+    "calories": 120,
+    "protein": 5,
+    "fat": 3,
+    "sugar": 2
+  },
+  "colocasia curry": {
+    "calories": 155,
+    "protein": 3,
+    "fat": 6,
+    "sugar": 2
+  },
+  "cluster beans sabzi": {
+    "calories": 110,
+    "protein": 4,
+    "fat": 3,
+    "sugar": 3
+  },
+  "jackfruit biryani": {
+    "calories": 310,
+    "protein": 7,
+    "fat": 8,
+    "sugar": 5
+  },
+  "soya biryani": {
+    "calories": 340,
+    "protein": 16,
+    "fat": 9,
+    "sugar": 3
+  },
+  "paneer biryani": {
+    "calories": 380,
+    "protein": 14,
+    "fat": 14,
+    "sugar": 3
+  },
+  "mushroom biryani": {
+    "calories": 290,
+    "protein": 8,
+    "fat": 7,
+    "sugar": 3
+  },
+  "prawn biryani": {
+    "calories": 380,
+    "protein": 18,
+    "fat": 12,
+    "sugar": 3
+  },
+  "fish biryani": {
+    "calories": 390,
+    "protein": 20,
+    "fat": 13,
+    "sugar": 2
+  },
+  "lamb biryani": {
+    "calories": 460,
+    "protein": 20,
+    "fat": 18,
+    "sugar": 3
+  },
+  "watermelon": {
+    "calories": 30,
+    "protein": 0.6,
+    "fat": 0.2,
+    "sugar": 6
+  },
+  "papaya": {
+    "calories": 43,
+    "protein": 0.5,
+    "fat": 0.3,
+    "sugar": 8
+  },
+  "mango": {
+    "calories": 60,
+    "protein": 0.8,
+    "fat": 0.4,
+    "sugar": 14
+  },
+  "grapes": {
+    "calories": 69,
+    "protein": 0.7,
+    "fat": 0.2,
+    "sugar": 16
+  },
+  "orange": {
+    "calories": 47,
+    "protein": 0.9,
+    "fat": 0.1,
+    "sugar": 9
+  },
+  "guava": {
+    "calories": 68,
+    "protein": 2.6,
+    "fat": 1,
+    "sugar": 9
+  },
+  "pomegranate": {
+    "calories": 83,
+    "protein": 1.7,
+    "fat": 1.2,
+    "sugar": 14
+  },
+  "pineapple": {
+    "calories": 50,
+    "protein": 0.5,
+    "fat": 0.1,
+    "sugar": 10
+  },
+  "pear": {
+    "calories": 57,
+    "protein": 0.4,
+    "fat": 0.1,
+    "sugar": 10
+  },
+  "kiwi": {
+    "calories": 61,
+    "protein": 1.1,
+    "fat": 0.5,
+    "sugar": 9
+  },
+  "strawberry": {
+    "calories": 32,
+    "protein": 0.7,
+    "fat": 0.3,
+    "sugar": 5
+  },
+  "blueberry": {
+    "calories": 57,
+    "protein": 0.7,
+    "fat": 0.3,
+    "sugar": 10
+  },
+  "dates": {
+    "calories": 282,
+    "protein": 2,
+    "fat": 0.3,
+    "sugar": 63
+  },
+  "raisins": {
+    "calories": 299,
+    "protein": 3,
+    "fat": 0.5,
+    "sugar": 59
+  },
+  "jackfruit": {
+    "calories": 94,
+    "protein": 1.7,
+    "fat": 0.6,
+    "sugar": 19
+  },
+  "custard apple": {
+    "calories": 101,
+    "protein": 1.7,
+    "fat": 0.6,
+    "sugar": 21
+  },
+  "lychee": {
+    "calories": 66,
+    "protein": 0.8,
+    "fat": 0.4,
+    "sugar": 15
+  },
+  "coconut": {
+    "calories": 354,
+    "protein": 3.3,
+    "fat": 33,
+    "sugar": 6
+  },
+  "chikoo": {
+    "calories": 83,
+    "protein": 0.4,
+    "fat": 1.1,
+    "sugar": 16
+  },
+  "amla": {
+    "calories": 44,
+    "protein": 0.9,
+    "fat": 0.6,
+    "sugar": 4
+  },
+  "jamun": {
+    "calories": 62,
+    "protein": 0.7,
+    "fat": 0.2,
+    "sugar": 14
+  },
+  "mulberry": {
+    "calories": 43,
+    "protein": 1.4,
+    "fat": 0.4,
+    "sugar": 8
+  },
+  "fig": {
+    "calories": 74,
+    "protein": 0.7,
+    "fat": 0.3,
+    "sugar": 16
+  },
+  "cherry": {
+    "calories": 50,
+    "protein": 1,
+    "fat": 0.3,
+    "sugar": 10
+  },
+  "peach": {
+    "calories": 39,
+    "protein": 0.9,
+    "fat": 0.3,
+    "sugar": 8
+  },
+  "plum": {
+    "calories": 46,
+    "protein": 0.7,
+    "fat": 0.3,
+    "sugar": 10
+  },
+  "apricot": {
+    "calories": 48,
+    "protein": 1.4,
+    "fat": 0.4,
+    "sugar": 9
+  },
+  "avocado": {
+    "calories": 160,
+    "protein": 2,
+    "fat": 15,
+    "sugar": 0.7
+  },
+  "dragon fruit": {
+    "calories": 60,
+    "protein": 1.2,
+    "fat": 0,
+    "sugar": 8
+  },
+  "star fruit": {
+    "calories": 31,
+    "protein": 1,
+    "fat": 0.3,
+    "sugar": 4
+  },
+  "passion fruit": {
+    "calories": 97,
+    "protein": 2.2,
+    "fat": 0.7,
+    "sugar": 11
+  },
+  "rambutan": {
+    "calories": 68,
+    "protein": 0.9,
+    "fat": 0.2,
+    "sugar": 15
+  },
+  "longan": {
+    "calories": 60,
+    "protein": 1.3,
+    "fat": 0.1,
+    "sugar": 15
+  },
+  "mangosteen": {
+    "calories": 73,
+    "protein": 0.4,
+    "fat": 0.6,
+    "sugar": 18
+  },
+  "durian": {
+    "calories": 147,
+    "protein": 1.5,
+    "fat": 5.3,
+    "sugar": 27
+  },
+  "tamarind": {
+    "calories": 239,
+    "protein": 2.8,
+    "fat": 0.6,
+    "sugar": 38
+  },
+  "wood apple": {
+    "calories": 134,
+    "protein": 7.1,
+    "fat": 3.7,
+    "sugar": 18
+  },
+  "karonda": {
+    "calories": 42,
+    "protein": 0.5,
+    "fat": 2.9,
+    "sugar": 2
+  },
+  "phalsa": {
+    "calories": 72,
+    "protein": 1.4,
+    "fat": 0.9,
+    "sugar": 11
+  },
+  "bael": {
+    "calories": 137,
+    "protein": 1.8,
+    "fat": 0.3,
+    "sugar": 30
+  },
+  "kokum": {
+    "calories": 55,
+    "protein": 0.8,
+    "fat": 0.6,
+    "sugar": 12
+  },
+  "ber": {
+    "calories": 79,
+    "protein": 1.2,
+    "fat": 0.2,
+    "sugar": 18
+  },
+  "mahua": {
+    "calories": 111,
+    "protein": 1.5,
+    "fat": 0.5,
+    "sugar": 24
+  },
+  "watermelon seeds": {
+    "calories": 557,
+    "protein": 28,
+    "fat": 47,
+    "sugar": 0
+  },
+  "dried mango": {
+    "calories": 319,
+    "protein": 2.5,
+    "fat": 1.2,
+    "sugar": 70
+  },
+  "dried apricot": {
+    "calories": 241,
+    "protein": 3.4,
+    "fat": 0.5,
+    "sugar": 53
+  },
+  "dried fig": {
+    "calories": 249,
+    "protein": 3.3,
+    "fat": 0.9,
+    "sugar": 48
+  },
+  "prunes": {
+    "calories": 240,
+    "protein": 2.2,
+    "fat": 0.4,
+    "sugar": 38
+  },
+  "cranberry": {
+    "calories": 46,
+    "protein": 0.4,
+    "fat": 0.1,
+    "sugar": 4
+  },
+  "raspberry": {
+    "calories": 52,
+    "protein": 1.2,
+    "fat": 0.7,
+    "sugar": 4
+  },
+  "blackberry": {
+    "calories": 43,
+    "protein": 1.4,
+    "fat": 0.5,
+    "sugar": 5
+  },
+  "gooseberry": {
+    "calories": 44,
+    "protein": 0.9,
+    "fat": 0.6,
+    "sugar": 6
+  },
+  "elderberry": {
+    "calories": 73,
+    "protein": 0.7,
+    "fat": 0.5,
+    "sugar": 7
+  },
+  "grapefruit": {
+    "calories": 42,
+    "protein": 0.8,
+    "fat": 0.1,
+    "sugar": 7
+  },
+  "lime": {
+    "calories": 30,
+    "protein": 0.7,
+    "fat": 0.2,
+    "sugar": 1.7
+  },
+  "lemon": {
+    "calories": 29,
+    "protein": 1.1,
+    "fat": 0.3,
+    "sugar": 2.5
+  },
+  "tangerine": {
+    "calories": 53,
+    "protein": 0.8,
+    "fat": 0.3,
+    "sugar": 11
+  },
+  "clementine": {
+    "calories": 47,
+    "protein": 0.9,
+    "fat": 0.2,
+    "sugar": 9
+  },
+  "kumquat": {
+    "calories": 71,
+    "protein": 1.9,
+    "fat": 0.9,
+    "sugar": 10
+  },
+  "pomelo": {
+    "calories": 38,
+    "protein": 0.8,
+    "fat": 0.1,
+    "sugar": 9
+  },
+  "cantaloupe": {
+    "calories": 34,
+    "protein": 0.8,
+    "fat": 0.2,
+    "sugar": 8
+  },
+  "honeydew": {
+    "calories": 36,
+    "protein": 0.5,
+    "fat": 0.1,
+    "sugar": 8
+  },
+  "muskmelon": {
+    "calories": 34,
+    "protein": 0.8,
+    "fat": 0.2,
+    "sugar": 8
+  },
+  "nectarine": {
+    "calories": 44,
+    "protein": 1.1,
+    "fat": 0.3,
+    "sugar": 7
+  },
+  "quince": {
+    "calories": 57,
+    "protein": 0.4,
+    "fat": 0.1,
+    "sugar": 13
+  },
+  "persimmon": {
+    "calories": 81,
+    "protein": 0.7,
+    "fat": 0.3,
+    "sugar": 18
+  },
+  "sapodilla": {
+    "calories": 83,
+    "protein": 0.4,
+    "fat": 1.1,
+    "sugar": 16
+  },
+  "jujube": {
+    "calories": 79,
+    "protein": 1.2,
+    "fat": 0.2,
+    "sugar": 18
+  },
+  "feijoa": {
+    "calories": 55,
+    "protein": 1.2,
+    "fat": 0.8,
+    "sugar": 7
+  },
+  "caimito": {
+    "calories": 67,
+    "protein": 1.5,
+    "fat": 0.3,
+    "sugar": 14
+  },
+  "soursop": {
+    "calories": 66,
+    "protein": 1,
+    "fat": 0.3,
+    "sugar": 13
+  },
+  "breadfruit": {
+    "calories": 103,
+    "protein": 1.1,
+    "fat": 0.2,
+    "sugar": 11
+  },
+  "miracle fruit": {
+    "calories": 25,
+    "protein": 0.4,
+    "fat": 0.1,
+    "sugar": 4
+  },
+  "salak": {
+    "calories": 82,
+    "protein": 0.4,
+    "fat": 0.4,
+    "sugar": 15
+  },
+  "santol": {
+    "calories": 62,
+    "protein": 0.3,
+    "fat": 0.4,
+    "sugar": 13
+  },
+  "jatoba": {
+    "calories": 130,
+    "protein": 2,
+    "fat": 0.5,
+    "sugar": 26
+  },
+  "nance": {
+    "calories": 56,
+    "protein": 0.4,
+    "fat": 0.8,
+    "sugar": 11
+  },
+  "pitanga": {
+    "calories": 33,
+    "protein": 0.8,
+    "fat": 0.4,
+    "sugar": 7
+  },
+  "jabuticaba": {
+    "calories": 58,
+    "protein": 0.6,
+    "fat": 0.1,
+    "sugar": 13
+  },
+  "pawpaw": {
+    "calories": 80,
+    "protein": 1.2,
+    "fat": 1.3,
+    "sugar": 12
+  },
+  "ackee": {
+    "calories": 151,
+    "protein": 2.9,
+    "fat": 15,
+    "sugar": 0
+  },
+  "bilimbi": {
+    "calories": 35,
+    "protein": 0.6,
+    "fat": 0.2,
+    "sugar": 3
+  },
+  "kedondong": {
+    "calories": 41,
+    "protein": 0.5,
+    "fat": 0.3,
+    "sugar": 8
+  },
+  "langsat": {
+    "calories": 57,
+    "protein": 1,
+    "fat": 0.2,
+    "sugar": 13
+  },
+  "banana flower": {
+    "calories": 65,
+    "protein": 1.6,
+    "fat": 0.6,
+    "sugar": 6
+  },
+  "raw banana": {
+    "calories": 89,
+    "protein": 1.1,
+    "fat": 0.3,
+    "sugar": 12
+  },
+  "dried banana": {
+    "calories": 346,
+    "protein": 3.9,
+    "fat": 1.8,
+    "sugar": 74
+  },
+  "multigrain fruit bar": {
+    "calories": 180,
+    "protein": 3,
+    "fat": 4,
+    "sugar": 18
+  },
+  "fresh coconut meat": {
+    "calories": 354,
+    "protein": 3.3,
+    "fat": 33,
+    "sugar": 6
+  },
+  "tender coconut": {
+    "calories": 46,
+    "protein": 2,
+    "fat": 0.5,
+    "sugar": 10
+  },
+  "dried coconut": {
+    "calories": 650,
+    "protein": 7,
+    "fat": 65,
+    "sugar": 7
+  },
+  "amla powder": {
+    "calories": 250,
+    "protein": 3,
+    "fat": 0.5,
+    "sugar": 15
+  },
+  "mango pulp": {
+    "calories": 70,
+    "protein": 0.5,
+    "fat": 0.3,
+    "sugar": 16
+  },
+  "rose apple": {
+    "calories": 25,
+    "protein": 0.6,
+    "fat": 0.3,
+    "sugar": 5
+  },
+  "indian gooseberry": {
+    "calories": 44,
+    "protein": 0.9,
+    "fat": 0.6,
+    "sugar": 4
+  },
+  "black plum": {
+    "calories": 62,
+    "protein": 0.7,
+    "fat": 0.2,
+    "sugar": 14
+  },
+  "spinach": {
+    "calories": 23,
+    "protein": 2.9,
+    "fat": 0.4,
+    "sugar": 0.4
+  },
+  "broccoli": {
+    "calories": 34,
+    "protein": 2.8,
+    "fat": 0.4,
+    "sugar": 1.7
+  },
+  "carrot": {
+    "calories": 41,
+    "protein": 0.9,
+    "fat": 0.2,
+    "sugar": 4.7
+  },
+  "cucumber": {
+    "calories": 15,
+    "protein": 0.6,
+    "fat": 0.1,
+    "sugar": 1.7
+  },
+  "tomato": {
+    "calories": 18,
+    "protein": 0.9,
+    "fat": 0.2,
+    "sugar": 2.6
+  },
+  "onion": {
+    "calories": 40,
+    "protein": 1.1,
+    "fat": 0.1,
+    "sugar": 4.2
+  },
+  "potato": {
+    "calories": 77,
+    "protein": 2,
+    "fat": 0.1,
+    "sugar": 0.8
+  },
+  "sweet potato": {
+    "calories": 86,
+    "protein": 1.6,
+    "fat": 0.1,
+    "sugar": 4.2
+  },
+  "mushroom": {
+    "calories": 22,
+    "protein": 3.1,
+    "fat": 0.3,
+    "sugar": 2
+  },
+  "bell pepper": {
+    "calories": 20,
+    "protein": 0.9,
+    "fat": 0.2,
+    "sugar": 2.4
+  },
+  "green peas": {
+    "calories": 81,
+    "protein": 5.4,
+    "fat": 0.4,
+    "sugar": 5.7
+  },
+  "cauliflower": {
+    "calories": 25,
+    "protein": 1.9,
+    "fat": 0.3,
+    "sugar": 1.9
+  },
+  "cabbage": {
+    "calories": 25,
+    "protein": 1.3,
+    "fat": 0.1,
+    "sugar": 3.2
+  },
+  "radish": {
+    "calories": 16,
+    "protein": 0.7,
+    "fat": 0.1,
+    "sugar": 1.9
+  },
+  "beetroot": {
+    "calories": 43,
+    "protein": 1.6,
+    "fat": 0.2,
+    "sugar": 6.8
+  },
+  "bitter gourd": {
+    "calories": 17,
+    "protein": 1,
+    "fat": 0.2,
+    "sugar": 1
+  },
+  "bottle gourd": {
+    "calories": 14,
+    "protein": 0.6,
+    "fat": 0.1,
+    "sugar": 1.2
+  },
+  "corn": {
+    "calories": 86,
+    "protein": 3.2,
+    "fat": 1.2,
+    "sugar": 3.2
+  },
+  "green beans": {
+    "calories": 31,
+    "protein": 1.8,
+    "fat": 0.2,
+    "sugar": 3.3
+  },
+  "pumpkin": {
+    "calories": 26,
+    "protein": 1,
+    "fat": 0.1,
+    "sugar": 2.8
+  },
+  "zucchini": {
+    "calories": 17,
+    "protein": 1.2,
+    "fat": 0.3,
+    "sugar": 2.5
+  },
+  "eggplant": {
+    "calories": 25,
+    "protein": 1,
+    "fat": 0.2,
+    "sugar": 3.5
+  },
+  "okra": {
+    "calories": 33,
+    "protein": 1.9,
+    "fat": 0.2,
+    "sugar": 1.5
+  },
+  "garlic": {
+    "calories": 149,
+    "protein": 6.4,
+    "fat": 0.5,
+    "sugar": 1
+  },
+  "ginger": {
+    "calories": 80,
+    "protein": 1.8,
+    "fat": 0.8,
+    "sugar": 1.7
+  },
+  "leek": {
+    "calories": 61,
+    "protein": 1.5,
+    "fat": 0.3,
+    "sugar": 3.9
+  },
+  "celery": {
+    "calories": 16,
+    "protein": 0.7,
+    "fat": 0.2,
+    "sugar": 1.8
+  },
+  "asparagus": {
+    "calories": 20,
+    "protein": 2.2,
+    "fat": 0.1,
+    "sugar": 1.9
+  },
+  "artichoke": {
+    "calories": 47,
+    "protein": 3.3,
+    "fat": 0.2,
+    "sugar": 1
+  },
+  "lettuce": {
+    "calories": 15,
+    "protein": 1.4,
+    "fat": 0.2,
+    "sugar": 0.8
+  },
+  "kale": {
+    "calories": 35,
+    "protein": 2.9,
+    "fat": 0.5,
+    "sugar": 2.3
+  },
+  "parsley": {
+    "calories": 36,
+    "protein": 3,
+    "fat": 0.8,
+    "sugar": 0.9
+  },
+  "coriander leaves": {
+    "calories": 23,
+    "protein": 2.1,
+    "fat": 0.5,
+    "sugar": 0.9
+  },
+  "mint leaves": {
+    "calories": 44,
+    "protein": 3.3,
+    "fat": 0.7,
+    "sugar": 0.2
+  },
+  "curry leaves": {
+    "calories": 108,
+    "protein": 6.1,
+    "fat": 1,
+    "sugar": 3
+  },
+  "fenugreek leaves": {
+    "calories": 49,
+    "protein": 4.4,
+    "fat": 0.9,
+    "sugar": 1.5
+  },
+  "drumstick leaves": {
+    "calories": 64,
+    "protein": 9.4,
+    "fat": 1.7,
+    "sugar": 3.2
+  },
+  "amaranth leaves": {
+    "calories": 23,
+    "protein": 2.5,
+    "fat": 0.3,
+    "sugar": 1.1
+  },
+  "bathua leaves": {
+    "calories": 43,
+    "protein": 3.7,
+    "fat": 0.8,
+    "sugar": 1
+  },
+  "purslane": {
+    "calories": 20,
+    "protein": 2,
+    "fat": 0.4,
+    "sugar": 0
+  },
+  "drumstick": {
+    "calories": 37,
+    "protein": 2.1,
+    "fat": 0.2,
+    "sugar": 2.5
+  },
+  "raw jackfruit": {
+    "calories": 95,
+    "protein": 1.7,
+    "fat": 0.6,
+    "sugar": 19
+  },
+  "raw banana blossom": {
+    "calories": 65,
+    "protein": 1.6,
+    "fat": 0.6,
+    "sugar": 6
+  },
+  "taro root": {
+    "calories": 112,
+    "protein": 1.5,
+    "fat": 0.2,
+    "sugar": 0.5
+  },
+  "yam": {
+    "calories": 118,
+    "protein": 1.5,
+    "fat": 0.2,
+    "sugar": 0.5
+  },
+  "elephant foot yam": {
+    "calories": 118,
+    "protein": 1.4,
+    "fat": 0.2,
+    "sugar": 0.4
+  },
+  "lotus root": {
+    "calories": 74,
+    "protein": 2.6,
+    "fat": 0.1,
+    "sugar": 2.9
+  },
+  "water chestnut": {
+    "calories": 97,
+    "protein": 2,
+    "fat": 0.1,
+    "sugar": 4.8
+  },
+  "bamboo shoots": {
+    "calories": 27,
+    "protein": 2.6,
+    "fat": 0.3,
+    "sugar": 3
+  },
+  "banana peel": {
+    "calories": 80,
+    "protein": 0.9,
+    "fat": 0.2,
+    "sugar": 14
+  },
+  "cluster beans": {
+    "calories": 16,
+    "protein": 1.4,
+    "fat": 0.1,
+    "sugar": 1.7
+  },
+  "flat beans": {
+    "calories": 48,
+    "protein": 3.5,
+    "fat": 0.4,
+    "sugar": 3.5
+  },
+  "ivy gourd": {
+    "calories": 18,
+    "protein": 1,
+    "fat": 0.1,
+    "sugar": 2.2
+  },
+  "snake gourd": {
+    "calories": 18,
+    "protein": 0.5,
+    "fat": 0.2,
+    "sugar": 1.8
+  },
+  "ridge gourd": {
+    "calories": 20,
+    "protein": 0.7,
+    "fat": 0.2,
+    "sugar": 2.5
+  },
+  "ash gourd": {
+    "calories": 13,
+    "protein": 0.4,
+    "fat": 0.1,
+    "sugar": 1.8
+  },
+  "pointed gourd": {
+    "calories": 20,
+    "protein": 2,
+    "fat": 0.3,
+    "sugar": 2
+  },
+  "colocasia": {
+    "calories": 112,
+    "protein": 1.5,
+    "fat": 0.2,
+    "sugar": 0.5
+  },
+  "raw papaya": {
+    "calories": 39,
+    "protein": 0.6,
+    "fat": 0.1,
+    "sugar": 4
+  },
+  "raw mango": {
+    "calories": 60,
+    "protein": 0.7,
+    "fat": 0.4,
+    "sugar": 5
+  },
+  "suran": {
+    "calories": 118,
+    "protein": 1.5,
+    "fat": 0.2,
+    "sugar": 0.5
+  },
+  "raw turmeric": {
+    "calories": 354,
+    "protein": 7.8,
+    "fat": 9.9,
+    "sugar": 3.2
+  },
+  "raw galangal": {
+    "calories": 80,
+    "protein": 1.5,
+    "fat": 0.8,
+    "sugar": 2
+  },
+  "green chilli": {
+    "calories": 40,
+    "protein": 2,
+    "fat": 0.2,
+    "sugar": 5
+  },
+  "red chilli": {
+    "calories": 40,
+    "protein": 2,
+    "fat": 0.4,
+    "sugar": 5.3
+  },
+  "capsicum red": {
+    "calories": 31,
+    "protein": 1,
+    "fat": 0.3,
+    "sugar": 4.2
+  },
+  "capsicum yellow": {
+    "calories": 27,
+    "protein": 1,
+    "fat": 0.2,
+    "sugar": 5.3
+  },
+  "spring onion": {
+    "calories": 32,
+    "protein": 1.8,
+    "fat": 0.2,
+    "sugar": 2.3
+  },
+  "baby corn": {
+    "calories": 26,
+    "protein": 2,
+    "fat": 0.2,
+    "sugar": 2.5
+  },
+  "sweet corn kernel": {
+    "calories": 86,
+    "protein": 3.2,
+    "fat": 1.2,
+    "sugar": 6.3
+  },
+  "broad beans": {
+    "calories": 88,
+    "protein": 6.3,
+    "fat": 0.4,
+    "sugar": 4.9
+  },
+  "kidney beans raw": {
+    "calories": 333,
+    "protein": 23.6,
+    "fat": 0.8,
+    "sugar": 2.1
+  },
+  "black eyed peas": {
+    "calories": 198,
+    "protein": 13.2,
+    "fat": 0.9,
+    "sugar": 5.6
+  },
+  "chickpeas raw": {
+    "calories": 364,
+    "protein": 19.3,
+    "fat": 6,
+    "sugar": 10.7
+  },
+  "soybeans": {
+    "calories": 446,
+    "protein": 36,
+    "fat": 20,
+    "sugar": 11
+  },
+  "lentils raw": {
+    "calories": 353,
+    "protein": 25,
+    "fat": 1.1,
+    "sugar": 2.8
+  },
+  "green lentils": {
+    "calories": 116,
+    "protein": 9,
+    "fat": 0.4,
+    "sugar": 2
+  },
+  "turnip": {
+    "calories": 28,
+    "protein": 0.9,
+    "fat": 0.1,
+    "sugar": 3.8
+  },
+  "parsnip": {
+    "calories": 75,
+    "protein": 1.3,
+    "fat": 0.3,
+    "sugar": 4.8
+  },
+  "kohlrabi": {
+    "calories": 27,
+    "protein": 1.7,
+    "fat": 0.1,
+    "sugar": 3.5
+  },
+  "bok choy": {
+    "calories": 13,
+    "protein": 1.5,
+    "fat": 0.2,
+    "sugar": 1.2
+  },
+  "watercress": {
+    "calories": 11,
+    "protein": 2.3,
+    "fat": 0.1,
+    "sugar": 0.2
+  },
+  "arugula": {
+    "calories": 25,
+    "protein": 2.6,
+    "fat": 0.7,
+    "sugar": 2
+  },
+  "endive": {
+    "calories": 17,
+    "protein": 1.3,
+    "fat": 0.2,
+    "sugar": 0.3
+  },
+  "chicory": {
+    "calories": 23,
+    "protein": 1.7,
+    "fat": 0.3,
+    "sugar": 0.7
+  },
+  "daikon": {
+    "calories": 18,
+    "protein": 0.6,
+    "fat": 0.1,
+    "sugar": 2.5
+  },
+  "shallots": {
+    "calories": 72,
+    "protein": 2.5,
+    "fat": 0.1,
+    "sugar": 7.9
+  },
+  "chives": {
+    "calories": 30,
+    "protein": 3.3,
+    "fat": 0.7,
+    "sugar": 1.9
+  },
+  "dill": {
+    "calories": 43,
+    "protein": 3.5,
+    "fat": 1.1,
+    "sugar": 0.7
+  },
+  "basil": {
+    "calories": 23,
+    "protein": 3.2,
+    "fat": 0.6,
+    "sugar": 0.3
+  },
+  "thyme": {
+    "calories": 101,
+    "protein": 5.6,
+    "fat": 1.7,
+    "sugar": 0
+  },
+  "rosemary": {
+    "calories": 131,
+    "protein": 3.3,
+    "fat": 5.9,
+    "sugar": 0
+  },
+  "fennel": {
+    "calories": 31,
+    "protein": 1.2,
+    "fat": 0.2,
+    "sugar": 3.9
+  },
+  "raw plantain": {
+    "calories": 122,
+    "protein": 1.3,
+    "fat": 0.4,
+    "sugar": 13
+  },
+  "yardlong beans": {
+    "calories": 47,
+    "protein": 2.8,
+    "fat": 0.4,
+    "sugar": 4.3
+  },
+  "winged beans": {
+    "calories": 147,
+    "protein": 9.6,
+    "fat": 5.8,
+    "sugar": 5.7
+  },
+  "boiled eggs": {
+    "calories": 155,
+    "protein": 13,
+    "fat": 11,
+    "sugar": 1
+  },
+  "scrambled eggs": {
+    "calories": 170,
+    "protein": 12,
+    "fat": 12,
+    "sugar": 1
+  },
+  "omelette": {
+    "calories": 180,
+    "protein": 13,
+    "fat": 14,
+    "sugar": 1
+  },
+  "fried egg": {
+    "calories": 185,
+    "protein": 13,
+    "fat": 15,
+    "sugar": 1
+  },
+  "poached egg": {
+    "calories": 147,
+    "protein": 13,
+    "fat": 10,
+    "sugar": 0
+  },
+  "egg bhurji": {
+    "calories": 200,
+    "protein": 14,
+    "fat": 15,
+    "sugar": 2
+  },
+  "baked fish": {
+    "calories": 205,
+    "protein": 28,
+    "fat": 9,
+    "sugar": 0
+  },
+  "grilled chicken breast": {
+    "calories": 165,
+    "protein": 31,
+    "fat": 4,
+    "sugar": 0
+  },
+  "chicken wings": {
+    "calories": 290,
+    "protein": 27,
+    "fat": 19,
+    "sugar": 0
+  },
+  "chicken drumstick": {
+    "calories": 210,
+    "protein": 22,
+    "fat": 13,
+    "sugar": 0
+  },
+  "chicken thigh": {
+    "calories": 229,
+    "protein": 25,
+    "fat": 14,
+    "sugar": 0
+  },
+  "roasted chicken": {
+    "calories": 215,
+    "protein": 29,
+    "fat": 10,
+    "sugar": 0
+  },
+  "prawn masala": {
+    "calories": 310,
+    "protein": 22,
+    "fat": 18,
+    "sugar": 3
+  },
+  "crab curry": {
+    "calories": 280,
+    "protein": 24,
+    "fat": 14,
+    "sugar": 2
+  },
+  "lobster curry": {
+    "calories": 320,
+    "protein": 28,
+    "fat": 16,
+    "sugar": 2
+  },
+  "squid fry": {
+    "calories": 260,
+    "protein": 20,
+    "fat": 14,
+    "sugar": 1
+  },
+  "salmon grilled": {
+    "calories": 208,
+    "protein": 28,
+    "fat": 10,
+    "sugar": 0
+  },
+  "tuna fish": {
+    "calories": 132,
+    "protein": 28,
+    "fat": 1,
+    "sugar": 0
+  },
+  "sardines": {
+    "calories": 208,
+    "protein": 25,
+    "fat": 11,
+    "sugar": 0
+  },
+  "mackerel fry": {
+    "calories": 260,
+    "protein": 22,
+    "fat": 17,
+    "sugar": 0
+  },
+  "pomfret fry": {
+    "calories": 210,
+    "protein": 20,
+    "fat": 12,
+    "sugar": 0
+  },
+  "rohu fish curry": {
+    "calories": 230,
+    "protein": 18,
+    "fat": 12,
+    "sugar": 2
+  },
+  "catfish curry": {
+    "calories": 250,
+    "protein": 19,
+    "fat": 14,
+    "sugar": 2
+  },
+  "tilapia grilled": {
+    "calories": 128,
+    "protein": 26,
+    "fat": 3,
+    "sugar": 0
+  },
+  "do pyaza chicken": {
+    "calories": 320,
+    "protein": 22,
+    "fat": 18,
+    "sugar": 6
+  },
+  "pepper chicken": {
+    "calories": 340,
+    "protein": 26,
+    "fat": 20,
+    "sugar": 2
+  },
+  "chicken palak": {
+    "calories": 300,
+    "protein": 24,
+    "fat": 16,
+    "sugar": 3
+  },
+  "chicken coconut curry": {
+    "calories": 380,
+    "protein": 24,
+    "fat": 24,
+    "sugar": 3
+  },
+  "chicken kadai": {
+    "calories": 350,
+    "protein": 23,
+    "fat": 18,
+    "sugar": 3
+  },
+  "chicken karahi": {
+    "calories": 345,
+    "protein": 23,
+    "fat": 18,
+    "sugar": 3
+  },
+  "chicken shami kebab": {
+    "calories": 250,
+    "protein": 20,
+    "fat": 14,
+    "sugar": 2
+  },
+  "chicken galouti kebab": {
+    "calories": 260,
+    "protein": 18,
+    "fat": 16,
+    "sugar": 2
+  },
+  "keema naan": {
+    "calories": 380,
+    "protein": 18,
+    "fat": 16,
+    "sugar": 3
+  },
+  "mutton keema": {
+    "calories": 360,
+    "protein": 24,
+    "fat": 22,
+    "sugar": 3
+  },
+  "mutton do pyaza": {
+    "calories": 420,
+    "protein": 25,
+    "fat": 28,
+    "sugar": 5
+  },
+  "gosht biryani": {
+    "calories": 460,
+    "protein": 20,
+    "fat": 18,
+    "sugar": 3
+  },
+  "paya": {
+    "calories": 130,
+    "protein": 12,
+    "fat": 6,
+    "sugar": 1
+  },
+  "kheema paratha": {
+    "calories": 380,
+    "protein": 18,
+    "fat": 16,
+    "sugar": 2
+  },
+  "egg paratha": {
+    "calories": 290,
+    "protein": 11,
+    "fat": 13,
+    "sugar": 2
+  },
+  "fish roll": {
+    "calories": 310,
+    "protein": 16,
+    "fat": 12,
+    "sugar": 3
+  },
+  "prawn fry": {
+    "calories": 260,
+    "protein": 22,
+    "fat": 14,
+    "sugar": 1
+  },
+  "crab masala": {
+    "calories": 290,
+    "protein": 25,
+    "fat": 15,
+    "sugar": 2
+  },
+  "mutton kofta": {
+    "calories": 380,
+    "protein": 22,
+    "fat": 24,
+    "sugar": 3
+  },
+  "chicken kofta": {
+    "calories": 310,
+    "protein": 22,
+    "fat": 18,
+    "sugar": 3
+  },
+  "egg masala": {
+    "calories": 230,
+    "protein": 14,
+    "fat": 15,
+    "sugar": 3
+  },
+  "fish masala": {
+    "calories": 270,
+    "protein": 20,
+    "fat": 14,
+    "sugar": 2
+  },
+  "chicken lollipop": {
+    "calories": 290,
+    "protein": 20,
+    "fat": 18,
+    "sugar": 3
+  },
+  "chicken pakora": {
+    "calories": 310,
+    "protein": 18,
+    "fat": 18,
+    "sugar": 2
+  },
+  "fish pakora": {
+    "calories": 280,
+    "protein": 16,
+    "fat": 16,
+    "sugar": 2
+  },
+  "mutton chops": {
+    "calories": 370,
+    "protein": 26,
+    "fat": 24,
+    "sugar": 2
+  },
+  "lamb chops": {
+    "calories": 360,
+    "protein": 25,
+    "fat": 22,
+    "sugar": 2
+  },
+  "chicken liver": {
+    "calories": 195,
+    "protein": 27,
+    "fat": 8,
+    "sugar": 0
+  },
+  "mutton liver": {
+    "calories": 200,
+    "protein": 28,
+    "fat": 9,
+    "sugar": 0
+  },
+  "chicken gizzard": {
+    "calories": 154,
+    "protein": 26,
+    "fat": 4,
+    "sugar": 0
+  },
+  "kheema pulao": {
+    "calories": 380,
+    "protein": 18,
+    "fat": 16,
+    "sugar": 2
+  },
+  "chicken pulao": {
+    "calories": 360,
+    "protein": 18,
+    "fat": 14,
+    "sugar": 2
+  },
+  "gulab jamun": {
+    "calories": 150,
+    "protein": 2,
+    "fat": 5,
+    "sugar": 15
+  },
+  "rasgulla": {
+    "calories": 120,
+    "protein": 3,
+    "fat": 1,
+    "sugar": 18
+  },
+  "jalebi": {
+    "calories": 200,
+    "protein": 1,
+    "fat": 5,
+    "sugar": 25
+  },
+  "kaju katli": {
+    "calories": 110,
+    "protein": 2,
+    "fat": 6,
+    "sugar": 8
+  },
+  "besan laddoo": {
+    "calories": 180,
+    "protein": 3,
+    "fat": 10,
+    "sugar": 12
+  },
+  "gajar ka halwa": {
+    "calories": 300,
+    "protein": 6,
+    "fat": 15,
+    "sugar": 20
+  },
+  "kheer": {
+    "calories": 220,
+    "protein": 5,
+    "fat": 8,
+    "sugar": 18
+  },
+  "rasmalai": {
+    "calories": 250,
+    "protein": 8,
+    "fat": 12,
+    "sugar": 22
+  },
+  "mysore pak": {
+    "calories": 320,
+    "protein": 3,
+    "fat": 20,
+    "sugar": 25
+  },
+  "soan papdi": {
+    "calories": 250,
+    "protein": 2,
+    "fat": 12,
+    "sugar": 22
+  },
+  "peda": {
+    "calories": 180,
+    "protein": 3,
+    "fat": 6,
+    "sugar": 16
+  },
+  "modak": {
+    "calories": 150,
+    "protein": 2,
+    "fat": 4,
+    "sugar": 12
+  },
+  "ghevar": {
+    "calories": 450,
+    "protein": 4,
+    "fat": 25,
+    "sugar": 35
+  },
+  "cham cham": {
+    "calories": 180,
+    "protein": 3,
+    "fat": 4,
+    "sugar": 22
+  },
+  "sandesh": {
+    "calories": 140,
+    "protein": 5,
+    "fat": 6,
+    "sugar": 14
+  },
+  "malpua": {
+    "calories": 300,
+    "protein": 4,
+    "fat": 15,
+    "sugar": 28
+  },
+  "kalakand": {
+    "calories": 220,
+    "protein": 7,
+    "fat": 12,
+    "sugar": 18
+  },
+  "gujiya": {
+    "calories": 260,
+    "protein": 4,
+    "fat": 14,
+    "sugar": 16
+  },
+  "petha": {
+    "calories": 120,
+    "protein": 0,
+    "fat": 0,
+    "sugar": 28
+  },
+  "falooda": {
+    "calories": 350,
+    "protein": 8,
+    "fat": 12,
+    "sugar": 35
+  },
+  "halwa": {
+    "calories": 290,
+    "protein": 4,
+    "fat": 14,
+    "sugar": 22
+  },
+  "suji halwa": {
+    "calories": 270,
+    "protein": 5,
+    "fat": 12,
+    "sugar": 20
+  },
+  "moong dal halwa": {
+    "calories": 380,
+    "protein": 8,
+    "fat": 20,
+    "sugar": 28
+  },
+  "atte ka halwa": {
+    "calories": 310,
+    "protein": 6,
+    "fat": 14,
+    "sugar": 24
+  },
+  "badam halwa": {
+    "calories": 420,
+    "protein": 10,
+    "fat": 25,
+    "sugar": 30
+  },
+  "dudhi halwa": {
+    "calories": 250,
+    "protein": 5,
+    "fat": 12,
+    "sugar": 20
+  },
+  "kela halwa": {
+    "calories": 240,
+    "protein": 3,
+    "fat": 10,
+    "sugar": 22
+  },
+  "coconut burfi": {
+    "calories": 280,
+    "protein": 3,
+    "fat": 16,
+    "sugar": 24
+  },
+  "milk burfi": {
+    "calories": 260,
+    "protein": 6,
+    "fat": 12,
+    "sugar": 24
+  },
+  "kaju burfi": {
+    "calories": 350,
+    "protein": 6,
+    "fat": 18,
+    "sugar": 28
+  },
+  "anjeer barfi": {
+    "calories": 290,
+    "protein": 4,
+    "fat": 12,
+    "sugar": 28
+  },
+  "kesar barfi": {
+    "calories": 280,
+    "protein": 5,
+    "fat": 12,
+    "sugar": 26
+  },
+  "chocolate barfi": {
+    "calories": 320,
+    "protein": 5,
+    "fat": 16,
+    "sugar": 28
+  },
+  "churma laddoo": {
+    "calories": 320,
+    "protein": 5,
+    "fat": 15,
+    "sugar": 22
+  },
+  "rava laddoo": {
+    "calories": 200,
+    "protein": 3,
+    "fat": 10,
+    "sugar": 15
+  },
+  "coconut laddoo": {
+    "calories": 220,
+    "protein": 2,
+    "fat": 12,
+    "sugar": 18
+  },
+  "til laddoo": {
+    "calories": 380,
+    "protein": 9,
+    "fat": 22,
+    "sugar": 20
+  },
+  "peanut laddoo": {
+    "calories": 360,
+    "protein": 10,
+    "fat": 20,
+    "sugar": 18
+  },
+  "dry fruit laddoo": {
+    "calories": 340,
+    "protein": 7,
+    "fat": 18,
+    "sugar": 22
+  },
+  "khoya laddoo": {
+    "calories": 290,
+    "protein": 7,
+    "fat": 14,
+    "sugar": 22
+  },
+  "paneer kheer": {
+    "calories": 260,
+    "protein": 10,
+    "fat": 12,
+    "sugar": 22
+  },
+  "sabudana kheer": {
+    "calories": 230,
+    "protein": 4,
+    "fat": 8,
+    "sugar": 20
+  },
+  "vermicelli kheer": {
+    "calories": 240,
+    "protein": 5,
+    "fat": 8,
+    "sugar": 22
+  },
+  "bread kheer": {
+    "calories": 250,
+    "protein": 6,
+    "fat": 9,
+    "sugar": 24
+  },
+  "makhana kheer": {
+    "calories": 200,
+    "protein": 5,
+    "fat": 6,
+    "sugar": 18
+  },
+  "payasam": {
+    "calories": 220,
+    "protein": 5,
+    "fat": 8,
+    "sugar": 20
+  },
+  "ada pradhaman": {
+    "calories": 290,
+    "protein": 4,
+    "fat": 14,
+    "sugar": 28
+  },
+  "palada payasam": {
+    "calories": 270,
+    "protein": 6,
+    "fat": 10,
+    "sugar": 26
+  },
+  "ksheerbhath": {
+    "calories": 250,
+    "protein": 6,
+    "fat": 8,
+    "sugar": 22
+  },
+  "kesari": {
+    "calories": 260,
+    "protein": 3,
+    "fat": 10,
+    "sugar": 22
+  },
+  "palkova": {
+    "calories": 350,
+    "protein": 8,
+    "fat": 14,
+    "sugar": 30
+  },
+  "sweet pongal": {
+    "calories": 310,
+    "protein": 7,
+    "fat": 10,
+    "sugar": 24
+  },
+  "ariselu": {
+    "calories": 380,
+    "protein": 5,
+    "fat": 14,
+    "sugar": 32
+  },
+  "badusha": {
+    "calories": 320,
+    "protein": 4,
+    "fat": 16,
+    "sugar": 26
+  },
+  "chandrakala": {
+    "calories": 300,
+    "protein": 5,
+    "fat": 14,
+    "sugar": 24
+  },
+  "balushahi": {
+    "calories": 340,
+    "protein": 4,
+    "fat": 18,
+    "sugar": 26
+  },
+  "imarti": {
+    "calories": 220,
+    "protein": 3,
+    "fat": 6,
+    "sugar": 28
+  },
+  "pantua": {
+    "calories": 160,
+    "protein": 3,
+    "fat": 6,
+    "sugar": 16
+  },
+  "ledikeni": {
+    "calories": 170,
+    "protein": 3,
+    "fat": 6,
+    "sugar": 18
+  },
+  "chomchom": {
+    "calories": 175,
+    "protein": 3,
+    "fat": 4,
+    "sugar": 22
+  },
+  "sitabhog": {
+    "calories": 190,
+    "protein": 3,
+    "fat": 5,
+    "sugar": 24
+  },
+  "moa": {
+    "calories": 380,
+    "protein": 8,
+    "fat": 16,
+    "sugar": 28
+  },
+  "khirmohan": {
+    "calories": 180,
+    "protein": 4,
+    "fat": 5,
+    "sugar": 20
+  },
+  "rajbhog": {
+    "calories": 155,
+    "protein": 3,
+    "fat": 5,
+    "sugar": 18
+  },
+  "angoori gulab jamun": {
+    "calories": 130,
+    "protein": 2,
+    "fat": 4,
+    "sugar": 14
+  },
+  "malai ladoo": {
+    "calories": 260,
+    "protein": 6,
+    "fat": 14,
+    "sugar": 20
+  },
+  "chiroti": {
+    "calories": 310,
+    "protein": 5,
+    "fat": 15,
+    "sugar": 22
+  },
+  "dharwad peda": {
+    "calories": 200,
+    "protein": 4,
+    "fat": 8,
+    "sugar": 18
+  },
+  "belgaum kunda": {
+    "calories": 280,
+    "protein": 6,
+    "fat": 12,
+    "sugar": 24
+  },
+  "karadant": {
+    "calories": 350,
+    "protein": 8,
+    "fat": 18,
+    "sugar": 22
+  },
+  "tilgul": {
+    "calories": 380,
+    "protein": 9,
+    "fat": 22,
+    "sugar": 20
+  },
+  "chikki": {
+    "calories": 400,
+    "protein": 10,
+    "fat": 22,
+    "sugar": 24
+  },
+  "peanut chikki": {
+    "calories": 410,
+    "protein": 12,
+    "fat": 22,
+    "sugar": 22
+  },
+  "til chikki": {
+    "calories": 420,
+    "protein": 9,
+    "fat": 24,
+    "sugar": 22
+  },
+  "dry fruit chikki": {
+    "calories": 390,
+    "protein": 8,
+    "fat": 20,
+    "sugar": 24
+  },
+  "idar ghevar": {
+    "calories": 460,
+    "protein": 4,
+    "fat": 26,
+    "sugar": 36
+  },
+  "mawa jalebi": {
+    "calories": 280,
+    "protein": 5,
+    "fat": 10,
+    "sugar": 30
+  },
+  "rabri": {
+    "calories": 260,
+    "protein": 8,
+    "fat": 12,
+    "sugar": 22
+  },
+  "basundi": {
+    "calories": 250,
+    "protein": 8,
+    "fat": 10,
+    "sugar": 24
+  },
+  "kulfi": {
+    "calories": 220,
+    "protein": 5,
+    "fat": 10,
+    "sugar": 22
+  },
+  "mango kulfi": {
+    "calories": 240,
+    "protein": 4,
+    "fat": 10,
+    "sugar": 26
+  },
+  "rose kulfi": {
+    "calories": 220,
+    "protein": 5,
+    "fat": 10,
+    "sugar": 22
+  },
+  "pista kulfi": {
+    "calories": 260,
+    "protein": 6,
+    "fat": 14,
+    "sugar": 22
+  },
+  "phirni": {
+    "calories": 190,
+    "protein": 5,
+    "fat": 6,
+    "sugar": 20
+  },
+  "qubani ka meetha": {
+    "calories": 280,
+    "protein": 4,
+    "fat": 8,
+    "sugar": 38
+  },
+  "double ka meetha": {
+    "calories": 380,
+    "protein": 6,
+    "fat": 16,
+    "sugar": 40
+  },
+  "sheer khurma": {
+    "calories": 350,
+    "protein": 9,
+    "fat": 14,
+    "sugar": 32
+  },
+  "sewian": {
+    "calories": 250,
+    "protein": 6,
+    "fat": 8,
+    "sugar": 24
+  },
+  "zarda": {
+    "calories": 320,
+    "protein": 5,
+    "fat": 10,
+    "sugar": 36
+  },
+  "meetha pua": {
+    "calories": 280,
+    "protein": 5,
+    "fat": 12,
+    "sugar": 24
+  },
+  "sweet boondi": {
+    "calories": 350,
+    "protein": 5,
+    "fat": 14,
+    "sugar": 30
+  },
+  "meethi shakarpara": {
+    "calories": 460,
+    "protein": 7,
+    "fat": 20,
+    "sugar": 28
+  },
+  "shawarma": {
+    "calories": 350,
+    "protein": 22,
+    "fat": 18,
+    "sugar": 3
+  },
+  "hot dog": {
+    "calories": 290,
+    "protein": 12,
+    "fat": 18,
+    "sugar": 4
+  },
+  "mcaloo tikki burger": {
+    "calories": 320,
+    "protein": 7,
+    "fat": 14,
+    "sugar": 6
+  },
+  "mcchicken burger": {
+    "calories": 400,
+    "protein": 20,
+    "fat": 20,
+    "sugar": 5
+  },
+  "big mac": {
+    "calories": 550,
+    "protein": 26,
+    "fat": 30,
+    "sugar": 9
+  },
+  "whopper": {
+    "calories": 660,
+    "protein": 28,
+    "fat": 40,
+    "sugar": 11
+  },
+  "chicken nuggets 6pc": {
+    "calories": 280,
+    "protein": 15,
+    "fat": 17,
+    "sugar": 0
+  },
+  "chicken nuggets 9pc": {
+    "calories": 420,
+    "protein": 23,
+    "fat": 25,
+    "sugar": 0
+  },
+  "crispy chicken burger": {
+    "calories": 490,
+    "protein": 24,
+    "fat": 26,
+    "sugar": 7
+  },
+  "grilled chicken burger": {
+    "calories": 380,
+    "protein": 28,
+    "fat": 16,
+    "sugar": 6
+  },
+  "cheese burger": {
+    "calories": 400,
+    "protein": 18,
+    "fat": 22,
+    "sugar": 7
+  },
+  "double patty burger": {
+    "calories": 580,
+    "protein": 32,
+    "fat": 34,
+    "sugar": 8
+  },
+  "veg burger": {
+    "calories": 300,
+    "protein": 8,
+    "fat": 12,
+    "sugar": 6
+  },
+  "paneer burger": {
+    "calories": 360,
+    "protein": 14,
+    "fat": 18,
+    "sugar": 6
+  },
+  "aloo tikki burger": {
+    "calories": 320,
+    "protein": 6,
+    "fat": 14,
+    "sugar": 7
+  },
+  "margherita pizza": {
+    "calories": 270,
+    "protein": 11,
+    "fat": 10,
+    "sugar": 4
+  },
+  "pepperoni pizza": {
+    "calories": 340,
+    "protein": 15,
+    "fat": 16,
+    "sugar": 4
+  },
+  "bbq chicken pizza": {
+    "calories": 360,
+    "protein": 18,
+    "fat": 14,
+    "sugar": 8
+  },
+  "veggie supreme pizza": {
+    "calories": 280,
+    "protein": 10,
+    "fat": 10,
+    "sugar": 5
+  },
+  "paneer tikka pizza": {
+    "calories": 320,
+    "protein": 14,
+    "fat": 14,
+    "sugar": 5
+  },
+  "farmhouse pizza": {
+    "calories": 290,
+    "protein": 12,
+    "fat": 12,
+    "sugar": 4
+  },
+  "cheese burst pizza": {
+    "calories": 420,
+    "protein": 16,
+    "fat": 22,
+    "sugar": 5
+  },
+  "stuffed crust pizza": {
+    "calories": 400,
+    "protein": 16,
+    "fat": 20,
+    "sugar": 5
+  },
+  "pasta arrabiata": {
+    "calories": 290,
+    "protein": 9,
+    "fat": 8,
+    "sugar": 5
+  },
+  "mac and cheese": {
+    "calories": 350,
+    "protein": 12,
+    "fat": 14,
+    "sugar": 4
+  },
+  "loaded fries": {
+    "calories": 480,
+    "protein": 12,
+    "fat": 26,
+    "sugar": 3
+  },
+  "peri peri fries": {
+    "calories": 390,
+    "protein": 5,
+    "fat": 18,
+    "sugar": 1
+  },
+  "cheese fries": {
+    "calories": 430,
+    "protein": 10,
+    "fat": 22,
+    "sugar": 2
+  },
+  "chicken wrap": {
+    "calories": 380,
+    "protein": 22,
+    "fat": 16,
+    "sugar": 4
+  },
+  "veg wrap": {
+    "calories": 290,
+    "protein": 8,
+    "fat": 10,
+    "sugar": 5
+  },
+  "paneer wrap": {
+    "calories": 350,
+    "protein": 14,
+    "fat": 16,
+    "sugar": 5
+  },
+  "spring roll": {
+    "calories": 200,
+    "protein": 4,
+    "fat": 10,
+    "sugar": 3
+  },
+  "veg spring roll": {
+    "calories": 190,
+    "protein": 4,
+    "fat": 9,
+    "sugar": 3
+  },
+  "chicken spring roll": {
+    "calories": 220,
+    "protein": 8,
+    "fat": 10,
+    "sugar": 3
+  },
+  "noodles hakka": {
+    "calories": 350,
+    "protein": 8,
+    "fat": 12,
+    "sugar": 4
+  },
+  "fried rice": {
+    "calories": 380,
+    "protein": 8,
+    "fat": 14,
+    "sugar": 3
+  },
+  "chow mein": {
+    "calories": 360,
+    "protein": 10,
+    "fat": 12,
+    "sugar": 5
+  },
+  "manchurian": {
+    "calories": 300,
+    "protein": 8,
+    "fat": 14,
+    "sugar": 8
+  },
+  "veg manchurian": {
+    "calories": 280,
+    "protein": 6,
+    "fat": 12,
+    "sugar": 8
+  },
+  "chicken manchurian": {
+    "calories": 340,
+    "protein": 18,
+    "fat": 16,
+    "sugar": 6
+  },
+  "honey chilli potato": {
+    "calories": 380,
+    "protein": 5,
+    "fat": 16,
+    "sugar": 18
+  },
+  "chilli paneer": {
+    "calories": 360,
+    "protein": 16,
+    "fat": 20,
+    "sugar": 10
+  },
+  "chilli chicken": {
+    "calories": 380,
+    "protein": 24,
+    "fat": 20,
+    "sugar": 8
+  },
+  "kung pao chicken": {
+    "calories": 400,
+    "protein": 28,
+    "fat": 22,
+    "sugar": 6
+  },
+  "schezwan noodles": {
+    "calories": 370,
+    "protein": 8,
+    "fat": 13,
+    "sugar": 5
+  },
+  "schezwan fried rice": {
+    "calories": 390,
+    "protein": 8,
+    "fat": 14,
+    "sugar": 5
+  },
+  "american chopsuey": {
+    "calories": 450,
+    "protein": 10,
+    "fat": 18,
+    "sugar": 16
+  },
+  "tacos": {
+    "calories": 210,
+    "protein": 10,
+    "fat": 10,
+    "sugar": 2
+  },
+  "nachos": {
+    "calories": 480,
+    "protein": 10,
+    "fat": 26,
+    "sugar": 3
+  },
+  "quesadilla": {
+    "calories": 430,
+    "protein": 18,
+    "fat": 22,
+    "sugar": 3
+  },
+  "burrito": {
+    "calories": 490,
+    "protein": 20,
+    "fat": 20,
+    "sugar": 5
+  },
+  "doner kebab": {
+    "calories": 380,
+    "protein": 24,
+    "fat": 18,
+    "sugar": 4
+  },
+  "falafel wrap": {
+    "calories": 350,
+    "protein": 12,
+    "fat": 14,
+    "sugar": 5
+  },
+  "gyro": {
+    "calories": 400,
+    "protein": 24,
+    "fat": 20,
+    "sugar": 3
+  },
+  "chicken tikka roll": {
+    "calories": 360,
+    "protein": 20,
+    "fat": 14,
+    "sugar": 4
+  },
+  "seekh kebab roll": {
+    "calories": 350,
+    "protein": 18,
+    "fat": 14,
+    "sugar": 4
+  },
+  "club sandwich": {
+    "calories": 420,
+    "protein": 22,
+    "fat": 18,
+    "sugar": 5
+  },
+  "cheese toast": {
+    "calories": 280,
+    "protein": 10,
+    "fat": 14,
+    "sugar": 4
+  },
+  "garlic bread": {
+    "calories": 300,
+    "protein": 6,
+    "fat": 14,
+    "sugar": 2
+  },
+  "cheesy garlic bread": {
+    "calories": 370,
+    "protein": 10,
+    "fat": 20,
+    "sugar": 2
+  },
+  "stuffed mushrooms": {
+    "calories": 200,
+    "protein": 6,
+    "fat": 12,
+    "sugar": 3
+  },
+  "potato wedges": {
+    "calories": 290,
+    "protein": 4,
+    "fat": 12,
+    "sugar": 1
+  },
+  "onion rings": {
+    "calories": 380,
+    "protein": 6,
+    "fat": 20,
+    "sugar": 5
+  },
+  "coleslaw": {
+    "calories": 150,
+    "protein": 2,
+    "fat": 10,
+    "sugar": 8
+  },
+  "corn on the cob": {
+    "calories": 100,
+    "protein": 3,
+    "fat": 2,
+    "sugar": 6
+  },
+  "corn dog": {
+    "calories": 380,
+    "protein": 12,
+    "fat": 20,
+    "sugar": 8
+  },
+  "fish and chips": {
+    "calories": 520,
+    "protein": 24,
+    "fat": 28,
+    "sugar": 2
+  },
+  "fried chicken": {
+    "calories": 380,
+    "protein": 24,
+    "fat": 22,
+    "sugar": 1
+  },
+  "chicken popcorn": {
+    "calories": 300,
+    "protein": 18,
+    "fat": 16,
+    "sugar": 2
+  },
+  "chicken strips": {
+    "calories": 330,
+    "protein": 22,
+    "fat": 16,
+    "sugar": 2
+  },
+  "pita bread": {
+    "calories": 170,
+    "protein": 6,
+    "fat": 1,
+    "sugar": 1
+  },
+  "hummus wrap": {
+    "calories": 320,
+    "protein": 10,
+    "fat": 12,
+    "sugar": 4
+  },
+  "cold coffee": {
+    "calories": 180,
+    "protein": 4,
+    "fat": 6,
+    "sugar": 22
+  },
+  "milkshake vanilla": {
+    "calories": 290,
+    "protein": 8,
+    "fat": 10,
+    "sugar": 40
+  },
+  "milkshake chocolate": {
+    "calories": 320,
+    "protein": 8,
+    "fat": 12,
+    "sugar": 46
+  },
+  "smoothie berry": {
+    "calories": 160,
+    "protein": 3,
+    "fat": 1,
+    "sugar": 28
+  },
+  "soda drink": {
+    "calories": 140,
+    "protein": 0,
+    "fat": 0,
+    "sugar": 38
+  },
+  "lemonade": {
+    "calories": 100,
+    "protein": 0,
+    "fat": 0,
+    "sugar": 26
+  },
+  "ice cream sundae": {
+    "calories": 380,
+    "protein": 6,
+    "fat": 16,
+    "sugar": 52
+  },
+  "chocolate brownie": {
+    "calories": 350,
+    "protein": 4,
+    "fat": 18,
+    "sugar": 38
+  },
+  "muffin blueberry": {
+    "calories": 360,
+    "protein": 5,
+    "fat": 14,
+    "sugar": 32
+  },
+  "donut": {
+    "calories": 300,
+    "protein": 4,
+    "fat": 14,
+    "sugar": 22
+  },
+  "waffle": {
+    "calories": 310,
+    "protein": 8,
+    "fat": 12,
+    "sugar": 14
+  },
+  "pancake": {
+    "calories": 260,
+    "protein": 7,
+    "fat": 10,
+    "sugar": 12
+  },
+  "french toast": {
+    "calories": 280,
+    "protein": 9,
+    "fat": 12,
+    "sugar": 14
+  },
+  "oats": {
+    "calories": 389,
+    "protein": 16,
+    "fat": 6,
+    "sugar": 0
+  },
+  "peanut butter": {
+    "calories": 588,
+    "protein": 25,
+    "fat": 50,
+    "sugar": 9
+  },
+  "almonds": {
+    "calories": 579,
+    "protein": 21,
+    "fat": 49,
+    "sugar": 4
+  },
+  "walnuts": {
+    "calories": 654,
+    "protein": 15,
+    "fat": 65,
+    "sugar": 2
+  },
+  "cashews": {
+    "calories": 553,
+    "protein": 18,
+    "fat": 43,
+    "sugar": 5
+  },
+  "pistachios": {
+    "calories": 562,
+    "protein": 20,
+    "fat": 45,
+    "sugar": 7
+  },
+  "millet": {
+    "calories": 378,
+    "protein": 11,
+    "fat": 4.2,
+    "sugar": 0
+  },
+  "quinoa": {
+    "calories": 120,
+    "protein": 4.4,
+    "fat": 1.9,
+    "sugar": 0.9
+  },
+  "brown rice": {
+    "calories": 112,
+    "protein": 2.6,
+    "fat": 0.9,
+    "sugar": 0.4
+  },
+  "chia seeds": {
+    "calories": 486,
+    "protein": 16.5,
+    "fat": 30.7,
+    "sugar": 0
+  },
+  "flax seeds": {
+    "calories": 534,
+    "protein": 18.3,
+    "fat": 42.2,
+    "sugar": 1.5
+  },
+  "pumpkin seeds": {
+    "calories": 559,
+    "protein": 30.2,
+    "fat": 49.1,
+    "sugar": 1.4
+  },
+  "sunflower seeds": {
+    "calories": 584,
+    "protein": 20.8,
+    "fat": 51.5,
+    "sugar": 2.6
+  },
+  "sweet lassi": {
+    "calories": 220,
+    "protein": 6,
+    "fat": 8,
+    "sugar": 24
+  },
+  "masala chaas": {
+    "calories": 60,
+    "protein": 3,
+    "fat": 2,
+    "sugar": 3
+  },
+  "filter coffee": {
+    "calories": 120,
+    "protein": 3,
+    "fat": 4,
+    "sugar": 12
+  },
+  "masala chai": {
+    "calories": 100,
+    "protein": 2,
+    "fat": 3,
+    "sugar": 10
+  },
+  "thandai": {
+    "calories": 250,
+    "protein": 7,
+    "fat": 12,
+    "sugar": 20
+  },
+  "aam panna": {
+    "calories": 90,
+    "protein": 0,
+    "fat": 0,
+    "sugar": 22
+  },
+  "jaljeera": {
+    "calories": 40,
+    "protein": 1,
+    "fat": 0,
+    "sugar": 5
+  },
+  "badam milk": {
+    "calories": 240,
+    "protein": 8,
+    "fat": 10,
+    "sugar": 22
+  }
+}
