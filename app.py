@@ -1,5 +1,4 @@
 from flask import Flask, render_template, request
-from clarifai.client.model import Model
 import json
 import os
 from flask_cors import CORS
