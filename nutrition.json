@@ -38,7 +38,7 @@
     "calories": 130,
     "protein": 2.7,
     "fat": 0.3,
-    "sugar": 0,
+    "sugar": 0.5,
     "carbohydrates": 28
   },
   "chicken": {
@@ -101,7 +101,7 @@
     "calories": 265,
     "protein": 18,
     "fat": 20,
-    "sugar": 1.7,
+    "sugar": 2.7,
     "carbohydrates": 3.4
   },
   "dal": {
@@ -115,7 +115,7 @@
     "calories": 297,
     "protein": 9.9,
     "fat": 3.7,
-    "sugar": 0,
+    "sugar": 1.2,
     "carbohydrates": 57
   },
   "dosa": {
@@ -126,11 +126,11 @@
     "carbohydrates": 25
   },
   "idli": {
-    "calories": 39,
-    "protein": 1.9,
-    "fat": 0.2,
-    "sugar": 0,
-    "carbohydrates": 8
+    "calories": 130,
+    "protein": 4.5,
+    "fat": 0.4,
+    "sugar": 0.5,
+    "carbohydrates": 28
   },
   "samosa": {
     "calories": 262,
@@ -276,7 +276,7 @@
     "calories": 130,
     "protein": 4,
     "fat": 3,
-    "sugar": 3,
+    "sugar": 0.2,
     "carbohydrates": 22
   },
   "lemon rice": {
@@ -332,7 +332,7 @@
     "calories": 173,
     "protein": 8,
     "fat": 9,
-    "sugar": 3,
+    "sugar": 0.2,
     "carbohydrates": 18
   },
   "dal tadka": {
@@ -367,7 +367,7 @@
     "calories": 42,
     "protein": 1.4,
     "fat": 1.5,
-    "sugar": 1,
+    "sugar": 4.0,
     "carbohydrates": 6
   },
   "moong dal": {
@@ -1884,7 +1884,7 @@
   },
   "curd": {
     "calories": 98,
-    "protein": 11,
+    "protein": 4,
     "fat": 4.7,
     "sugar": 3.4,
     "carbohydrates": 3.4
@@ -1912,7 +1912,7 @@
   },
   "dahi": {
     "calories": 98,
-    "protein": 11,
+    "protein": 4,
     "fat": 4.7,
     "sugar": 3.4,
     "carbohydrates": 3.4
