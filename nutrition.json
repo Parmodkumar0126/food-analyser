@@ -538,6 +538,13 @@
     "sugar": 2,
     "carbohydrates": 6
   },
+  "fish": {
+  "calories": 100,
+  "protein": 20,
+  "fat": 2,
+  "sugar": 0,
+  "carbohydrates": 0
+}
   "egg curry": {
     "calories": 158,
     "protein": 10,
