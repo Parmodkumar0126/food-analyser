@@ -5486,5 +5486,523 @@
     "fat": 8,
     "sugar": 16,
     "carbohydrates": 16
-  }
+  },
+  "ghee": {
+    "calories": 900,
+    "protein": 0,
+    "fat": 100,
+    "sugar": 0,
+    "carbohydrates": 0
+  },
+  "desi ghee": {
+    "calories": 900,
+    "protein": 0,
+    "fat": 100,
+    "sugar": 0,
+    "carbohydrates": 0
+  },
+  "cow ghee": {
+    "calories": 900,
+    "protein": 0,
+    "fat": 100,
+    "sugar": 0,
+    "carbohydrates": 0
+  },
+  "buffalo ghee": {
+    "calories": 902,
+    "protein": 0,
+    "fat": 100,
+    "sugar": 0,
+    "carbohydrates": 0
+  },
+  "clarified butter": {
+    "calories": 900,
+    "protein": 0,
+    "fat": 100,
+    "sugar": 0,
+    "carbohydrates": 0
+  },
+  "butter": {
+    "calories": 717,
+    "protein": 0.9,
+    "fat": 81,
+    "sugar": 0.1,
+    "carbohydrates": 0.1
+  },
+  "salted butter": {
+    "calories": 717,
+    "protein": 0.9,
+    "fat": 81,
+    "sugar": 0.1,
+    "carbohydrates": 0.1
+  },
+  "unsalted butter": {
+    "calories": 717,
+    "protein": 0.9,
+    "fat": 81,
+    "sugar": 0.1,
+    "carbohydrates": 0.1
+  },
+  "olive oil": {
+    "calories": 884,
+    "protein": 0,
+    "fat": 100,
+    "sugar": 0,
+    "carbohydrates": 0
+  },
+  "extra virgin olive oil": {
+    "calories": 884,
+    "protein": 0,
+    "fat": 100,
+    "sugar": 0,
+    "carbohydrates": 0
+  },
+  "mustard oil": {
+    "calories": 884,
+    "protein": 0,
+    "fat": 100,
+    "sugar": 0,
+    "carbohydrates": 0
+  },
+  "sunflower oil": {
+    "calories": 884,
+    "protein": 0,
+    "fat": 100,
+    "sugar": 0,
+    "carbohydrates": 0
+  },
+  "soybean oil": {
+    "calories": 884,
+    "protein": 0,
+    "fat": 100,
+    "sugar": 0,
+    "carbohydrates": 0
+  },
+  "groundnut oil": {
+    "calories": 884,
+    "protein": 0,
+    "fat": 100,
+    "sugar": 0,
+    "carbohydrates": 0
+  },
+  "peanut oil": {
+    "calories": 884,
+    "protein": 0,
+    "fat": 100,
+    "sugar": 0,
+    "carbohydrates": 0
+  },
+  "rice bran oil": {
+    "calories": 884,
+    "protein": 0,
+    "fat": 100,
+    "sugar": 0,
+    "carbohydrates": 0
+  },
+  "sesame oil": {
+    "calories": 884,
+    "protein": 0,
+    "fat": 100,
+    "sugar": 0,
+    "carbohydrates": 0
+  },
+  "coconut oil": {
+    "calories": 884,
+    "protein": 0,
+    "fat": 100,
+    "sugar": 0,
+    "carbohydrates": 0
+  },
+  "virgin coconut oil": {
+    "calories": 884,
+    "protein": 0,
+    "fat": 100,
+    "sugar": 0,
+    "carbohydrates": 0
+  },
+  "canola oil": {
+    "calories": 884,
+    "protein": 0,
+    "fat": 100,
+    "sugar": 0,
+    "carbohydrates": 0
+  },
+  "corn oil": {
+    "calories": 884,
+    "protein": 0,
+    "fat": 100,
+    "sugar": 0,
+    "carbohydrates": 0
+  },
+  "palm oil": {
+    "calories": 884,
+    "protein": 0,
+    "fat": 100,
+    "sugar": 0,
+    "carbohydrates": 0
+  },
+  "palm kernel oil": {
+    "calories": 884,
+    "protein": 0,
+    "fat": 100,
+    "sugar": 0,
+    "carbohydrates": 0
+  },
+  "vegetable oil": {
+    "calories": 884,
+    "protein": 0,
+    "fat": 100,
+    "sugar": 0,
+    "carbohydrates": 0
+  },
+  "avocado oil": {
+    "calories": 884,
+    "protein": 0,
+    "fat": 100,
+    "sugar": 0,
+    "carbohydrates": 0
+  },
+  "walnut oil": {
+    "calories": 884,
+    "protein": 0,
+    "fat": 100,
+    "sugar": 0,
+    "carbohydrates": 0
+  },
+  "almond oil": {
+    "calories": 884,
+    "protein": 0,
+    "fat": 100,
+    "sugar": 0,
+    "carbohydrates": 0
+  },
+  "hazelnut oil": {
+    "calories": 884,
+    "protein": 0,
+    "fat": 100,
+    "sugar": 0,
+    "carbohydrates": 0
+  },
+  "grapeseed oil": {
+    "calories": 884,
+    "protein": 0,
+    "fat": 100,
+    "sugar": 0,
+    "carbohydrates": 0
+  },
+  "flaxseed oil": {
+    "calories": 884,
+    "protein": 0,
+    "fat": 100,
+    "sugar": 0,
+    "carbohydrates": 0
+  },
+  "macadamia oil": {
+    "calories": 884,
+    "protein": 0,
+    "fat": 100,
+    "sugar": 0,
+    "carbohydrates": 0
+  },
+  "cottonseed oil": {
+    "calories": 884,
+    "protein": 0,
+    "fat": 100,
+    "sugar": 0,
+    "carbohydrates": 0
+  },
+  "safflower oil": {
+    "calories": 884,
+    "protein": 0,
+    "fat": 100,
+    "sugar": 0,
+    "carbohydrates": 0
+  },
+  "vanaspati": {
+    "calories": 900,
+    "protein": 0,
+    "fat": 100,
+    "sugar": 0,
+    "carbohydrates": 0
+  },
+  "margarine": {
+    "calories": 717,
+    "protein": 0.2,
+    "fat": 81,
+    "sugar": 0,
+    "carbohydrates": 0.7
+  },
+  "mayonnaise": {
+    "calories": 680,
+    "protein": 1,
+    "fat": 75,
+    "sugar": 1,
+    "carbohydrates": 1
+  },
+  "garlic mayonnaise": {
+    "calories": 690,
+    "protein": 1,
+    "fat": 76,
+    "sugar": 1,
+    "carbohydrates": 2
+  },
+  "egg mayonnaise": {
+    "calories": 680,
+    "protein": 1,
+    "fat": 75,
+    "sugar": 1,
+    "carbohydrates": 1
+  },
+  "heavy cream": {
+    "calories": 340,
+    "protein": 2,
+    "fat": 36,
+    "sugar": 3,
+    "carbohydrates": 3
+  },
+  "fresh cream": {
+    "calories": 345,
+    "protein": 2,
+    "fat": 37,
+    "sugar": 3,
+    "carbohydrates": 3
+  },
+  "whipping cream": {
+    "calories": 340,
+    "protein": 2,
+    "fat": 36,
+    "sugar": 3,
+    "carbohydrates": 3
+  },
+  "coconut cream": {
+    "calories": 330,
+    "protein": 3,
+    "fat": 35,
+    "sugar": 6,
+    "carbohydrates": 7
+  },
+  "cream cheese": {
+    "calories": 342,
+    "protein": 6,
+    "fat": 34,
+    "sugar": 3,
+    "carbohydrates": 4
+  },
+  "cheddar cheese": {
+    "calories": 403,
+    "protein": 25,
+    "fat": 33,
+    "sugar": 0.5,
+    "carbohydrates": 1.3
+  },
+  "mozzarella cheese": {
+    "calories": 280,
+    "protein": 28,
+    "fat": 17,
+    "sugar": 1,
+    "carbohydrates": 3
+  },
+  "processed cheese": {
+    "calories": 330,
+    "protein": 18,
+    "fat": 27,
+    "sugar": 2,
+    "carbohydrates": 5
+  },
+  "cheese spread": {
+    "calories": 295,
+    "protein": 12,
+    "fat": 24,
+    "sugar": 3,
+    "carbohydrates": 7
+  },
+  "peanut butter": {
+    "calories": 588,
+    "protein": 25,
+    "fat": 50,
+    "sugar": 9,
+    "carbohydrates": 20
+  },
+  "almond butter": {
+    "calories": 614,
+    "protein": 21,
+    "fat": 56,
+    "sugar": 4,
+    "carbohydrates": 19
+  },
+  "cashew butter": {
+    "calories": 587,
+    "protein": 18,
+    "fat": 49,
+    "sugar": 6,
+    "carbohydrates": 30
+  },
+  "tahini": {
+    "calories": 595,
+    "protein": 17,
+    "fat": 54,
+    "sugar": 1,
+    "carbohydrates": 21
+  },
+  "lard": {
+    "calories": 902,
+    "protein": 0,
+    "fat": 100,
+    "sugar": 0,
+    "carbohydrates": 0
+  },
+  "beef tallow": {
+    "calories": 902,
+    "protein": 0,
+    "fat": 100,
+    "sugar": 0,
+    "carbohydrates": 0
+  },
+  "duck fat": {
+    "calories": 884,
+    "protein": 0,
+    "fat": 100,
+    "sugar": 0,
+    "carbohydrates": 0
+  },
+  "coca cola": {
+    "calories": 42,
+    "protein": 0,
+    "fat": 0,
+    "sugar": 10.6,
+    "carbohydrates": 10.6
+  },
+  "coca cola zero": {
+    "calories": 1,
+    "protein": 0,
+    "fat": 0,
+    "sugar": 0,
+    "carbohydrates": 0.3
+  },
+  "diet coke": {
+    "calories": 1,
+    "protein": 0,
+    "fat": 0,
+    "sugar": 0,
+    "carbohydrates": 0.3
+  },
+  "pepsi": {
+    "calories": 41,
+    "protein": 0,
+    "fat": 0,
+    "sugar": 10.9,
+    "carbohydrates": 10.9
+  },
+  "pepsi black": {
+    "calories": 1,
+    "protein": 0,
+    "fat": 0,
+    "sugar": 0,
+    "carbohydrates": 0.3
+  },
+  "thumbs up": {
+    "calories": 43,
+    "protein": 0,
+    "fat": 0,
+    "sugar": 10.8,
+    "carbohydrates": 10.8
+  },
+  "sprite": {
+    "calories": 38,
+    "protein": 0,
+    "fat": 0,
+    "sugar": 9.1,
+    "carbohydrates": 9.3
+  },
+  "sprite zero": {
+    "calories": 1,
+    "protein": 0,
+    "fat": 0,
+    "sugar": 0,
+    "carbohydrates": 0.3
+  },
+  "7up": {
+    "calories": 39,
+    "protein": 0,
+    "fat": 0,
+    "sugar": 9.5,
+    "carbohydrates": 9.6
+  },
+  "limca": {
+    "calories": 39,
+    "protein": 0,
+    "fat": 0,
+    "sugar": 9.3,
+    "carbohydrates": 9.5
+  },
+  "mountain dew": {
+    "calories": 46,
+    "protein": 0,
+    "fat": 0,
+    "sugar": 11.3,
+    "carbohydrates": 11.6
+  },
+  "mirinda orange": {
+    "calories": 48,
+    "protein": 0,
+    "fat": 0,
+    "sugar": 11.8,
+    "carbohydrates": 12.0
+  },
+  "mirinda lemon": {
+    "calories": 42,
+    "protein": 0,
+    "fat": 0,
+    "sugar": 10.4,
+    "carbohydrates": 10.6
+  },
+  "fanta orange": {
+    "calories": 46,
+    "protein": 0,
+    "fat": 0,
+    "sugar": 11.2,
+    "carbohydrates": 11.4
+  },
+  "maaza": {
+    "calories": 58,
+    "protein": 0.2,
+    "fat": 0,
+    "sugar": 13.5,
+    "carbohydrates": 14.2
+  },
+  "slice": {
+    "calories": 59,
+    "protein": 0.2,
+    "fat": 0,
+    "sugar": 13.8,
+    "carbohydrates": 14.5
+  },
+  "appy fizz": {
+    "calories": 49,
+    "protein": 0,
+    "fat": 0,
+    "sugar": 12.0,
+    "carbohydrates": 12.3
+  },
+  "b fizz": {
+    "calories": 46,
+    "protein": 0,
+    "fat": 0,
+    "sugar": 11.2,
+    "carbohydrates": 11.5
+  },
+  "sting energy": {
+    "calories": 48,
+    "protein": 0,
+    "fat": 0,
+    "sugar": 11.8,
+    "carbohydrates": 12.0
+  },
+  "red bull": {
+    "calories": 45,
+    "protein": 0,
+    "fat": 0,
+    "sugar": 11.0,
+    "carbohydrates": 11.0
+  },
 }
