@@ -5865,14 +5865,14 @@
     "sugar": 0,
     "carbohydrates": 0
   },
-  "coca cola": {
+  "coke": {
     "calories": 42,
     "protein": 0,
     "fat": 0,
     "sugar": 10.6,
     "carbohydrates": 10.6
   },
-  "coca cola zero": {
+  "coke zero": {
     "calories": 1,
     "protein": 0,
     "fat": 0,
@@ -5914,7 +5914,7 @@
     "sugar": 9.1,
     "carbohydrates": 9.3
   },
-  "sprite zero": {
+  "sprite": {
     "calories": 1,
     "protein": 0,
     "fat": 0,
@@ -5984,14 +5984,14 @@
     "sugar": 12.0,
     "carbohydrates": 12.3
   },
-  "b fizz": {
+  "fizz": {
     "calories": 46,
     "protein": 0,
     "fat": 0,
     "sugar": 11.2,
     "carbohydrates": 11.5
   },
-  "sting energy": {
+  "sting ": {
     "calories": 48,
     "protein": 0,
     "fat": 0,
