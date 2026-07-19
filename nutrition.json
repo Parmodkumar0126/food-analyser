@@ -6004,5 +6004,165 @@
     "fat": 0,
     "sugar": 11.0,
     "carbohydrates": 11.0
+  },
+  "ragi": {
+    "calories": 336,
+    "protein": 7.3,
+    "fat": 1.3,
+    "sugar": 1.5,
+    "carbohydrates": 72.0,
+    "fiber": 11.0
+  },
+  "jowar": {
+    "calories": 329,
+    "protein": 10.4,
+    "fat": 3.1,
+    "sugar": 2.5,
+    "carbohydrates": 72.6,
+    "fiber": 6.7
+  },
+  "bajra": {
+    "calories": 361,
+    "protein": 11.6,
+    "fat": 5.0,
+    "sugar": 1.2,
+    "carbohydrates": 67.5,
+    "fiber": 8.5
+  },
+  "foxtail millet": {
+    "calories": 331,
+    "protein": 12.3,
+    "fat": 4.3,
+    "sugar": 0.8,
+    "carbohydrates": 60.9,
+    "fiber": 8.0
+  },
+  "barnyard millet": {
+    "calories": 307,
+    "protein": 11.2,
+    "fat": 3.9,
+    "sugar": 0.5,
+    "carbohydrates": 55.0,
+    "fiber": 10.1
+  },
+  "little millet": {
+    "calories": 341,
+    "protein": 9.7,
+    "fat": 4.7,
+    "sugar": 0.6,
+    "carbohydrates": 67.0,
+    "fiber": 7.6
+  },
+  "kodo millet": {
+    "calories": 353,
+    "protein": 8.3,
+    "fat": 3.6,
+    "sugar": 0.4,
+    "carbohydrates": 66.6,
+    "fiber": 9.0
+  },
+  "proso millet": {
+    "calories": 356,
+    "protein": 12.5,
+    "fat": 3.5,
+    "sugar": 1.0,
+    "carbohydrates": 70.4,
+    "fiber": 7.0
+  },
+  "pearl millet": {
+    "calories": 361,
+    "protein": 11.6,
+    "fat": 5.0,
+    "sugar": 1.2,
+    "carbohydrates": 67.5,
+    "fiber": 8.5
+  },
+  "finger millet": {
+    "calories": 336,
+    "protein": 7.3,
+    "fat": 1.3,
+    "sugar": 1.5,
+    "carbohydrates": 72.0,
+    "fiber": 11.0
+  },
+  "whole wheat": {
+    "calories": 340,
+    "protein": 13.2,
+    "fat": 2.5,
+    "sugar": 0.4,
+    "carbohydrates": 72.0,
+    "fiber": 12.2
+  },
+  "oats": {
+    "calories": 389,
+    "protein": 16.9,
+    "fat": 6.9,
+    "sugar": 1.0,
+    "carbohydrates": 66.3,
+    "fiber": 10.6
+  },
+  "barley": {
+    "calories": 354,
+    "protein": 12.5,
+    "fat": 2.3,
+    "sugar": 0.8,
+    "carbohydrates": 73.5,
+    "fiber": 17.3
+  },
+  "quinoa": {
+    "calories": 368,
+    "protein": 14.1,
+    "fat": 6.1,
+    "sugar": 4.5,
+    "carbohydrates": 64.2,
+    "fiber": 7.0
+  },
+  "brown rice": {
+    "calories": 370,
+    "protein": 7.9,
+    "fat": 2.9,
+    "sugar": 0.8,
+    "carbohydrates": 77.2,
+    "fiber": 3.5
+  },
+  "buckwheat": {
+    "calories": 343,
+    "protein": 13.3,
+    "fat": 3.4,
+    "sugar": 0.9,
+    "carbohydrates": 71.5,
+    "fiber": 10.0
+  },
+  "amaranth": {
+    "calories": 371,
+    "protein": 13.6,
+    "fat": 7.0,
+    "sugar": 1.7,
+    "carbohydrates": 65.3,
+    "fiber": 6.7
+  },
+  "corn": {
+    "calories": 365,
+    "protein": 9.4,
+    "fat": 4.7,
+    "sugar": 6.3,
+    "carbohydrates": 74.3,
+    "fiber": 7.3
+  },
+  "rye": {
+    "calories": 338,
+    "protein": 10.3,
+    "fat": 1.6,
+    "sugar": 1.0,
+    "carbohydrates": 75.9,
+    "fiber": 15.1
+  },
+  "teff": {
+    "calories": 367,
+    "protein": 13.3,
+    "fat": 2.4,
+    "sugar": 1.8,
+    "carbohydrates": 73.1,
+    "fiber": 8.0
   }
 }
