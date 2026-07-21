@@ -6465,5 +6465,278 @@
     "fat": 4.0,
     "sugar": 20.0,
     "carbohydrates": 24.0
+  },
+   "lays": {
+    "calories": 536,
+    "protein": 7.0,
+    "fat": 35.0,
+    "sugar": 0.5,
+    "carbohydrates": 53.0
+  },
+  "lays_masala": {
+    "calories": 542,
+    "protein": 6.7,
+    "fat": 35.0,
+    "sugar": 2.5,
+    "carbohydrates": 54.5
+  },
+  "lays_onion": {
+    "calories": 540,
+    "protein": 6.8,
+    "fat": 35.5,
+    "sugar": 2.8,
+    "carbohydrates": 54.0
+  },
+  "lays_tomato": {
+    "calories": 539,
+    "protein": 6.5,
+    "fat": 34.8,
+    "sugar": 3.1,
+    "carbohydrates": 55.0
+  },
+  "lays_chilli": {
+    "calories": 541,
+    "protein": 6.6,
+    "fat": 35.2,
+    "sugar": 4.2,
+    "carbohydrates": 54.0
+  },
+  "lays_lime": {
+    "calories": 538,
+    "protein": 6.8,
+    "fat": 34.5,
+    "sugar": 2.0,
+    "carbohydrates": 55.0
+  },
+  "kurkure": {
+    "calories": 547,
+    "protein": 6.7,
+    "fat": 34.0,
+    "sugar": 2.8,
+    "carbohydrates": 56.0
+  },
+  "kurkure_green": {
+    "calories": 545,
+    "protein": 6.5,
+    "fat": 34.2,
+    "sugar": 3.0,
+    "carbohydrates": 56.0
+  },
+  "kurkure_chatka": {
+    "calories": 546,
+    "protein": 6.6,
+    "fat": 34.1,
+    "sugar": 2.9,
+    "carbohydrates": 56.0
+  },
+  "kurkure_hungama": {
+    "calories": 548,
+    "protein": 6.5,
+    "fat": 34.3,
+    "sugar": 3.2,
+    "carbohydrates": 56.5
+  },
+  "doritos": {
+    "calories": 496,
+    "protein": 6.6,
+    "fat": 24.0,
+    "sugar": 2.3,
+    "carbohydrates": 65.0
+  },
+  "doritos_chilli": {
+    "calories": 494,
+    "protein": 6.3,
+    "fat": 24.2,
+    "sugar": 5.2,
+    "carbohydrates": 63.5
+  },
+  "doritos_bbq": {
+    "calories": 497,
+    "protein": 6.4,
+    "fat": 24.5,
+    "sugar": 4.8,
+    "carbohydrates": 64.0
+  },
+  "pringles": {
+    "calories": 536,
+    "protein": 4.8,
+    "fat": 34.0,
+    "sugar": 0.4,
+    "carbohydrates": 53.0
+  },
+  "pringles_bbq": {
+    "calories": 532,
+    "protein": 4.8,
+    "fat": 33.5,
+    "sugar": 4.0,
+    "carbohydrates": 54.0
+  },
+  "pringles_onion": {
+    "calories": 533,
+    "protein": 4.7,
+    "fat": 34.0,
+    "sugar": 2.1,
+    "carbohydrates": 53.5
+  },
+  "pringles_pizza": {
+    "calories": 534,
+    "protein": 4.9,
+    "fat": 34.2,
+    "sugar": 3.5,
+    "carbohydrates": 53.5
+  },
+  "bingo": {
+    "calories": 542,
+    "protein": 6.2,
+    "fat": 34.0,
+    "sugar": 2.8,
+    "carbohydrates": 57.0
+  },
+  "bingo_original": {
+    "calories": 536,
+    "protein": 6.8,
+    "fat": 35.0,
+    "sugar": 0.6,
+    "carbohydrates": 53.0
+  },
+  "bingo_tomato": {
+    "calories": 539,
+    "protein": 6.5,
+    "fat": 34.8,
+    "sugar": 3.0,
+    "carbohydrates": 55.0
+  },
+  "bingo_masala": {
+    "calories": 541,
+    "protein": 6.3,
+    "fat": 34.5,
+    "sugar": 2.9,
+    "carbohydrates": 56.5
+  },
+  "uncle_chips": {
+    "calories": 536,
+    "protein": 7.0,
+    "fat": 35.0,
+    "sugar": 0.5,
+    "carbohydrates": 53.0
+  },
+  "uncle_chips_spicy": {
+    "calories": 538,
+    "protein": 6.9,
+    "fat": 35.0,
+    "sugar": 1.5,
+    "carbohydrates": 54.0
+  },
+  "cheetos": {
+    "calories": 560,
+    "protein": 7.0,
+    "fat": 36.0,
+    "sugar": 1.5,
+    "carbohydrates": 52.0
+  },
+  "cheetos_flamin": {
+    "calories": 562,
+    "protein": 7.1,
+    "fat": 36.5,
+    "sugar": 2.0,
+    "carbohydrates": 51.0
+  },
+  "ruffles": {
+    "calories": 536,
+    "protein": 6.6,
+    "fat": 34.5,
+    "sugar": 0.7,
+    "carbohydrates": 53.5
+  },
+  "takis": {
+    "calories": 540,
+    "protein": 6.0,
+    "fat": 34.0,
+    "sugar": 2.0,
+    "carbohydrates": 56.0
+  },
+  "balaji": {
+    "calories": 535,
+    "protein": 6.8,
+    "fat": 35.0,
+    "sugar": 0.8,
+    "carbohydrates": 53.0
+  },
+  "balaji_masala": {
+    "calories": 539,
+    "protein": 6.7,
+    "fat": 35.2,
+    "sugar": 2.2,
+    "carbohydrates": 54.0
+  },
+  "balaji_tomato": {
+    "calories": 537,
+    "protein": 6.5,
+    "fat": 34.8,
+    "sugar": 3.0,
+    "carbohydrates": 54.5
+  },
+  "haldiram_chips": {
+    "calories": 530,
+    "protein": 6.5,
+    "fat": 33.0,
+    "sugar": 1.0,
+    "carbohydrates": 55.0
+  },
+  "haldiram_masala": {
+    "calories": 533,
+    "protein": 6.6,
+    "fat": 33.5,
+    "sugar": 2.1,
+    "carbohydrates": 55.5
+  },
+  "too_yumm": {
+    "calories": 480,
+    "protein": 9.0,
+    "fat": 22.0,
+    "sugar": 2.0,
+    "carbohydrates": 62.0
+  },
+  "too_yumm_foxnuts": {
+    "calories": 430,
+    "protein": 10.0,
+    "fat": 14.0,
+    "sugar": 1.5,
+    "carbohydrates": 66.0
+  },
+  "too_yumm_multigrain": {
+    "calories": 465,
+    "protein": 11.0,
+    "fat": 18.0,
+    "sugar": 2.2,
+    "carbohydrates": 64.0
+  },
+  "kettle": {
+    "calories": 545,
+    "protein": 6.5,
+    "fat": 35.5,
+    "sugar": 0.8,
+    "carbohydrates": 53.0
+  },
+  "terra": {
+    "calories": 520,
+    "protein": 5.5,
+    "fat": 31.0,
+    "sugar": 6.0,
+    "carbohydrates": 58.0
+  },
+  "popchips": {
+    "calories": 430,
+    "protein": 6.0,
+    "fat": 12.0,
+    "sugar": 2.0,
+    "carbohydrates": 72.0
+  },
+  "sun_chips": {
+    "calories": 490,
+    "protein": 7.5,
+    "fat": 21.0,
+    "sugar": 5.0,
+    "carbohydrates": 68.0
   }
 }
