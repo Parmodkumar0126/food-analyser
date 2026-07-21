@@ -7474,4 +7474,347 @@
     "sugar": 20.0,
     "carbohydrates": 76.0
   },
+   "dairy_milk": {
+    "calories": 534,
+    "protein": 7.3,
+    "fat": 30.0,
+    "sugar": 56.0,
+    "carbohydrates": 59.0
+  },
+  "dairy_milk_silk": {
+    "calories": 540,
+    "protein": 6.8,
+    "fat": 31.0,
+    "sugar": 57.0,
+    "carbohydrates": 58.0
+  },
+  "dairy_milk_fruit_nut": {
+    "calories": 535,
+    "protein": 7.0,
+    "fat": 30.5,
+    "sugar": 54.0,
+    "carbohydrates": 58.0
+  },
+  "dairy_milk_roast_almond": {
+    "calories": 545,
+    "protein": 8.0,
+    "fat": 33.0,
+    "sugar": 50.0,
+    "carbohydrates": 54.0
+  },
+  "dairy_milk_crackle": {
+    "calories": 537,
+    "protein": 7.0,
+    "fat": 30.5,
+    "sugar": 55.0,
+    "carbohydrates": 58.0
+  },
+  "5_star": {
+    "calories": 480,
+    "protein": 5.0,
+    "fat": 21.0,
+    "sugar": 52.0,
+    "carbohydrates": 69.0
+  },
+  "5_star_oreo": {
+    "calories": 486,
+    "protein": 5.2,
+    "fat": 22.0,
+    "sugar": 51.0,
+    "carbohydrates": 68.0
+  },
+  "perk": {
+    "calories": 520,
+    "protein": 5.5,
+    "fat": 27.0,
+    "sugar": 48.0,
+    "carbohydrates": 63.0
+  },
+  "munch": {
+    "calories": 530,
+    "protein": 6.0,
+    "fat": 29.0,
+    "sugar": 50.0,
+    "carbohydrates": 61.0
+  },
+  "fuse": {
+    "calories": 505,
+    "protein": 7.0,
+    "fat": 24.0,
+    "sugar": 46.0,
+    "carbohydrates": 64.0
+  },
+  "temptations": {
+    "calories": 540,
+    "protein": 7.0,
+    "fat": 31.0,
+    "sugar": 54.0,
+    "carbohydrates": 58.0
+  },
+  "silk_bubbly": {
+    "calories": 542,
+    "protein": 6.8,
+    "fat": 31.5,
+    "sugar": 56.0,
+    "carbohydrates": 58.0
+  },
+  "silk_oreo": {
+    "calories": 545,
+    "protein": 6.5,
+    "fat": 32.0,
+    "sugar": 55.0,
+    "carbohydrates": 57.0
+  },
+  "kitkat": {
+    "calories": 518,
+    "protein": 6.3,
+    "fat": 26.0,
+    "sugar": 49.0,
+    "carbohydrates": 64.0
+  },
+  "kitkat_dark": {
+    "calories": 525,
+    "protein": 6.5,
+    "fat": 28.0,
+    "sugar": 46.0,
+    "carbohydrates": 63.0
+  },
+  "kitkat_chunky": {
+    "calories": 522,
+    "protein": 6.4,
+    "fat": 27.0,
+    "sugar": 48.0,
+    "carbohydrates": 64.0
+  },
+  "kitkat_duo": {
+    "calories": 526,
+    "protein": 6.2,
+    "fat": 27.5,
+    "sugar": 49.0,
+    "carbohydrates": 63.0
+  },
+  "snickers": {
+    "calories": 488,
+    "protein": 8.0,
+    "fat": 24.0,
+    "sugar": 47.0,
+    "carbohydrates": 61.0
+  },
+  "mars": {
+    "calories": 449,
+    "protein": 4.5,
+    "fat": 17.0,
+    "sugar": 60.0,
+    "carbohydrates": 69.0
+  },
+  "bounty": {
+    "calories": 486,
+    "protein": 3.8,
+    "fat": 24.0,
+    "sugar": 48.0,
+    "carbohydrates": 63.0
+  },
+  "milkybar": {
+    "calories": 539,
+    "protein": 6.2,
+    "fat": 31.0,
+    "sugar": 57.0,
+    "carbohydrates": 58.0
+  },
+  "galaxy": {
+    "calories": 545,
+    "protein": 6.5,
+    "fat": 31.0,
+    "sugar": 55.0,
+    "carbohydrates": 58.0
+  },
+  "toblerone": {
+    "calories": 535,
+    "protein": 6.0,
+    "fat": 30.0,
+    "sugar": 58.0,
+    "carbohydrates": 59.0
+  },
+  "ferrero_rocher": {
+    "calories": 579,
+    "protein": 8.2,
+    "fat": 42.0,
+    "sugar": 39.0,
+    "carbohydrates": 44.0
+  },
+  "lindt_milk": {
+    "calories": 535,
+    "protein": 7.0,
+    "fat": 31.0,
+    "sugar": 53.0,
+    "carbohydrates": 57.0
+  },
+  "lindt_dark": {
+    "calories": 598,
+    "protein": 8.5,
+    "fat": 43.0,
+    "sugar": 24.0,
+    "carbohydrates": 46.0
+  },
+  "hersheys_milk": {
+    "calories": 535,
+    "protein": 7.0,
+    "fat": 30.0,
+    "sugar": 56.0,
+    "carbohydrates": 59.0
+  },
+  "hersheys_cookies_cream": {
+    "calories": 540,
+    "protein": 6.5,
+    "fat": 31.0,
+    "sugar": 57.0,
+    "carbohydrates": 58.0
+  },
+  "hersheys_dark": {
+    "calories": 560,
+    "protein": 8.0,
+    "fat": 36.0,
+    "sugar": 42.0,
+    "carbohydrates": 51.0
+  },
+  "amul_milk_chocolate": {
+    "calories": 540,
+    "protein": 7.0,
+    "fat": 31.0,
+    "sugar": 55.0,
+    "carbohydrates": 58.0
+  },
+  "amul_dark_chocolate": {
+    "calories": 560,
+    "protein": 8.5,
+    "fat": 38.0,
+    "sugar": 35.0,
+    "carbohydrates": 48.0
+  },
+  "amul_fruit_nut": {
+    "calories": 545,
+    "protein": 7.5,
+    "fat": 32.0,
+    "sugar": 50.0,
+    "carbohydrates": 56.0
+  },
+  "gems": {
+    "calories": 500,
+    "protein": 4.0,
+    "fat": 20.0,
+    "sugar": 65.0,
+    "carbohydrates": 75.0
+  },
+  "kisses": {
+    "calories": 535,
+    "protein": 6.8,
+    "fat": 30.0,
+    "sugar": 56.0,
+    "carbohydrates": 59.0
+  },
+  "crispello": {
+    "calories": 525,
+    "protein": 6.0,
+    "fat": 27.0,
+    "sugar": 50.0,
+    "carbohydrates": 63.0
+  },
+  "milky_way": {
+    "calories": 449,
+    "protein": 4.0,
+    "fat": 16.0,
+    "sugar": 62.0,
+    "carbohydrates": 70.0
+  },
+  "twix": {
+    "calories": 495,
+    "protein": 4.5,
+    "fat": 24.0,
+    "sugar": 48.0,
+    "carbohydrates": 65.0
+  },
+  "milka": {
+    "calories": 535,
+    "protein": 6.5,
+    "fat": 30.0,
+    "sugar": 56.0,
+    "carbohydrates": 58.0
+  },
+  "reo": {
+    "calories": 520,
+    "protein": 6.0,
+    "fat": 27.0,
+    "sugar": 49.0,
+    "carbohydrates": 63.0
+  },
+  "cadbury_nutties": {
+    "calories": 530,
+    "protein": 8.0,
+    "fat": 29.0,
+    "sugar": 47.0,
+    "carbohydrates": 58.0
+  },
+  "cadbury_shots": {
+    "calories": 525,
+    "protein": 6.5,
+    "fat": 28.0,
+    "sugar": 50.0,
+    "carbohydrates": 61.0
+  },
+  "mars_protein": {
+    "calories": 390,
+    "protein": 32.0,
+    "fat": 8.0,
+    "sugar": 30.0,
+    "carbohydrates": 45.0
+  },
+  "snickers_almond": {
+    "calories": 510,
+    "protein": 9.0,
+    "fat": 28.0,
+    "sugar": 43.0,
+    "carbohydrates": 56.0
+  },
+  "kitkat_gold": {
+    "calories": 525,
+    "protein": 6.0,
+    "fat": 27.0,
+    "sugar": 50.0,
+    "carbohydrates": 63.0
+  },
+  "dairy_milk_lickables": {
+    "calories": 532,
+    "protein": 6.5,
+    "fat": 29.0,
+    "sugar": 55.0,
+    "carbohydrates": 60.0
+  },
+  "cadbury_chocobakes": {
+    "calories": 470,
+    "protein": 6.0,
+    "fat": 20.0,
+    "sugar": 30.0,
+    "carbohydrates": 66.0
+  },
+  "nestle_classic": {
+    "calories": 530,
+    "protein": 6.8,
+    "fat": 29.0,
+    "sugar": 54.0,
+    "carbohydrates": 60.0
+  },
+  "nestle_aero": {
+    "calories": 530,
+    "protein": 6.5,
+    "fat": 30.0,
+    "sugar": 53.0,
+    "carbohydrates": 59.0
+  },
+  "lion_bar": {
+    "calories": 500,
+    "protein": 6.0,
+    "fat": 24.0,
+    "sugar": 46.0,
+    "carbohydrates": 64.0
+  },
 }
