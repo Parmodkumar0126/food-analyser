@@ -7124,4 +7124,354 @@
   "sugar": 4.0,
   "carbohydrates": 47.0
 },
+  "parle_g": {
+    "calories": 451,
+    "protein": 6.5,
+    "fat": 11.0,
+    "sugar": 24.0,
+    "carbohydrates": 78.1
+  },
+  "parle_20_20": {
+    "calories": 489,
+    "protein": 5.8,
+    "fat": 20.1,
+    "sugar": 22.0,
+    "carbohydrates": 70.3
+  },
+  "parle_monaco": {
+    "calories": 500,
+    "protein": 7.3,
+    "fat": 23.3,
+    "sugar": 7.0,
+    "carbohydrates": 66.0
+  },
+  "parle_krackjack": {
+    "calories": 490,
+    "protein": 6.0,
+    "fat": 19.5,
+    "sugar": 15.0,
+    "carbohydrates": 71.0
+  },
+  "parle_hide_seek": {
+    "calories": 484,
+    "protein": 6.4,
+    "fat": 18.8,
+    "sugar": 30.0,
+    "carbohydrates": 72.0
+  },
+  "parle_happy_happy": {
+    "calories": 475,
+    "protein": 5.8,
+    "fat": 18.0,
+    "sugar": 24.0,
+    "carbohydrates": 71.0
+  },
+  "parle_milano": {
+    "calories": 525,
+    "protein": 6.0,
+    "fat": 28.0,
+    "sugar": 30.0,
+    "carbohydrates": 63.0
+  },
+  "parle_digestive": {
+    "calories": 455,
+    "protein": 8.0,
+    "fat": 15.0,
+    "sugar": 16.0,
+    "carbohydrates": 71.0
+  },
+  "britannia_good_day": {
+    "calories": 505,
+    "protein": 6.0,
+    "fat": 24.0,
+    "sugar": 25.0,
+    "carbohydrates": 67.0
+  },
+  "good_day ": {
+    "calories": 510,
+    "protein": 6.2,
+    "fat": 25.0,
+    "sugar": 24.0,
+    "carbohydrates": 66.0
+  },
+  "good_day_butter": {
+    "calories": 508,
+    "protein": 6.0,
+    "fat": 24.5,
+    "sugar": 24.0,
+    "carbohydrates": 66.0
+  },
+  "good_day_choco": {
+    "calories": 512,
+    "protein": 6.3,
+    "fat": 25.5,
+    "sugar": 28.0,
+    "carbohydrates": 65.0
+  },
+  "good_day_pista": {
+    "calories": 509,
+    "protein": 6.1,
+    "fat": 25.0,
+    "sugar": 24.0,
+    "carbohydrates": 66.0
+  },
+  "britannia_marie_gold": {
+    "calories": 445,
+    "protein": 7.0,
+    "fat": 12.0,
+    "sugar": 20.0,
+    "carbohydrates": 76.0
+  },
+  "britannia_bourbon": {
+    "calories": 500,
+    "protein": 6.0,
+    "fat": 22.0,
+    "sugar": 36.0,
+    "carbohydrates": 69.0
+  },
+  "britannia_treat": {
+    "calories": 490,
+    "protein": 5.5,
+    "fat": 21.0,
+    "sugar": 34.0,
+    "carbohydrates": 70.0
+  },
+  "britannia_pure_magic": {
+    "calories": 525,
+    "protein": 5.8,
+    "fat": 28.0,
+    "sugar": 35.0,
+    "carbohydrates": 63.0
+  },
+  "britannia_nutrichoice": {
+    "calories": 450,
+    "protein": 8.0,
+    "fat": 14.0,
+    "sugar": 16.0,
+    "carbohydrates": 71.0
+  },
+  "britannia_little_hearts": {
+    "calories": 510,
+    "protein": 5.5,
+    "fat": 24.0,
+    "sugar": 32.0,
+    "carbohydrates": 67.0
+  },
+  "britannia_50_50": {
+    "calories": 495,
+    "protein": 6.5,
+    "fat": 21.0,
+    "sugar": 10.0,
+    "carbohydrates": 69.0
+  },
+  "britannia_nice_time": {
+    "calories": 490,
+    "protein": 5.8,
+    "fat": 20.0,
+    "sugar": 24.0,
+    "carbohydrates": 69.0
+  },
+  "sunfeast_marie_light": {
+    "calories": 442,
+    "protein": 7.0,
+    "fat": 11.0,
+    "sugar": 19.0,
+    "carbohydrates": 77.0
+  },
+  "sunfeast_dark_fantasy": {
+    "calories": 525,
+    "protein": 5.8,
+    "fat": 27.0,
+    "sugar": 35.0,
+    "carbohydrates": 64.0
+  },
+  "sunfeast_moms_magic": {
+    "calories": 495,
+    "protein": 6.0,
+    "fat": 22.0,
+    "sugar": 24.0,
+    "carbohydrates": 68.0
+  },
+  "sunfeast_bounce": {
+    "calories": 500,
+    "protein": 5.5,
+    "fat": 22.0,
+    "sugar": 34.0,
+    "carbohydrates": 69.0
+  },
+  "sunfeast_dream_cream": {
+    "calories": 502,
+    "protein": 5.5,
+    "fat": 22.5,
+    "sugar": 35.0,
+    "carbohydrates": 68.0
+  },
+  "sunfeast_farmlite": {
+    "calories": 450,
+    "protein": 8.0,
+    "fat": 15.0,
+    "sugar": 15.0,
+    "carbohydrates": 70.0
+  },
+  "oreo_original": {
+    "calories": 480,
+    "protein": 4.7,
+    "fat": 20.0,
+    "sugar": 38.0,
+    "carbohydrates": 72.0
+  },
+  "oreo_vanilla": {
+    "calories": 480,
+    "protein": 4.7,
+    "fat": 20.0,
+    "sugar": 38.0,
+    "carbohydrates": 72.0
+  },
+  "oreo_chocolate": {
+    "calories": 482,
+    "protein": 4.8,
+    "fat": 20.5,
+    "sugar": 38.0,
+    "carbohydrates": 72.0
+  },
+  "oreo_strawberry": {
+    "calories": 483,
+    "protein": 4.7,
+    "fat": 20.5,
+    "sugar": 39.0,
+    "carbohydrates": 72.0
+  },
+  "oreo_red_velvet": {
+    "calories": 485,
+    "protein": 4.8,
+    "fat": 21.0,
+    "sugar": 39.0,
+    "carbohydrates": 71.0
+  },
+  "unibic_choco_chip": {
+    "calories": 510,
+    "protein": 6.0,
+    "fat": 25.0,
+    "sugar": 27.0,
+    "carbohydrates": 66.0
+  },
+  "unibic_cashew": {
+    "calories": 508,
+    "protein": 6.5,
+    "fat": 24.5,
+    "sugar": 24.0,
+    "carbohydrates": 66.0
+  },
+  "unibic_oatmeal": {
+    "calories": 455,
+    "protein": 7.5,
+    "fat": 16.0,
+    "sugar": 18.0,
+    "carbohydrates": 69.0
+  },
+  "unibic_fruit_nut": {
+    "calories": 485,
+    "protein": 6.5,
+    "fat": 20.0,
+    "sugar": 24.0,
+    "carbohydrates": 68.0
+  },
+  "mcvities_digestive": {
+    "calories": 483,
+    "protein": 7.0,
+    "fat": 20.0,
+    "sugar": 17.0,
+    "carbohydrates": 69.0
+  },
+  "mcvities_oats": {
+    "calories": 470,
+    "protein": 8.0,
+    "fat": 18.0,
+    "sugar": 16.0,
+    "carbohydrates": 68.0
+  },
+  "mcvities_marie": {
+    "calories": 445,
+    "protein": 7.0,
+    "fat": 12.0,
+    "sugar": 20.0,
+    "carbohydrates": 76.0
+  },
+  "priyagold_butter_bite": {
+    "calories": 505,
+    "protein": 6.0,
+    "fat": 24.0,
+    "sugar": 24.0,
+    "carbohydrates": 67.0
+  },
+  "priyagold_snakker": {
+    "calories": 495,
+    "protein": 6.0,
+    "fat": 22.0,
+    "sugar": 28.0,
+    "carbohydrates": 68.0
+  },
+  "priyagold_cheese_cracker": {
+    "calories": 500,
+    "protein": 7.0,
+    "fat": 23.0,
+    "sugar": 6.0,
+    "carbohydrates": 66.0
+  },
+  "cremica_digestive": {
+    "calories": 455,
+    "protein": 8.0,
+    "fat": 15.0,
+    "sugar": 16.0,
+    "carbohydrates": 70.0
+  },
+  "cremica_bourbon": {
+    "calories": 498,
+    "protein": 6.0,
+    "fat": 22.0,
+    "sugar": 35.0,
+    "carbohydrates": 69.0
+  },
+  "patanjali_digestive": {
+    "calories": 445,
+    "protein": 8.5,
+    "fat": 14.0,
+    "sugar": 14.0,
+    "carbohydrates": 71.0
+  },
+  "patanjali_nariyal": {
+    "calories": 500,
+    "protein": 6.0,
+    "fat": 24.0,
+    "sugar": 26.0,
+    "carbohydrates": 65.0
+  },
+  "milk_bikis": {
+    "calories": 470,
+    "protein": 7.0,
+    "fat": 18.0,
+    "sugar": 22.0,
+    "carbohydrates": 70.0
+  },
+  "jim_jam": {
+    "calories": 495,
+    "protein": 5.5,
+    "fat": 21.0,
+    "sugar": 34.0,
+    "carbohydrates": 70.0
+  },
+  "tiger": {
+    "calories": 460,
+    "protein": 7.0,
+    "fat": 14.0,
+    "sugar": 22.0,
+    "carbohydrates": 73.0
+  },
+  "marie": {
+    "calories": 445,
+    "protein": 7.0,
+    "fat": 12.0,
+    "sugar": 20.0,
+    "carbohydrates": 76.0
+  },
 }
