@@ -6738,5 +6738,348 @@
     "fat": 21.0,
     "sugar": 5.0,
     "carbohydrates": 68.0
-  }
+  },
+  "brown_bread": {
+    "calories": 252,
+    "protein": 12.0,
+    "fat": 3.5,
+    "sugar": 5.0,
+    "carbohydrates": 43.0
+  },
+  "multigrain_bread": {
+    "calories": 247,
+    "protein": 11.0,
+    "fat": 4.0,
+    "sugar": 5.0,
+    "carbohydrates": 41.0
+  },
+  "garlic_bread": {
+    "calories": 340,
+    "protein": 8.0,
+    "fat": 13.0,
+    "sugar": 4.0,
+    "carbohydrates": 47.0
+  },
+  "bun": {
+    "calories": 295,
+    "protein": 8.5,
+    "fat": 5.0,
+    "sugar": 8.0,
+    "carbohydrates": 54.0
+  },
+  "burger_bun": {
+    "calories": 285,
+    "protein": 9.0,
+    "fat": 4.0,
+    "sugar": 7.0,
+    "carbohydrates": 53.0
+  },
+  "hotdog_bun": {
+    "calories": 287,
+    "protein": 9.0,
+    "fat": 4.2,
+    "sugar": 7.0,
+    "carbohydrates": 53.0
+  },
+  "milk_bread": {
+    "calories": 275,
+    "protein": 8.5,
+    "fat": 4.5,
+    "sugar": 7.0,
+    "carbohydrates": 50.0
+  },
+  "rusk": {
+    "calories": 430,
+    "protein": 9.0,
+    "fat": 10.0,
+    "sugar": 20.0,
+    "carbohydrates": 75.0
+  },
+  "milk_rusk": {
+    "calories": 435,
+    "protein": 9.5,
+    "fat": 11.0,
+    "sugar": 21.0,
+    "carbohydrates": 74.0
+  },
+  "elaichi_rusk": {
+    "calories": 432,
+    "protein": 9.0,
+    "fat": 10.5,
+    "sugar": 22.0,
+    "carbohydrates": 74.0
+  },
+  "toast": {
+    "calories": 420,
+    "protein": 10.0,
+    "fat": 9.0,
+    "sugar": 18.0,
+    "carbohydrates": 76.0
+  },
+  "butter_cookie": {
+    "calories": 505,
+    "protein": 6.0,
+    "fat": 24.0,
+    "sugar": 25.0,
+    "carbohydrates": 67.0
+  },
+  "choco_cookie": {
+    "calories": 495,
+    "protein": 6.0,
+    "fat": 23.0,
+    "sugar": 30.0,
+    "carbohydrates": 65.0
+  },
+  "coconut_cookie": {
+    "calories": 500,
+    "protein": 5.5,
+    "fat": 25.0,
+    "sugar": 26.0,
+    "carbohydrates": 64.0
+  },
+  "jeera_cookie": {
+    "calories": 475,
+    "protein": 7.0,
+    "fat": 19.0,
+    "sugar": 10.0,
+    "carbohydrates": 69.0
+  },
+  "atta_cookie": {
+    "calories": 460,
+    "protein": 8.0,
+    "fat": 16.0,
+    "sugar": 15.0,
+    "carbohydrates": 70.0
+  },
+  "oats_cookie": {
+    "calories": 450,
+    "protein": 8.0,
+    "fat": 15.0,
+    "sugar": 17.0,
+    "carbohydrates": 68.0
+  },
+  "almond_cookie": {
+    "calories": 510,
+    "protein": 8.0,
+    "fat": 27.0,
+    "sugar": 22.0,
+    "carbohydrates": 60.0
+  },
+  "cashew_cookie": {
+    "calories": 515,
+    "protein": 7.5,
+    "fat": 28.0,
+    "sugar": 23.0,
+    "carbohydrates": 59.0
+  },
+  "fruit_cookie": {
+    "calories": 470,
+    "protein": 5.5,
+    "fat": 17.0,
+    "sugar": 25.0,
+    "carbohydrates": 72.0
+  },
+  "nan_khatai": {
+    "calories": 530,
+    "protein": 6.0,
+    "fat": 30.0,
+    "sugar": 22.0,
+    "carbohydrates": 58.0
+  },
+  "muffin": {
+    "calories": 377,
+    "protein": 5.5,
+    "fat": 16.0,
+    "sugar": 29.0,
+    "carbohydrates": 53.0
+  },
+  "chocolate_muffin": {
+    "calories": 390,
+    "protein": 5.8,
+    "fat": 17.0,
+    "sugar": 31.0,
+    "carbohydrates": 54.0
+  },
+  "vanilla_muffin": {
+    "calories": 375,
+    "protein": 5.2,
+    "fat": 15.0,
+    "sugar": 30.0,
+    "carbohydrates": 54.0
+  },
+  "cupcake": {
+    "calories": 410,
+    "protein": 4.5,
+    "fat": 18.0,
+    "sugar": 37.0,
+    "carbohydrates": 58.0
+  },
+  "brownie": {
+    "calories": 466,
+    "protein": 5.0,
+    "fat": 24.0,
+    "sugar": 42.0,
+    "carbohydrates": 60.0
+  },
+  "donut": {
+    "calories": 452,
+    "protein": 4.9,
+    "fat": 25.0,
+    "sugar": 22.0,
+    "carbohydrates": 51.0
+  },
+  "croissant": {
+    "calories": 406,
+    "protein": 8.0,
+    "fat": 21.0,
+    "sugar": 11.0,
+    "carbohydrates": 45.0
+  },
+  "puff": {
+    "calories": 430,
+    "protein": 8.0,
+    "fat": 26.0,
+    "sugar": 4.0,
+    "carbohydrates": 42.0
+  },
+  "veg_puff": {
+    "calories": 395,
+    "protein": 7.0,
+    "fat": 22.0,
+    "sugar": 5.0,
+    "carbohydrates": 43.0
+  },
+  "paneer_puff": {
+    "calories": 410,
+    "protein": 10.0,
+    "fat": 23.0,
+    "sugar": 4.0,
+    "carbohydrates": 41.0
+  },
+  "pizza_slice": {
+    "calories": 285,
+    "protein": 12.0,
+    "fat": 10.0,
+    "sugar": 4.0,
+    "carbohydrates": 36.0
+  },
+  "veg_pizza": {
+    "calories": 270,
+    "protein": 11.0,
+    "fat": 9.0,
+    "sugar": 4.0,
+    "carbohydrates": 35.0
+  },
+  "cheese_pizza": {
+    "calories": 296,
+    "protein": 13.0,
+    "fat": 11.0,
+    "sugar": 4.0,
+    "carbohydrates": 36.0
+  },
+  "black_forest_cake": {
+    "calories": 380,
+    "protein": 4.5,
+    "fat": 18.0,
+    "sugar": 35.0,
+    "carbohydrates": 50.0
+  },
+  "pineapple_cake": {
+    "calories": 350,
+    "protein": 4.0,
+    "fat": 16.0,
+    "sugar": 32.0,
+    "carbohydrates": 48.0
+  },
+  "chocolate_cake": {
+    "calories": 390,
+    "protein": 5.0,
+    "fat": 19.0,
+    "sugar": 37.0,
+    "carbohydrates": 52.0
+  },
+  "red_velvet_cake": {
+    "calories": 375,
+    "protein": 4.5,
+    "fat": 17.0,
+    "sugar": 36.0,
+    "carbohydrates": 51.0
+  },
+  "cheesecake": {
+    "calories": 321,
+    "protein": 6.0,
+    "fat": 23.0,
+    "sugar": 21.0,
+    "carbohydrates": 25.0
+  },
+  "apple_pie": {
+    "calories": 296,
+    "protein": 2.4,
+    "fat": 14.0,
+    "sugar": 19.0,
+    "carbohydrates": 41.0
+  },
+  "cream_roll": {
+    "calories": 420,
+    "protein": 5.0,
+    "fat": 21.0,
+    "sugar": 28.0,
+    "carbohydrates": 54.0
+  },
+  "swiss_roll": {
+    "calories": 395,
+    "protein": 5.5,
+    "fat": 16.0,
+    "sugar": 33.0,
+    "carbohydrates": 57.0
+  },
+  "cream_bun": {
+    "calories": 340,
+    "protein": 7.0,
+    "fat": 10.0,
+    "sugar": 20.0,
+    "carbohydrates": 56.0
+  },
+  "jam_bun": {
+    "calories": 330,
+    "protein": 7.0,
+    "fat": 6.0,
+    "sugar": 22.0,
+    "carbohydrates": 60.0
+  },
+  "banana_bread": {
+    "calories": 326,
+    "protein": 4.0,
+    "fat": 11.0,
+    "sugar": 24.0,
+    "carbohydrates": 54.0
+  },
+  "focaccia": {
+    "calories": 289,
+    "protein": 8.0,
+    "fat": 10.0,
+    "sugar": 2.0,
+    "carbohydrates": 42.0
+  },
+  "bagel": {
+    "calories": 250,
+    "protein": 10.0,
+    "fat": 1.5,
+    "sugar": 5.0,
+    "carbohydrates": 49.0
+  },
+  "pretzel": {
+    "calories": 380,
+    "protein": 10.0,
+    "fat": 3.0,
+    "sugar": 5.0,
+    "carbohydrates": 79.0
+  },
+  "waffle": {
+    "calories": 312,
+    "protein": 8.0,
+    "fat": 11.0,
+    "sugar": 10.0,
+    "carbohydrates": 45.0
+  },
 }
