@@ -8097,4 +8097,249 @@
     "sugar": 2.0,
     "carbohydrates": 10.0
   },
+   "corn_flakes": {
+    "calories": 357,
+    "protein": 7.5,
+    "fat": 0.4,
+    "sugar": 8.0,
+    "carbohydrates": 84.0
+  },
+  "kelloggs_corn_flakes": {
+    "calories": 357,
+    "protein": 7.5,
+    "fat": 0.4,
+    "sugar": 8.0,
+    "carbohydrates": 84.0
+  },
+  "kelloggs_chocos": {
+    "calories": 394,
+    "protein": 8.0,
+    "fat": 5.5,
+    "sugar": 28.0,
+    "carbohydrates": 79.0
+  },
+  "kelloggs_chocos_moons": {
+    "calories": 402,
+    "protein": 8.2,
+    "fat": 6.0,
+    "sugar": 30.0,
+    "carbohydrates": 78.0
+  },
+  "kelloggs_chocos_duet": {
+    "calories": 400,
+    "protein": 8.0,
+    "fat": 5.8,
+    "sugar": 29.0,
+    "carbohydrates": 78.5
+  },
+  "kelloggs_froot_loops": {
+    "calories": 381,
+    "protein": 6.5,
+    "fat": 3.0,
+    "sugar": 33.0,
+    "carbohydrates": 84.0
+  },
+  "kelloggs_special_k": {
+    "calories": 377,
+    "protein": 13.0,
+    "fat": 1.0,
+    "sugar": 15.0,
+    "carbohydrates": 77.0
+  },
+  "kelloggs_muesli": {
+    "calories": 390,
+    "protein": 10.0,
+    "fat": 8.0,
+    "sugar": 20.0,
+    "carbohydrates": 68.0
+  },
+  "kelloggs_granola": {
+    "calories": 470,
+    "protein": 9.5,
+    "fat": 18.0,
+    "sugar": 24.0,
+    "carbohydrates": 66.0
+  },
+  "plain_oats": {
+    "calories": 389,
+    "protein": 16.9,
+    "fat": 6.9,
+    "sugar": 1.0,
+    "carbohydrates": 66.0
+  },
+  "rolled_oats": {
+    "calories": 389,
+    "protein": 16.9,
+    "fat": 6.9,
+    "sugar": 1.0,
+    "carbohydrates": 66.0
+  },
+  "instant_oats": {
+    "calories": 385,
+    "protein": 16.0,
+    "fat": 6.0,
+    "sugar": 1.2,
+    "carbohydrates": 67.0
+  },
+  "masala_oats": {
+    "calories": 375,
+    "protein": 12.0,
+    "fat": 7.0,
+    "sugar": 4.0,
+    "carbohydrates": 66.0
+  },
+  "quaker_oats": {
+    "calories": 389,
+    "protein": 16.9,
+    "fat": 6.9,
+    "sugar": 1.0,
+    "carbohydrates": 66.0
+  },
+  "quaker_multigrain_oats": {
+    "calories": 382,
+    "protein": 15.0,
+    "fat": 6.5,
+    "sugar": 2.0,
+    "carbohydrates": 67.0
+  },
+  "saffola_oats": {
+    "calories": 387,
+    "protein": 15.5,
+    "fat": 7.0,
+    "sugar": 1.5,
+    "carbohydrates": 66.0
+  },
+  "bagrrys_muesli": {
+    "calories": 390,
+    "protein": 11.0,
+    "fat": 8.0,
+    "sugar": 18.0,
+    "carbohydrates": 67.0
+  },
+  "fruit_muesli": {
+    "calories": 395,
+    "protein": 10.0,
+    "fat": 8.5,
+    "sugar": 21.0,
+    "carbohydrates": 68.0
+  },
+  "nuts_muesli": {
+    "calories": 430,
+    "protein": 12.0,
+    "fat": 15.0,
+    "sugar": 16.0,
+    "carbohydrates": 60.0
+  },
+  "chocolate_muesli": {
+    "calories": 420,
+    "protein": 9.0,
+    "fat": 11.0,
+    "sugar": 25.0,
+    "carbohydrates": 68.0
+  },
+  "granola": {
+    "calories": 471,
+    "protein": 10.0,
+    "fat": 20.0,
+    "sugar": 24.0,
+    "carbohydrates": 64.0
+  },
+  "honey_granola": {
+    "calories": 475,
+    "protein": 9.5,
+    "fat": 19.0,
+    "sugar": 26.0,
+    "carbohydrates": 65.0
+  },
+  "chocolate_granola": {
+    "calories": 480,
+    "protein": 9.0,
+    "fat": 20.0,
+    "sugar": 28.0,
+    "carbohydrates": 64.0
+  },
+  "fruit_granola": {
+    "calories": 465,
+    "protein": 9.5,
+    "fat": 18.0,
+    "sugar": 23.0,
+    "carbohydrates": 66.0
+  },
+  "protein_granola": {
+    "calories": 450,
+    "protein": 20.0,
+    "fat": 15.0,
+    "sugar": 12.0,
+    "carbohydrates": 55.0
+  },
+  "millet_muesli": {
+    "calories": 385,
+    "protein": 10.0,
+    "fat": 7.5,
+    "sugar": 16.0,
+    "carbohydrates": 69.0
+  },
+  "wheat_flakes": {
+    "calories": 350,
+    "protein": 12.0,
+    "fat": 1.5,
+    "sugar": 7.0,
+    "carbohydrates": 74.0
+  },
+  "bran_flakes": {
+    "calories": 320,
+    "protein": 12.5,
+    "fat": 2.5,
+    "sugar": 16.0,
+    "carbohydrates": 67.0
+  },
+  "rice_krispies": {
+    "calories": 387,
+    "protein": 6.8,
+    "fat": 0.9,
+    "sugar": 10.0,
+    "carbohydrates": 87.0
+  },
+  "honey_loops": {
+    "calories": 385,
+    "protein": 6.5,
+    "fat": 3.0,
+    "sugar": 30.0,
+    "carbohydrates": 84.0
+  },
+  "choco_flakes": {
+    "calories": 395,
+    "protein": 8.0,
+    "fat": 5.0,
+    "sugar": 27.0,
+    "carbohydrates": 79.0
+  },
+  "protein_cereal": {
+    "calories": 380,
+    "protein": 22.0,
+    "fat": 6.0,
+    "sugar": 10.0,
+    "carbohydrates": 58.0
+  },
+  "high_fiber_cereal": {
+    "calories": 335,
+    "protein": 12.0,
+    "fat": 2.5,
+    "sugar": 12.0,
+    "carbohydrates": 68.0
+  },
+  "oatmeal_mix": {
+    "calories": 380,
+    "protein": 14.0,
+    "fat": 7.0,
+    "sugar": 8.0,
+    "carbohydrates": 66.0
+  },
+  "multigrain_cereal": {
+    "calories": 365,
+    "protein": 11.0,
+    "fat": 3.5,
+    "sugar": 12.0,
+    "carbohydrates": 72.0
+  }
 }
