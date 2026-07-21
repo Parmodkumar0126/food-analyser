@@ -7082,4 +7082,46 @@
     "sugar": 10.0,
     "carbohydrates": 45.0
   },
+  "white_bread": {
+  "calories": 266,
+  "protein": 8.9,
+  "fat": 3.2,
+  "sugar": 5.0,
+  "carbohydrates": 49.4
+},
+"whole_wheat_bread": {
+  "calories": 247,
+  "protein": 13.0,
+  "fat": 4.2,
+  "sugar": 5.0,
+  "carbohydrates": 41.0
+},
+"sandwich_bread": {
+  "calories": 265,
+  "protein": 9.0,
+  "fat": 3.2,
+  "sugar": 5.0,
+  "carbohydrates": 49.0
+},
+"milk_bread": {
+  "calories": 275,
+  "protein": 8.5,
+  "fat": 4.5,
+  "sugar": 7.0,
+  "carbohydrates": 50.0
+},
+"fruit_bread": {
+  "calories": 310,
+  "protein": 7.0,
+  "fat": 5.5,
+  "sugar": 18.0,
+  "carbohydrates": 58.0
+},
+"garlic_bread": {
+  "calories": 340,
+  "protein": 8.0,
+  "fat": 13.0,
+  "sugar": 4.0,
+  "carbohydrates": 47.0
+},
 }
