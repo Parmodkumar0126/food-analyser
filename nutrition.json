@@ -6942,63 +6942,63 @@
     "sugar": 4.0,
     "carbohydrates": 42.0
   },
-  "veg_puff": {
+  "veg puff": {
     "calories": 395,
     "protein": 7.0,
     "fat": 22.0,
     "sugar": 5.0,
     "carbohydrates": 43.0
   },
-  "paneer_puff": {
+  "paneer puff": {
     "calories": 410,
     "protein": 10.0,
     "fat": 23.0,
     "sugar": 4.0,
     "carbohydrates": 41.0
   },
-  "pizza_slice": {
+  "pizza slice": {
     "calories": 285,
     "protein": 12.0,
     "fat": 10.0,
     "sugar": 4.0,
     "carbohydrates": 36.0
   },
-  "veg_pizza": {
+  "veg pizza": {
     "calories": 270,
     "protein": 11.0,
     "fat": 9.0,
     "sugar": 4.0,
     "carbohydrates": 35.0
   },
-  "cheese_pizza": {
+  "cheese pizza": {
     "calories": 296,
     "protein": 13.0,
     "fat": 11.0,
     "sugar": 4.0,
     "carbohydrates": 36.0
   },
-  "black_forest_cake": {
+  "black forest cake": {
     "calories": 380,
     "protein": 4.5,
     "fat": 18.0,
     "sugar": 35.0,
     "carbohydrates": 50.0
   },
-  "pineapple_cake": {
+  "pineapple cake": {
     "calories": 350,
     "protein": 4.0,
     "fat": 16.0,
     "sugar": 32.0,
     "carbohydrates": 48.0
   },
-  "chocolate_cake": {
+  "chocolate cake": {
     "calories": 390,
     "protein": 5.0,
     "fat": 19.0,
     "sugar": 37.0,
     "carbohydrates": 52.0
   },
-  "red_velvet_cake": {
+  "red velvet cake": {
     "calories": 375,
     "protein": 4.5,
     "fat": 17.0,
@@ -7012,42 +7012,42 @@
     "sugar": 21.0,
     "carbohydrates": 25.0
   },
-  "apple_pie": {
+  "apple pie": {
     "calories": 296,
     "protein": 2.4,
     "fat": 14.0,
     "sugar": 19.0,
     "carbohydrates": 41.0
   },
-  "cream_roll": {
+  "cream roll": {
     "calories": 420,
     "protein": 5.0,
     "fat": 21.0,
     "sugar": 28.0,
     "carbohydrates": 54.0
   },
-  "swiss_roll": {
+  "swiss roll": {
     "calories": 395,
     "protein": 5.5,
     "fat": 16.0,
     "sugar": 33.0,
     "carbohydrates": 57.0
   },
-  "cream_bun": {
+  "cream bun": {
     "calories": 340,
     "protein": 7.0,
     "fat": 10.0,
     "sugar": 20.0,
     "carbohydrates": 56.0
   },
-  "jam_bun": {
+  "jam bun": {
     "calories": 330,
     "protein": 7.0,
     "fat": 6.0,
     "sugar": 22.0,
     "carbohydrates": 60.0
   },
-  "banana_bread": {
+  "banana bread": {
     "calories": 326,
     "protein": 4.0,
     "fat": 11.0,
@@ -7082,378 +7082,378 @@
     "sugar": 10.0,
     "carbohydrates": 45.0
   },
-  "white_bread": {
+  "white bread": {
   "calories": 266,
   "protein": 8.9,
   "fat": 3.2,
   "sugar": 5.0,
   "carbohydrates": 49.4
 },
-"whole_wheat_bread": {
+"whole wheat bread": {
   "calories": 247,
   "protein": 13.0,
   "fat": 4.2,
   "sugar": 5.0,
   "carbohydrates": 41.0
 },
-"sandwich_bread": {
+"sandwich bread": {
   "calories": 265,
   "protein": 9.0,
   "fat": 3.2,
   "sugar": 5.0,
   "carbohydrates": 49.0
 },
-"milk_bread": {
+"milk bread": {
   "calories": 275,
   "protein": 8.5,
   "fat": 4.5,
   "sugar": 7.0,
   "carbohydrates": 50.0
 },
-"fruit_bread": {
+"fruit bread": {
   "calories": 310,
   "protein": 7.0,
   "fat": 5.5,
   "sugar": 18.0,
   "carbohydrates": 58.0
 },
-"garlic_bread": {
+"garlic bread": {
   "calories": 340,
   "protein": 8.0,
   "fat": 13.0,
   "sugar": 4.0,
   "carbohydrates": 47.0
 },
-  "parle_g": {
+  "parle g": {
     "calories": 451,
     "protein": 6.5,
     "fat": 11.0,
     "sugar": 24.0,
     "carbohydrates": 78.1
   },
-  "parle_20_20": {
+  "parle 20 20": {
     "calories": 489,
     "protein": 5.8,
     "fat": 20.1,
     "sugar": 22.0,
     "carbohydrates": 70.3
   },
-  "parle_monaco": {
+  "parle monaco": {
     "calories": 500,
     "protein": 7.3,
     "fat": 23.3,
     "sugar": 7.0,
     "carbohydrates": 66.0
   },
-  "parle_krackjack": {
+  "parle krackjack": {
     "calories": 490,
     "protein": 6.0,
     "fat": 19.5,
     "sugar": 15.0,
     "carbohydrates": 71.0
   },
-  "parle_hide_seek": {
+  "parle hide seek": {
     "calories": 484,
     "protein": 6.4,
     "fat": 18.8,
     "sugar": 30.0,
     "carbohydrates": 72.0
   },
-  "parle_happy_happy": {
+  "parle happy happy": {
     "calories": 475,
     "protein": 5.8,
     "fat": 18.0,
     "sugar": 24.0,
     "carbohydrates": 71.0
   },
-  "parle_milano": {
+  "parle milano": {
     "calories": 525,
     "protein": 6.0,
     "fat": 28.0,
     "sugar": 30.0,
     "carbohydrates": 63.0
   },
-  "parle_digestive": {
+  "parle digestive": {
     "calories": 455,
     "protein": 8.0,
     "fat": 15.0,
     "sugar": 16.0,
     "carbohydrates": 71.0
   },
-  "britannia_good_day": {
+  "britannia good day": {
     "calories": 505,
     "protein": 6.0,
     "fat": 24.0,
     "sugar": 25.0,
     "carbohydrates": 67.0
   },
-  "good_day ": {
+  "good day ": {
     "calories": 510,
     "protein": 6.2,
     "fat": 25.0,
     "sugar": 24.0,
     "carbohydrates": 66.0
   },
-  "good_day_butter": {
+  "good day butter": {
     "calories": 508,
     "protein": 6.0,
     "fat": 24.5,
     "sugar": 24.0,
     "carbohydrates": 66.0
   },
-  "good_day_choco": {
+  "good day choco": {
     "calories": 512,
     "protein": 6.3,
     "fat": 25.5,
     "sugar": 28.0,
     "carbohydrates": 65.0
   },
-  "good_day_pista": {
+  "good day pista": {
     "calories": 509,
     "protein": 6.1,
     "fat": 25.0,
     "sugar": 24.0,
     "carbohydrates": 66.0
   },
-  "britannia_marie_gold": {
+  "britannia marie gold": {
     "calories": 445,
     "protein": 7.0,
     "fat": 12.0,
     "sugar": 20.0,
     "carbohydrates": 76.0
   },
-  "britannia_bourbon": {
+  "britannia bourbon": {
     "calories": 500,
     "protein": 6.0,
     "fat": 22.0,
     "sugar": 36.0,
     "carbohydrates": 69.0
   },
-  "britannia_treat": {
+  "britannia treat": {
     "calories": 490,
     "protein": 5.5,
     "fat": 21.0,
     "sugar": 34.0,
     "carbohydrates": 70.0
   },
-  "britannia_pure_magic": {
+  "britannia pure magic": {
     "calories": 525,
     "protein": 5.8,
     "fat": 28.0,
     "sugar": 35.0,
     "carbohydrates": 63.0
   },
-  "britannia_nutrichoice": {
+  "britannia nutrichoice": {
     "calories": 450,
     "protein": 8.0,
     "fat": 14.0,
     "sugar": 16.0,
     "carbohydrates": 71.0
   },
-  "britannia_little_hearts": {
+  "britannia little hearts": {
     "calories": 510,
     "protein": 5.5,
     "fat": 24.0,
     "sugar": 32.0,
     "carbohydrates": 67.0
   },
-  "britannia_50_50": {
+  "britannia 50 50": {
     "calories": 495,
     "protein": 6.5,
     "fat": 21.0,
     "sugar": 10.0,
     "carbohydrates": 69.0
   },
-  "britannia_nice_time": {
+  "britannia nice time": {
     "calories": 490,
     "protein": 5.8,
     "fat": 20.0,
     "sugar": 24.0,
     "carbohydrates": 69.0
   },
-  "sunfeast_marie_light": {
+  "sunfeast marie light": {
     "calories": 442,
     "protein": 7.0,
     "fat": 11.0,
     "sugar": 19.0,
     "carbohydrates": 77.0
   },
-  "sunfeast_dark_fantasy": {
+  "sunfeast dark fantasy": {
     "calories": 525,
     "protein": 5.8,
     "fat": 27.0,
     "sugar": 35.0,
     "carbohydrates": 64.0
   },
-  "sunfeast_moms_magic": {
+  "sunfeast moms magic": {
     "calories": 495,
     "protein": 6.0,
     "fat": 22.0,
     "sugar": 24.0,
     "carbohydrates": 68.0
   },
-  "sunfeast_bounce": {
+  "sunfeast bounce": {
     "calories": 500,
     "protein": 5.5,
     "fat": 22.0,
     "sugar": 34.0,
     "carbohydrates": 69.0
   },
-  "sunfeast_dream_cream": {
+  "sunfeast dream cream": {
     "calories": 502,
     "protein": 5.5,
     "fat": 22.5,
     "sugar": 35.0,
     "carbohydrates": 68.0
   },
-  "sunfeast_farmlite": {
+  "sunfeast farmlite": {
     "calories": 450,
     "protein": 8.0,
     "fat": 15.0,
     "sugar": 15.0,
     "carbohydrates": 70.0
   },
-  "oreo_original": {
+  "oreo original": {
     "calories": 480,
     "protein": 4.7,
     "fat": 20.0,
     "sugar": 38.0,
     "carbohydrates": 72.0
   },
-  "oreo_vanilla": {
+  "oreo vanilla": {
     "calories": 480,
     "protein": 4.7,
     "fat": 20.0,
     "sugar": 38.0,
     "carbohydrates": 72.0
   },
-  "oreo_chocolate": {
+  "oreo chocolate": {
     "calories": 482,
     "protein": 4.8,
     "fat": 20.5,
     "sugar": 38.0,
     "carbohydrates": 72.0
   },
-  "oreo_strawberry": {
+ "oreo strawberry": {
     "calories": 483,
     "protein": 4.7,
     "fat": 20.5,
     "sugar": 39.0,
     "carbohydrates": 72.0
   },
-  "oreo_red_velvet": {
+  "oreo red velvet": {
     "calories": 485,
     "protein": 4.8,
     "fat": 21.0,
     "sugar": 39.0,
     "carbohydrates": 71.0
   },
-  "unibic_choco_chip": {
+  "unibic choco chip": {
     "calories": 510,
     "protein": 6.0,
     "fat": 25.0,
     "sugar": 27.0,
     "carbohydrates": 66.0
   },
-  "unibic_cashew": {
+  "unibic cashew": {
     "calories": 508,
     "protein": 6.5,
     "fat": 24.5,
     "sugar": 24.0,
     "carbohydrates": 66.0
   },
-  "unibic_oatmeal": {
+  "unibic oatmeal": {
     "calories": 455,
     "protein": 7.5,
     "fat": 16.0,
     "sugar": 18.0,
     "carbohydrates": 69.0
   },
-  "unibic_fruit_nut": {
+  "unibic fruit nut": {
     "calories": 485,
     "protein": 6.5,
     "fat": 20.0,
     "sugar": 24.0,
     "carbohydrates": 68.0
   },
-  "mcvities_digestive": {
+  "mcvities digestive": {
     "calories": 483,
     "protein": 7.0,
     "fat": 20.0,
     "sugar": 17.0,
     "carbohydrates": 69.0
   },
-  "mcvities_oats": {
+  "mcvities oats": {
     "calories": 470,
     "protein": 8.0,
     "fat": 18.0,
     "sugar": 16.0,
     "carbohydrates": 68.0
   },
-  "mcvities_marie": {
+  "mcvities marie": {
     "calories": 445,
     "protein": 7.0,
     "fat": 12.0,
     "sugar": 20.0,
     "carbohydrates": 76.0
   },
-  "priyagold_butter_bite": {
+  "priyagold butter bite": {
     "calories": 505,
     "protein": 6.0,
     "fat": 24.0,
     "sugar": 24.0,
     "carbohydrates": 67.0
   },
-  "priyagold_snakker": {
+  "priyagold snakker": {
     "calories": 495,
     "protein": 6.0,
     "fat": 22.0,
     "sugar": 28.0,
     "carbohydrates": 68.0
   },
-  "priyagold_cheese_cracker": {
+  "priyagold cheese cracker": {
     "calories": 500,
     "protein": 7.0,
     "fat": 23.0,
     "sugar": 6.0,
     "carbohydrates": 66.0
   },
-  "cremica_digestive": {
+  "cremica digestive": {
     "calories": 455,
     "protein": 8.0,
     "fat": 15.0,
     "sugar": 16.0,
     "carbohydrates": 70.0
   },
-  "cremica_bourbon": {
+  "cremica bourbon": {
     "calories": 498,
     "protein": 6.0,
     "fat": 22.0,
     "sugar": 35.0,
     "carbohydrates": 69.0
   },
-  "patanjali_digestive": {
+  "patanjali digestive": {
     "calories": 445,
     "protein": 8.5,
     "fat": 14.0,
     "sugar": 14.0,
     "carbohydrates": 71.0
   },
-  "patanjali_nariyal": {
+  "patanjali nariyal": {
     "calories": 500,
     "protein": 6.0,
     "fat": 24.0,
     "sugar": 26.0,
     "carbohydrates": 65.0
   },
-  "milk_bikis": {
+  "milk bikis": {
     "calories": 470,
     "protein": 7.0,
     "fat": 18.0,
     "sugar": 22.0,
     "carbohydrates": 70.0
   },
-  "jim_jam": {
+  "jim jam": {
     "calories": 495,
     "protein": 5.5,
     "fat": 21.0,
@@ -7474,49 +7474,49 @@
     "sugar": 20.0,
     "carbohydrates": 76.0
   },
-   "dairy_milk": {
+   "dairy milk": {
     "calories": 534,
     "protein": 7.3,
     "fat": 30.0,
     "sugar": 56.0,
     "carbohydrates": 59.0
   },
-  "dairy_milk_silk": {
+  "dairy milk silk": {
     "calories": 540,
     "protein": 6.8,
     "fat": 31.0,
     "sugar": 57.0,
     "carbohydrates": 58.0
   },
-  "dairy_milk_fruit_nut": {
+  "dairy milk fruit nut": {
     "calories": 535,
     "protein": 7.0,
     "fat": 30.5,
     "sugar": 54.0,
     "carbohydrates": 58.0
   },
-  "dairy_milk_roast_almond": {
+  "dairy milk roast almond": {
     "calories": 545,
     "protein": 8.0,
     "fat": 33.0,
     "sugar": 50.0,
     "carbohydrates": 54.0
   },
-  "dairy_milk_crackle": {
+  "dairy milk crackle": {
     "calories": 537,
     "protein": 7.0,
     "fat": 30.5,
     "sugar": 55.0,
     "carbohydrates": 58.0
   },
-  "5_star": {
+  "5 star": {
     "calories": 480,
     "protein": 5.0,
     "fat": 21.0,
     "sugar": 52.0,
     "carbohydrates": 69.0
   },
-  "5_star_oreo": {
+  "5 star oreo": {
     "calories": 486,
     "protein": 5.2,
     "fat": 22.0,
@@ -7551,14 +7551,14 @@
     "sugar": 54.0,
     "carbohydrates": 58.0
   },
-  "silk_bubbly": {
+  "silk bubbly": {
     "calories": 542,
     "protein": 6.8,
     "fat": 31.5,
     "sugar": 56.0,
     "carbohydrates": 58.0
   },
-  "silk_oreo": {
+  "silk oreo": {
     "calories": 545,
     "protein": 6.5,
     "fat": 32.0,
@@ -7572,21 +7572,21 @@
     "sugar": 49.0,
     "carbohydrates": 64.0
   },
-  "kitkat_dark": {
+  "kitkat dark": {
     "calories": 525,
     "protein": 6.5,
     "fat": 28.0,
     "sugar": 46.0,
     "carbohydrates": 63.0
   },
-  "kitkat_chunky": {
+  "kitkat chunky": {
     "calories": 522,
     "protein": 6.4,
     "fat": 27.0,
     "sugar": 48.0,
     "carbohydrates": 64.0
   },
-  "kitkat_duo": {
+  "kitkat duo": {
     "calories": 526,
     "protein": 6.2,
     "fat": 27.5,
@@ -7635,63 +7635,63 @@
     "sugar": 58.0,
     "carbohydrates": 59.0
   },
-  "ferrero_rocher": {
+  "ferrero rocher": {
     "calories": 579,
     "protein": 8.2,
     "fat": 42.0,
     "sugar": 39.0,
     "carbohydrates": 44.0
   },
-  "lindt_milk": {
+  "lindt milk": {
     "calories": 535,
     "protein": 7.0,
     "fat": 31.0,
     "sugar": 53.0,
     "carbohydrates": 57.0
   },
-  "lindt_dark": {
+  "lindt dark": {
     "calories": 598,
     "protein": 8.5,
     "fat": 43.0,
     "sugar": 24.0,
     "carbohydrates": 46.0
   },
-  "hersheys_milk": {
+  "hersheys milk": {
     "calories": 535,
     "protein": 7.0,
     "fat": 30.0,
     "sugar": 56.0,
     "carbohydrates": 59.0
   },
-  "hersheys_cookies_cream": {
+  "hersheys cookies cream": {
     "calories": 540,
     "protein": 6.5,
     "fat": 31.0,
     "sugar": 57.0,
     "carbohydrates": 58.0
   },
-  "hersheys_dark": {
+  "hersheys dark": {
     "calories": 560,
     "protein": 8.0,
     "fat": 36.0,
     "sugar": 42.0,
     "carbohydrates": 51.0
   },
-  "amul_milk_chocolate": {
+  "amul milk chocolate": {
     "calories": 540,
     "protein": 7.0,
     "fat": 31.0,
     "sugar": 55.0,
     "carbohydrates": 58.0
   },
-  "amul_dark_chocolate": {
+  "amul dark chocolate": {
     "calories": 560,
     "protein": 8.5,
     "fat": 38.0,
     "sugar": 35.0,
     "carbohydrates": 48.0
   },
-  "amul_fruit_nut": {
+  "amul fruit nut": {
     "calories": 545,
     "protein": 7.5,
     "fat": 32.0,
@@ -7719,7 +7719,7 @@
     "sugar": 50.0,
     "carbohydrates": 63.0
   },
-  "milky_way": {
+  "milky way": {
     "calories": 449,
     "protein": 4.0,
     "fat": 16.0,
@@ -7747,119 +7747,119 @@
     "sugar": 49.0,
     "carbohydrates": 63.0
   },
-  "cadbury_nutties": {
+  "cadbury nutties": {
     "calories": 530,
     "protein": 8.0,
     "fat": 29.0,
     "sugar": 47.0,
     "carbohydrates": 58.0
   },
-  "cadbury_shots": {
+  "cadbury shots": {
     "calories": 525,
     "protein": 6.5,
     "fat": 28.0,
     "sugar": 50.0,
     "carbohydrates": 61.0
   },
-  "mars_protein": {
+  "mars protein": {
     "calories": 390,
     "protein": 32.0,
     "fat": 8.0,
     "sugar": 30.0,
     "carbohydrates": 45.0
   },
-  "snickers_almond": {
+  "snickers almond": {
     "calories": 510,
     "protein": 9.0,
     "fat": 28.0,
     "sugar": 43.0,
     "carbohydrates": 56.0
   },
-  "kitkat_gold": {
+  "kitkat gold": {
     "calories": 525,
     "protein": 6.0,
     "fat": 27.0,
     "sugar": 50.0,
     "carbohydrates": 63.0
   },
-  "dairy_milk_lickables": {
+  "dairy milk lickables": {
     "calories": 532,
     "protein": 6.5,
     "fat": 29.0,
     "sugar": 55.0,
     "carbohydrates": 60.0
   },
-  "cadbury_chocobakes": {
+  "cadbury chocobakes": {
     "calories": 470,
     "protein": 6.0,
     "fat": 20.0,
     "sugar": 30.0,
     "carbohydrates": 66.0
   },
-  "nestle_classic": {
+  "nestle classic": {
     "calories": 530,
     "protein": 6.8,
     "fat": 29.0,
     "sugar": 54.0,
     "carbohydrates": 60.0
   },
-  "nestle_aero": {
+  "nestle aero": {
     "calories": 530,
     "protein": 6.5,
     "fat": 30.0,
     "sugar": 53.0,
     "carbohydrates": 59.0
   },
-  "lion_bar": {
+  "lion bar": {
     "calories": 500,
     "protein": 6.0,
     "fat": 24.0,
     "sugar": 46.0,
     "carbohydrates": 64.0
   },
-   "tomato_ketchup": {
+   "tomato ketchup": {
     "calories": 112,
     "protein": 1.3,
     "fat": 0.2,
     "sugar": 22.8,
     "carbohydrates": 26.6
   },
-  "spicy_ketchup": {
+  "spicy ketchup": {
     "calories": 115,
     "protein": 1.2,
     "fat": 0.3,
     "sugar": 23.0,
     "carbohydrates": 27.0
   },
-  "pizza_pasta_sauce": {
+  "pizza pasta sauce": {
     "calories": 95,
     "protein": 2.0,
     "fat": 0.5,
     "sugar": 14.0,
     "carbohydrates": 20.0
   },
-  "schezwan_sauce": {
+  "schezwan sauce": {
     "calories": 165,
     "protein": 2.0,
     "fat": 5.0,
     "sugar": 18.0,
     "carbohydrates": 28.0
   },
-  "green_chutney": {
+  "green chutney": {
     "calories": 90,
     "protein": 2.0,
     "fat": 3.0,
     "sugar": 6.0,
     "carbohydrates": 13.0
   },
-  "mint_chutney": {
+  "mint chutney": {
     "calories": 85,
     "protein": 2.2,
     "fat": 2.5,
     "sugar": 5.0,
     "carbohydrates": 12.0
   },
-  "tamarind_chutney": {
+  "tamarind chutney": {
     "calories": 240,
     "protein": 1.5,
     "fat": 0.5,
@@ -7873,70 +7873,70 @@
     "sugar": 1.5,
     "carbohydrates": 3.5
   },
-  "eggless_mayonnaise": {
+  "eggless mayonnaise": {
     "calories": 650,
     "protein": 0.8,
     "fat": 72.0,
     "sugar": 2.0,
     "carbohydrates": 5.0
   },
-  "garlic_mayonnaise": {
+  "garlic mayonnaise": {
     "calories": 660,
     "protein": 1.0,
     "fat": 73.0,
     "sugar": 2.0,
     "carbohydrates": 5.0
   },
-  "tandoori_mayonnaise": {
+   "tandoori mayonnaise": {
     "calories": 640,
     "protein": 1.2,
     "fat": 70.0,
     "sugar": 3.0,
     "carbohydrates": 7.0
   },
-  "mint_mayonnaise": {
+  "mint mayonnaise": {
     "calories": 635,
     "protein": 1.2,
     "fat": 69.0,
     "sugar": 3.0,
     "carbohydrates": 7.0
   },
-  "cheese_mayonnaise": {
+  "cheese mayonnaise": {
     "calories": 610,
     "protein": 4.0,
     "fat": 64.0,
     "sugar": 3.0,
     "carbohydrates": 8.0
   },
-  "peanut_butter": {
+  "peanut butter": {
     "calories": 588,
     "protein": 25.0,
     "fat": 50.0,
     "sugar": 9.0,
     "carbohydrates": 20.0
   },
-  "crunchy_peanut_butter": {
+  "crunchy peanut butter": {
     "calories": 590,
     "protein": 25.5,
     "fat": 50.5,
     "sugar": 8.5,
     "carbohydrates": 19.5
   },
-  "smooth_peanut_butter": {
+  "smooth peanut butter": {
     "calories": 585,
     "protein": 25.0,
     "fat": 49.5,
     "sugar": 9.0,
     "carbohydrates": 20.0
   },
-  "natural_peanut_butter": {
+  "natural peanut butter": {
     "calories": 600,
     "protein": 26.0,
     "fat": 52.0,
     "sugar": 4.5,
     "carbohydrates": 18.0
   },
-  "chocolate_peanut_butter": {
+  "chocolate peanut butter": {
     "calories": 565,
     "protein": 18.0,
     "fat": 38.0,
@@ -7950,63 +7950,63 @@
     "sugar": 56.3,
     "carbohydrates": 57.5
   },
-  "chocolate_spread": {
+  "chocolate spread": {
     "calories": 535,
     "protein": 5.8,
     "fat": 30.0,
     "sugar": 55.0,
     "carbohydrates": 58.0
   },
-  "dark_chocolate_spread": {
+  "dark chocolate spread": {
     "calories": 520,
     "protein": 6.5,
     "fat": 29.0,
     "sugar": 45.0,
     "carbohydrates": 54.0
   },
-  "hazelnut_spread": {
+  "hazelnut spread": {
     "calories": 545,
     "protein": 6.0,
     "fat": 32.0,
     "sugar": 54.0,
     "carbohydrates": 56.0
   },
-  "strawberry_jam": {
+  "strawberry jam": {
     "calories": 250,
     "protein": 0.3,
     "fat": 0.2,
     "sugar": 48.0,
     "carbohydrates": 65.0
   },
-  "mixed_fruit_jam": {
+  "mixed fruit jam": {
     "calories": 255,
     "protein": 0.4,
     "fat": 0.2,
     "sugar": 49.0,
     "carbohydrates": 66.0
   },
-  "mango_jam": {
+  "mango jam": {
     "calories": 248,
     "protein": 0.4,
     "fat": 0.2,
     "sugar": 47.0,
     "carbohydrates": 64.0
   },
-  "pineapple_jam": {
+  "pineapple jam": {
     "calories": 246,
     "protein": 0.3,
     "fat": 0.2,
     "sugar": 46.0,
     "carbohydrates": 64.0
   },
-  "orange_marmalade": {
+  "orange marmalade": {
     "calories": 245,
     "protein": 0.3,
     "fat": 0.1,
     "sugar": 46.0,
     "carbohydrates": 63.0
   },
-  "blueberry_jam": {
+  "blueberry jam": {
     "calories": 252,
     "protein": 0.4,
     "fat": 0.2,
@@ -8020,42 +8020,42 @@
     "sugar": 82.0,
     "carbohydrates": 82.4
   },
-  "organic_honey": {
+  "organic honey": {
     "calories": 304,
     "protein": 0.3,
     "fat": 0.0,
     "sugar": 81.5,
     "carbohydrates": 82.0
   },
-  "raw_honey": {
+  "raw honey": {
     "calories": 302,
     "protein": 0.3,
     "fat": 0.0,
     "sugar": 81.0,
     "carbohydrates": 82.0
   },
-  "mustard_sauce": {
+  "mustard sauce": {
     "calories": 66,
     "protein": 4.4,
     "fat": 4.4,
     "sugar": 0.4,
     "carbohydrates": 5.8
   },
-  "barbecue_sauce": {
+  "barbecue sauce": {
     "calories": 172,
     "protein": 1.5,
     "fat": 0.5,
     "sugar": 34.0,
     "carbohydrates": 42.0
   },
-  "chilli_sauce": {
+  "chilli sauce": {
     "calories": 110,
     "protein": 1.0,
     "fat": 0.5,
     "sugar": 20.0,
     "carbohydrates": 26.0
   },
-  "soy_sauce": {
+  "soy sauce": {
     "calories": 53,
     "protein": 8.0,
     "fat": 0.1,
@@ -8069,42 +8069,42 @@
     "sugar": 0.4,
     "carbohydrates": 0.9
   },
-  "green_sauce": {
+  "green sauce": {
     "calories": 75,
     "protein": 2.0,
     "fat": 2.5,
     "sugar": 5.0,
     "carbohydrates": 11.0
   },
-  "red_sauce": {
+  "red sauce": {
     "calories": 90,
     "protein": 2.0,
     "fat": 1.0,
     "sugar": 12.0,
     "carbohydrates": 18.0
   },
-  "cheese_spread": {
+  "cheese spread": {
     "calories": 295,
     "protein": 12.0,
     "fat": 24.0,
     "sugar": 5.0,
     "carbohydrates": 8.0
   },
-  "garlic_spread": {
+  "garlic spread": {
     "calories": 510,
     "protein": 2.0,
     "fat": 52.0,
     "sugar": 2.0,
     "carbohydrates": 10.0
   },
-  "dairy_milk": {
+  "dairy milk": {
     "calories": 534,
     "protein": 7.3,
     "fat": 30.0,
     "sugar": 56.0,
     "carbohydrates": 59.0
   },
-  "cadbury_dairy_milk": {
+  "cadbury dairy milk": {
     "calories": 534,
     "protein": 7.3,
     "fat": 30.0,
@@ -8118,7 +8118,7 @@
     "sugar": 56.0,
     "carbohydrates": 59.0
   },
-  "whole_wheat_flour": {
+  "whole wheat flour": {
     "calories": 340,
     "protein": 13.2,
     "fat": 2.5,
@@ -8139,7 +8139,7 @@
     "sugar": 0.4,
     "carbohydrates": 73
   },
-  "durum_wheat_flour": {
+  "durum wheat flour": {
     "calories": 339,
     "protein": 13.7,
     "fat": 2.5,
@@ -8153,133 +8153,133 @@
     "sugar": 0.4,
     "carbohydrates": 75
   },
-  "chapati_flour": {
+  "chapati flour": {
     "calories": 339,
     "protein": 12.5,
     "fat": 2.2,
     "sugar": 0.5,
     "carbohydrates": 72
   },
-  "bread_flour": {
+  "bread flour": {
     "calories": 361,
     "protein": 13.0,
     "fat": 1.4,
     "sugar": 0.4,
     "carbohydrates": 75
   },
-  "cake_flour": {
+  "cake flour": {
     "calories": 364,
     "protein": 8.8,
     "fat": 1.0,
     "sugar": 0.3,
     "carbohydrates": 77
   },
-  "pastry_flour": {
+  "pastry flour": {
     "calories": 363,
     "protein": 9.5,
     "fat": 1.0,
     "sugar": 0.3,
     "carbohydrates": 76
   },
-  "all_purpose_flour": {
+  "all purpose flour": {
     "calories": 364,
     "protein": 10.3,
     "fat": 1.0,
     "sugar": 0.3,
     "carbohydrates": 76
   },
-  "whole_wheat_atta": {
+  "whole wheat atta": {
     "calories": 340,
     "protein": 13.2,
     "fat": 2.5,
     "sugar": 0.4,
     "carbohydrates": 72
   },
-  "chakki_atta": {
+  "chakki atta": {
     "calories": 341,
     "protein": 13.1,
     "fat": 2.4,
     "sugar": 0.4,
     "carbohydrates": 72
   },
-  "multigrain_atta": {
+  "multigrain atta": {
     "calories": 338,
     "protein": 12.0,
     "fat": 3.0,
     "sugar": 1.2,
     "carbohydrates": 70
   },
-  "high_fiber_atta": {
+  "high fiber atta": {
     "calories": 330,
     "protein": 12.8,
     "fat": 2.3,
     "sugar": 0.5,
     "carbohydrates": 68
   },
-  "bran_flour": {
+  "bran flour": {
     "calories": 216,
     "protein": 16.0,
     "fat": 4.3,
     "sugar": 0.4,
     "carbohydrates": 64
   },
-  "wheat_bran": {
+  "wheat bran": {
     "calories": 216,
     "protein": 16.0,
     "fat": 4.3,
     "sugar": 0.4,
     "carbohydrates": 64
   },
-  "wheat_germ": {
+  "wheat germ": {
     "calories": 360,
     "protein": 23.0,
     "fat": 10.0,
     "sugar": 0.5,
     "carbohydrates": 51
   },
-  "fine_suji": {
+  "fine suji": {
     "calories": 360,
     "protein": 12.7,
     "fat": 1.1,
     "sugar": 0.4,
     "carbohydrates": 73
   },
-  "coarse_suji": {
+  "coarse suji": {
     "calories": 360,
     "protein": 12.5,
     "fat": 1.2,
     "sugar": 0.4,
     "carbohydrates": 73
   },
-  "bombay_rava": {
+  "bombay rava": {
     "calories": 360,
     "protein": 12.7,
     "fat": 1.1,
     "sugar": 0.4,
     "carbohydrates": 73
   },
-  "bansi_rava": {
+  "bansi rava": {
     "calories": 358,
     "protein": 12.6,
     "fat": 1.1,
     "sugar": 0.4,
     "carbohydrates": 72
   },
-  "instant_rava": {
+  "instant rava": {
     "calories": 360,
     "protein": 12.5,
     "fat": 1.1,
     "sugar": 0.4,
     "carbohydrates": 73
   },
-  "broken_wheat": {
+  "broken wheat": {
     "calories": 342,
     "protein": 12.3,
     "fat": 1.3,
     "sugar": 0.4,
     "carbohydrates": 75
   },
-  "cracked_wheat": {
+  "cracked wheat": {
     "calories": 342,
     "protein": 12.3,
     "fat": 1.3,
@@ -8293,308 +8293,308 @@
     "sugar": 0.4,
     "carbohydrates": 75
   },
-  "durum_semolina": {
+  "durum semolina": {
     "calories": 360,
     "protein": 12.7,
     "fat": 1.1,
     "sugar": 0.4,
     "carbohydrates": 73
   },
-  "whole_durum_flour": {
+  "whole durum flour": {
     "calories": 339,
     "protein": 13.7,
     "fat": 2.5,
     "sugar": 0.4,
     "carbohydrates": 71
   },
-  "white_wheat_flour": {
+  "white wheat flour": {
     "calories": 361,
     "protein": 11.8,
     "fat": 1.5,
     "sugar": 0.4,
     "carbohydrates": 75
   },
-  "organic_wheat_flour": {
+  "organic wheat flour": {
     "calories": 340,
     "protein": 13.2,
     "fat": 2.5,
     "sugar": 0.4,
     "carbohydrates": 72
   },
-  "stone_ground_flour": {
+  "stone ground flour": {
     "calories": 340,
     "protein": 13.1,
     "fat": 2.4,
     "sugar": 0.4,
     "carbohydrates": 72
   },
-  "bajra_flour": {
+  "bajra flour": {
     "calories": 361,
     "protein": 11.6,
     "fat": 5.0,
     "sugar": 1.2,
     "carbohydrates": 67
   },
-  "pearl_millet": {
+  "pearl millet": {
     "calories": 361,
     "protein": 11.6,
     "fat": 5.0,
     "sugar": 1.2,
     "carbohydrates": 67
   },
-  "ragi_flour": {
+  "ragi flour": {
     "calories": 336,
     "protein": 7.3,
     "fat": 1.5,
     "sugar": 1.1,
     "carbohydrates": 72
   },
-  "finger_millet": {
+  "finger millet": {
     "calories": 336,
     "protein": 7.3,
     "fat": 1.5,
     "sugar": 1.1,
     "carbohydrates": 72
   },
-  "jowar_flour": {
+  "jowar flour": {
     "calories": 329,
     "protein": 10.4,
     "fat": 3.1,
     "sugar": 2.5,
     "carbohydrates": 72
   },
-  "sorghum_flour": {
+  "sorghum flour": {
     "calories": 329,
     "protein": 10.4,
     "fat": 3.1,
     "sugar": 2.5,
     "carbohydrates": 72
   },
-  "foxtail_millet": {
+  "foxtail millet": {
     "calories": 331,
     "protein": 12.3,
     "fat": 4.3,
     "sugar": 1.0,
     "carbohydrates": 63
   },
-  "kangni_flour": {
+  "kangni flour": {
     "calories": 331,
     "protein": 12.3,
     "fat": 4.3,
     "sugar": 1.0,
     "carbohydrates": 63
   },
-  "kakun_flour": {
+  "kakun flour": {
     "calories": 331,
     "protein": 12.3,
     "fat": 4.3,
     "sugar": 1.0,
     "carbohydrates": 63
   },
-  "little_millet": {
+  "little millet": {
     "calories": 341,
     "protein": 9.7,
     "fat": 4.7,
     "sugar": 1.0,
     "carbohydrates": 67
   },
-  "kutki_flour": {
+  "kutki flour": {
     "calories": 341,
     "protein": 9.7,
     "fat": 4.7,
     "sugar": 1.0,
     "carbohydrates": 67
   },
-  "barnyard_millet": {
+  "barnyard millet": {
     "calories": 307,
     "protein": 11.2,
     "fat": 3.9,
     "sugar": 0.8,
     "carbohydrates": 56
   },
-  "sanwa_flour": {
+  "sanwa flour": {
     "calories": 307,
     "protein": 11.2,
     "fat": 3.9,
     "sugar": 0.8,
     "carbohydrates": 56
   },
-  "kodo_millet": {
+  "kodo millet": {
     "calories": 353,
     "protein": 8.3,
     "fat": 3.6,
     "sugar": 0.8,
     "carbohydrates": 66
   },
-  "kodo_flour": {
+  "kodo flour": {
     "calories": 353,
     "protein": 8.3,
     "fat": 3.6,
     "sugar": 0.8,
     "carbohydrates": 66
   },
-  "proso_millet": {
+  "proso millet": {
     "calories": 356,
     "protein": 12.5,
     "fat": 3.5,
     "sugar": 1.0,
     "carbohydrates": 70
   },
-  "cheena_flour": {
+  "cheena flour": {
     "calories": 356,
     "protein": 12.5,
     "fat": 3.5,
     "sugar": 1.0,
     "carbohydrates": 70
   },
-  "browntop_millet": {
+  "browntop millet": {
     "calories": 338,
     "protein": 11.5,
     "fat": 3.8,
     "sugar": 0.9,
     "carbohydrates": 68
   },
-  "browntop_flour": {
+  "browntop flour": {
     "calories": 338,
     "protein": 11.5,
     "fat": 3.8,
     "sugar": 0.9,
     "carbohydrates": 68
   },
-  "mixed_millet_flour": {
+  "mixed millet flour": {
     "calories": 340,
     "protein": 10.8,
     "fat": 3.9,
     "sugar": 1.0,
     "carbohydrates": 67
   },
-  "millet_atta": {
+  "millet atta": {
     "calories": 340,
     "protein": 10.5,
     "fat": 3.8,
     "sugar": 1.0,
     "carbohydrates": 67
   },
-  "multimillet_flour": {
+  "multimillet flour": {
     "calories": 339,
     "protein": 10.9,
     "fat": 3.9,
     "sugar": 1.0,
     "carbohydrates": 66
   },
-  "organic_bajra_flour": {
+  "organic bajra flour": {
     "calories": 361,
     "protein": 11.6,
     "fat": 5.0,
     "sugar": 1.2,
     "carbohydrates": 67
   },
-  "organic_ragi_flour": {
+  "organic ragi flour": {
     "calories": 336,
     "protein": 7.3,
     "fat": 1.5,
     "sugar": 1.1,
     "carbohydrates": 72
   },
-  "organic_jowar_flour": {
+  "organic jowar flour": {
     "calories": 329,
     "protein": 10.4,
     "fat": 3.1,
     "sugar": 2.5,
     "carbohydrates": 72
   },
-  "whole_bajra": {
+  "whole bajra": {
     "calories": 361,
     "protein": 11.6,
     "fat": 5.0,
     "sugar": 1.2,
     "carbohydrates": 67
   },
-  "whole_ragi": {
+  "whole ragi": {
     "calories": 336,
     "protein": 7.3,
     "fat": 1.5,
     "sugar": 1.1,
     "carbohydrates": 72
   },
-  "whole_jowar": {
+  "whole jowar": {
     "calories": 329,
     "protein": 10.4,
     "fat": 3.1,
     "sugar": 2.5,
     "carbohydrates": 72
   },
-  "whole_kodo": {
+  "whole kodo": {
     "calories": 353,
     "protein": 8.3,
     "fat": 3.6,
     "sugar": 0.8,
     "carbohydrates": 66
   },
-  "whole_foxtail": {
+  "whole foxtail": {
     "calories": 331,
     "protein": 12.3,
     "fat": 4.3,
     "sugar": 1.0,
     "carbohydrates": 63
   },
-   "rice_flour": {
+   "rice flour": {
     "calories": 366,
     "protein": 6.0,
     "fat": 1.4,
     "sugar": 0.1,
     "carbohydrates": 80
   },
-  "white_rice": {
+  "white rice": {
     "calories": 365,
     "protein": 7.1,
     "fat": 0.7,
     "sugar": 0.1,
     "carbohydrates": 80
   },
-  "white_rice_flour": {
+  "white rice flour": {
     "calories": 366,
     "protein": 6.0,
     "fat": 1.4,
     "sugar": 0.1,
     "carbohydrates": 80
   },
-  "brown_rice": {
+  "brown rice": {
     "calories": 370,
     "protein": 7.9,
     "fat": 2.9,
     "sugar": 0.7,
     "carbohydrates": 77
   },
-  "brown_rice_flour": {
+  "brown rice flour": {
     "calories": 363,
     "protein": 7.5,
     "fat": 2.8,
     "sugar": 0.7,
     "carbohydrates": 76
   },
-  "red_rice": {
+  "red rice": {
     "calories": 360,
     "protein": 7.3,
     "fat": 2.6,
     "sugar": 0.6,
     "carbohydrates": 75
   },
-  "red_rice_flour": {
+  "red rice flour": {
     "calories": 360,
     "protein": 7.3,
     "fat": 2.6,
     "sugar": 0.6,
     "carbohydrates": 75
   },
-  "black_rice": {
+  "black rice": {
     "calories": 356,
     "protein": 8.5,
     "fat": 2.8,
     "sugar": 0.5,
     "carbohydrates": 73
   },
-  "black_rice_flour": {
+  "black rice flour": {
     "calories": 356,
     "protein": 8.5,
     "fat": 2.8,
@@ -8608,7 +8608,7 @@
     "sugar": 10.8,
     "carbohydrates": 58
   },
-  "gram_flour": {
+  "gram flour": {
     "calories": 387,
     "protein": 22.4,
     "fat": 6.7,
@@ -8622,21 +8622,21 @@
     "sugar": 5.0,
     "carbohydrates": 65
   },
-  "roasted_gram_flour": {
+  "roasted gram flour": {
     "calories": 413,
     "protein": 20.0,
     "fat": 7.0,
     "sugar": 5.0,
     "carbohydrates": 65
   },
-  "chickpea_flour": {
+  "chickpea flour": {
     "calories": 387,
     "protein": 22.4,
     "fat": 6.7,
     "sugar": 10.8,
     "carbohydrates": 58
   },
-  "chana_atta": {
+  "chana atta": {
     "calories": 387,
     "protein": 22.4,
     "fat": 6.7,
@@ -8650,140 +8650,140 @@
     "sugar": 10.7,
     "carbohydrates": 61
   },
-  "moong_flour": {
+  "moong flour": {
     "calories": 347,
     "protein": 24.0,
     "fat": 1.2,
     "sugar": 6.6,
     "carbohydrates": 63
   },
-  "green_gram_flour": {
+  "green gram flour": {
     "calories": 347,
     "protein": 24.0,
     "fat": 1.2,
     "sugar": 6.6,
     "carbohydrates": 63
   },
-  "green_gram": {
+  "green gram": {
     "calories": 347,
     "protein": 24.0,
     "fat": 1.2,
     "sugar": 6.6,
     "carbohydrates": 63
   },
-  "urad_flour": {
+  "urad flour": {
     "calories": 341,
     "protein": 25.2,
     "fat": 1.6,
     "sugar": 2.0,
     "carbohydrates": 59
   },
-  "black_gram_flour": {
+  "black gram flour": {
     "calories": 341,
     "protein": 25.2,
     "fat": 1.6,
     "sugar": 2.0,
     "carbohydrates": 59
   },
-  "black_gram": {
+  "black gram": {
     "calories": 341,
     "protein": 25.2,
     "fat": 1.6,
     "sugar": 2.0,
     "carbohydrates": 59
   },
-  "masoor_flour": {
+  "masoor flour": {
     "calories": 352,
     "protein": 25.0,
     "fat": 1.1,
     "sugar": 2.0,
     "carbohydrates": 60
   },
-  "red_lentil_flour": {
+  "red lentil flour": {
     "calories": 352,
     "protein": 25.0,
     "fat": 1.1,
     "sugar": 2.0,
     "carbohydrates": 60
   },
-  "masoor_dal": {
+  "masoor dal": {
     "calories": 352,
     "protein": 25.0,
     "fat": 1.1,
     "sugar": 2.0,
     "carbohydrates": 60
   },
-  "toor_flour": {
+  "toor flour": {
     "calories": 343,
     "protein": 22.3,
     "fat": 1.7,
     "sugar": 2.8,
     "carbohydrates": 63
   },
-  "arhar_flour": {
+  "arhar flour": {
     "calories": 343,
     "protein": 22.3,
     "fat": 1.7,
     "sugar": 2.8,
     "carbohydrates": 63
   },
-  "pigeon_pea_flour": {
+  "pigeon pea flour": {
     "calories": 343,
     "protein": 22.3,
     "fat": 1.7,
     "sugar": 2.8,
     "carbohydrates": 63
   },
-  "toor_dal": {
+  "toor dal": {
     "calories": 343,
     "protein": 22.3,
     "fat": 1.7,
     "sugar": 2.8,
     "carbohydrates": 63
   },
-  "arhar_dal": {
+  "arhar dal": {
     "calories": 343,
     "protein": 22.3,
     "fat": 1.7,
     "sugar": 2.8,
     "carbohydrates": 63
   },
-  "mixed_dal_flour": {
+  "mixed dal flour": {
     "calories": 360,
     "protein": 23.0,
     "fat": 3.0,
     "sugar": 4.0,
     "carbohydrates": 61
   },
-  "dal_flour": {
+  "dal flour": {
     "calories": 360,
     "protein": 23.0,
     "fat": 3.0,
     "sugar": 4.0,
     "carbohydrates": 61
   },
-  "mixed_pulses": {
+  "mixed pulses": {
     "calories": 355,
     "protein": 22.0,
     "fat": 2.5,
     "sugar": 3.5,
     "carbohydrates": 62
   },
-  "makki_flour": {
+  "makki flour": {
     "calories": 365,
     "protein": 8.7,
     "fat": 3.9,
     "sugar": 0.6,
     "carbohydrates": 76
   },
-  "maize_flour": {
+  "maize flour": {
     "calories": 365,
     "protein": 8.7,
     "fat": 3.9,
     "sugar": 0.6,
     "carbohydrates": 76
   },
-  "makki_atta": {
+  "makki atta": {
     "calories": 365,
     "protein": 8.7,
     "fat": 3.9,
@@ -8797,14 +8797,14 @@
     "sugar": 0.6,
     "carbohydrates": 76
   },
-  "corn_flour": {
+  "corn flour": {
     "calories": 381,
     "protein": 0.3,
     "fat": 0.1,
     "sugar": 0.0,
     "carbohydrates": 91
   },
-  "corn_starch": {
+  "corn starch": {
     "calories": 381,
     "protein": 0.3,
     "fat": 0.1,
@@ -8818,14 +8818,14 @@
     "sugar": 1.0,
     "carbohydrates": 79
   },
-  "yellow_cornmeal": {
+  "yellow cornmeal": {
     "calories": 370,
     "protein": 8.1,
     "fat": 3.6,
     "sugar": 1.0,
     "carbohydrates": 79
   },
-  "white_cornmeal": {
+  "white cornmeal": {
     "calories": 368,
     "protein": 8.0,
     "fat": 3.5,
@@ -8839,28 +8839,28 @@
     "sugar": 0.6,
     "carbohydrates": 74
   },
-  "sweet_corn": {
+  "sweet corn": {
     "calories": 86,
     "protein": 3.3,
     "fat": 1.4,
     "sugar": 6.3,
     "carbohydrates": 19
   },
-  "baby_corn": {
+  "baby corn": {
     "calories": 26,
     "protein": 2.0,
     "fat": 0.2,
     "sugar": 3.0,
     "carbohydrates": 5.0
   },
-  "barley_flour": {
+  "barley flour": {
     "calories": 352,
     "protein": 10.5,
     "fat": 1.6,
     "sugar": 0.8,
     "carbohydrates": 74
   },
-  "jau_atta": {
+  "jau atta": {
     "calories": 352,
     "protein": 10.5,
     "fat": 1.6,
@@ -8874,7 +8874,7 @@
     "sugar": 0.8,
     "carbohydrates": 73
   },
-  "oat_flour": {
+  "oat flour": {
     "calories": 404,
     "protein": 14.7,
     "fat": 9.1,
@@ -8888,7 +8888,7 @@
     "sugar": 1.0,
     "carbohydrates": 66
   },
-  "rye_flour": {
+  "rye flour": {
     "calories": 338,
     "protein": 10.3,
     "fat": 1.6,
@@ -8902,7 +8902,7 @@
     "sugar": 1.0,
     "carbohydrates": 76
   },
-  "quinoa_flour": {
+  "quinoa flour": {
     "calories": 368,
     "protein": 14.1,
     "fat": 6.1,
@@ -8916,14 +8916,14 @@
     "sugar": 0.9,
     "carbohydrates": 64
   },
-  "kuttu_flour": {
+  "kuttu flour": {
     "calories": 335,
     "protein": 13.2,
     "fat": 3.4,
     "sugar": 0.9,
     "carbohydrates": 70
   },
-  "buckwheat_flour": {
+  "buckwheat flour": {
     "calories": 335,
     "protein": 13.2,
     "fat": 3.4,
@@ -8937,14 +8937,14 @@
     "sugar": 0.9,
     "carbohydrates": 71
   },
-  "rajgira_flour": {
+  "rajgira flour": {
     "calories": 371,
     "protein": 13.6,
     "fat": 7.0,
     "sugar": 1.7,
     "carbohydrates": 65
   },
-  "amaranth_flour": {
+ "amaranth flour": {
     "calories": 371,
     "protein": 13.6,
     "fat": 7.0,
@@ -8958,35 +8958,35 @@
     "sugar": 1.7,
     "carbohydrates": 65
   },
-  "mixed_grain_flour": {
+  "mixed grain flour": {
     "calories": 356,
     "protein": 12.8,
     "fat": 4.1,
     "sugar": 1.0,
     "carbohydrates": 69
   },
-   "tapioca_flour": {
+   "tapioca flour": {
     "calories": 358,
     "protein": 0.2,
     "fat": 0.0,
     "sugar": 3.3,
     "carbohydrates": 88
   },
-  "cassava_flour": {
+  "cassava flour": {
     "calories": 358,
     "protein": 0.2,
     "fat": 0.0,
     "sugar": 3.3,
     "carbohydrates": 88
   },
-  "sabudana_flour": {
+  "sabudana flour": {
     "calories": 358,
     "protein": 0.2,
     "fat": 0.0,
     "sugar": 3.3,
     "carbohydrates": 88
   },
-  "tapioca_starch": {
+  "tapioca starch": {
     "calories": 358,
     "protein": 0.2,
     "fat": 0.0,
@@ -9007,7 +9007,7 @@
     "sugar": 0.0,
     "carbohydrates": 87
   },
-  "arrowroot_flour": {
+  "arrowroot flour": {
     "calories": 357,
     "protein": 0.3,
     "fat": 0.1,
@@ -9021,14 +9021,14 @@
     "sugar": 0.0,
     "carbohydrates": 88
   },
-  "potato_flour": {
+  "potato flour": {
     "calories": 357,
     "protein": 6.9,
     "fat": 0.3,
     "sugar": 3.5,
     "carbohydrates": 83
   },
-  "potato_starch": {
+  "potato starch": {
     "calories": 333,
     "protein": 0.1,
     "fat": 0.1,
@@ -9042,21 +9042,21 @@
     "sugar": 0.8,
     "carbohydrates": 17
   },
-  "starch_flour": {
+  "starch flour": {
     "calories": 352,
     "protein": 0.2,
     "fat": 0.1,
     "sugar": 1.0,
     "carbohydrates": 87
   },
-  "almond_flour": {
+  "almond flour": {
     "calories": 571,
     "protein": 21.4,
     "fat": 50.6,
     "sugar": 4.4,
     "carbohydrates": 21.6
   },
-  "badam_flour": {
+  "badam flour": {
     "calories": 571,
     "protein": 21.4,
     "fat": 50.6,
@@ -9077,7 +9077,7 @@
     "sugar": 4.4,
     "carbohydrates": 21.6
   },
-  "coconut_flour": {
+  "coconut flour": {
     "calories": 400,
     "protein": 20.0,
     "fat": 14.0,
@@ -9091,21 +9091,21 @@
     "sugar": 6.2,
     "carbohydrates": 15.2
   },
-  "dry_coconut": {
+  "dry coconut": {
     "calories": 660,
     "protein": 6.9,
     "fat": 65.0,
     "sugar": 7.4,
     "carbohydrates": 24
   },
-  "flaxseed_flour": {
+  "flaxseed flour": {
     "calories": 534,
     "protein": 18.3,
     "fat": 42.2,
     "sugar": 1.6,
     "carbohydrates": 29
   },
-  "alsi_flour": {
+  "alsi flour": {
     "calories": 534,
     "protein": 18.3,
     "fat": 42.2,
@@ -9126,14 +9126,14 @@
     "sugar": 1.6,
     "carbohydrates": 29
   },
-  "peanut_flour": {
+  "peanut flour": {
     "calories": 470,
     "protein": 52.0,
     "fat": 12.0,
     "sugar": 7.5,
     "carbohydrates": 35
   },
-  "groundnut_flour": {
+  "groundnut flour": {
     "calories": 470,
     "protein": 52.0,
     "fat": 12.0,
@@ -9154,14 +9154,14 @@
     "sugar": 4.7,
     "carbohydrates": 16.1
   },
-  "sesame_flour": {
+  "sesame flour": {
     "calories": 450,
     "protein": 26.0,
     "fat": 18.0,
     "sugar": 1.2,
     "carbohydrates": 44
   },
-  "til_flour": {
+  "til flour": {
     "calories": 450,
     "protein": 26.0,
     "fat": 18.0,
@@ -9182,63 +9182,63 @@
     "sugar": 0.3,
     "carbohydrates": 23.4
   },
-  "sunflower_seed_flour": {
+  "sunflower seed flour": {
     "calories": 326,
     "protein": 48.0,
     "fat": 2.5,
     "sugar": 2.6,
     "carbohydrates": 35
   },
-  "sunflower_flour": {
+  "sunflower flour": {
     "calories": 326,
     "protein": 48.0,
     "fat": 2.5,
     "sugar": 2.6,
     "carbohydrates": 35
   },
-  "sunflower_seeds": {
+  "sunflower seeds": {
     "calories": 584,
     "protein": 20.8,
     "fat": 51.5,
     "sugar": 2.6,
     "carbohydrates": 20
   },
-  "pumpkin_seed_flour": {
+  "pumpkin seed flour": {
     "calories": 400,
     "protein": 41.0,
     "fat": 11.0,
     "sugar": 1.5,
     "carbohydrates": 33
   },
-  "pumpkin_flour": {
+  "pumpkin flour": {
     "calories": 400,
     "protein": 41.0,
     "fat": 11.0,
     "sugar": 1.5,
     "carbohydrates": 33
   },
-  "pumpkin_seeds": {
+  "pumpkin seeds": {
     "calories": 559,
     "protein": 30.2,
     "fat": 49.0,
     "sugar": 1.4,
     "carbohydrates": 11
   },
-  "mixed_seed_flour": {
+  "mixed seed flour": {
     "calories": 430,
     "protein": 32.0,
     "fat": 18.0,
     "sugar": 2.0,
     "carbohydrates": 36
   },
-  "soy_flour": {
+  "soy flour": {
     "calories": 434,
     "protein": 36.5,
     "fat": 20.6,
     "sugar": 7.3,
     "carbohydrates": 30
   },
-  "soya_atta": {
+  "soya atta": {
     "calories": 434,
     "protein": 36.5,
     "fat": 20.6,
@@ -9259,14 +9259,14 @@
     "sugar": 7.3,
     "carbohydrates": 30
   },
-  "singhara_flour": {
+  "singhara flour": {
     "calories": 360,
     "protein": 4.8,
     "fat": 0.6,
     "sugar": 3.0,
     "carbohydrates": 84
   },
-  "water_chestnut_flour": {
+  "water chestnut flour": {
     "calories": 360,
     "protein": 4.8,
     "fat": 0.6,
@@ -9280,49 +9280,49 @@
     "sugar": 4.8,
     "carbohydrates": 24
   },
-  "water_chestnut": {
+  "water chestnut": {
     "calories": 97,
     "protein": 1.4,
     "fat": 0.1,
     "sugar": 4.8,
     "carbohydrates": 24
   },
-  "banana_flour": {
+  "banana flour": {
     "calories": 350,
     "protein": 4.5,
     "fat": 0.8,
     "sugar": 9.0,
     "carbohydrates": 81
   },
-  "raw_banana_flour": {
+  "raw banana flour": {
     "calories": 350,
     "protein": 4.5,
     "fat": 0.8,
     "sugar": 9.0,
     "carbohydrates": 81
   },
-  "raw_banana": {
+  "raw banana": {
     "calories": 89,
     "protein": 1.1,
     "fat": 0.3,
     "sugar": 12.2,
     "carbohydrates": 23
   },
-  "green_banana": {
+  "green banana": {
     "calories": 89,
     "protein": 1.1,
     "fat": 0.3,
     "sugar": 12.2,
     "carbohydrates": 23
   },
-  "moringa_powder": {
+  "moringa powder": {
     "calories": 320,
     "protein": 27.0,
     "fat": 6.0,
     "sugar": 8.0,
     "carbohydrates": 38
   },
-  "moringa_leaf_powder": {
+  "moringa leaf powder": {
     "calories": 320,
     "protein": 27.0,
     "fat": 6.0,
@@ -9336,49 +9336,49 @@
     "sugar": 0.0,
     "carbohydrates": 8.3
   },
-  "drumstick_leaves": {
+  "drumstick leaves": {
     "calories": 64,
     "protein": 9.4,
     "fat": 1.4,
     "sugar": 0.0,
     "carbohydrates": 8.3
   },
-  "multigrain_flour": {
+  "multigrain flour": {
     "calories": 340,
     "protein": 12.0,
     "fat": 3.0,
     "sugar": 1.5,
     "carbohydrates": 70
   },
-  "mixed_atta": {
+  "mixed atta": {
     "calories": 340,
     "protein": 12.0,
     "fat": 3.0,
     "sugar": 1.5,
     "carbohydrates": 70
   },
-  "multigrain_atta": {
+  "multigrain atta": {
     "calories": 340,
     "protein": 12.0,
     "fat": 3.0,
     "sugar": 1.5,
     "carbohydrates": 70
   },
-  "mixed_flour": {
+  "mixed flour": {
     "calories": 340,
     "protein": 12.0,
     "fat": 3.0,
     "sugar": 1.5,
     "carbohydrates": 70
   },
-  "white_sugar": {
+  "white sugar": {
     "calories": 387,
     "protein": 0,
     "fat": 0,
     "sugar": 99.8,
     "carbohydrates": 100
 },
-"brown_sugar": {
+"brown sugar": {
     "calories": 380,
     "protein": 0.1,
     "fat": 0,
@@ -9392,28 +9392,28 @@
     "sugar": 90,
     "carbohydrates": 98
 },
-"powdered_sugar": {
+"powdered sugar": {
     "calories": 389,
     "protein": 0,
     "fat": 0,
     "sugar": 99.8,
     "carbohydrates": 99.8
 },
-"icing_sugar": {
+"icing sugar": {
     "calories": 389,
     "protein": 0,
     "fat": 0,
     "sugar": 99.8,
     "carbohydrates": 99.8
 },
-"palm_sugar": {
+"palm sugar": {
     "calories": 375,
     "protein": 0.2,
     "fat": 0,
     "sugar": 92,
     "carbohydrates": 97
 },
-"coconut_sugar": {
+"coconut sugar": {
     "calories": 375,
     "protein": 0.2,
     "fat": 0,
@@ -9427,7 +9427,7 @@
     "sugar": 82.1,
     "carbohydrates": 82.4
 },
-"maple_syrup": {
+"maple syrup": {
     "calories": 260,
     "protein": 0.04,
     "fat": 0.06,
@@ -9441,70 +9441,70 @@
     "sugar": 74.7,
     "carbohydrates": 74.7
 },
-"corn_syrup": {
+"corn syrup": {
     "calories": 286,
     "protein": 0,
     "fat": 0,
     "sugar": 60,
     "carbohydrates": 77
 },
-"high_fructose_corn_syrup": {
+"high fructose corn syrup": {
     "calories": 282,
     "protein": 0,
     "fat": 0,
     "sugar": 76,
     "carbohydrates": 76
 },
-"agave_syrup": {
+"agave syrup": {
     "calories": 310,
     "protein": 0.1,
     "fat": 0.5,
     "sugar": 68,
     "carbohydrates": 76
 },
-"date_sugar": {
+"date sugar": {
     "calories": 359,
     "protein": 2.5,
     "fat": 0.4,
     "sugar": 64,
     "carbohydrates": 94.3
 },
-"rock_sugar": {
+"rock sugar": {
     "calories": 387,
     "protein": 0,
     "fat": 0,
     "sugar": 99.8,
     "carbohydrates": 100
 },
-"caster_sugar": {
+"caster sugar": {
     "calories": 387,
     "protein": 0,
     "fat": 0,
     "sugar": 100,
     "carbohydrates": 100
 },
-"demerara_sugar": {
+"demerara sugar": {
     "calories": 380,
     "protein": 0.1,
     "fat": 0,
     "sugar": 96,
     "carbohydrates": 97
 },
-"turbinado_sugar": {
+"turbinado sugar": {
     "calories": 373,
     "protein": 0,
     "fat": 0,
     "sugar": 95,
     "carbohydrates": 99
 },
-"muscovado_sugar": {
+"muscovado sugar": {
     "calories": 369,
     "protein": 0.2,
     "fat": 0.1,
     "sugar": 87,
     "carbohydrates": 95
 },
-"golden_syrup": {
+"golden syrup": {
     "calories": 325,
     "protein": 0.3,
     "fat": 0,
@@ -9518,42 +9518,42 @@
     "sugar": 68,
     "carbohydrates": 70
 },
-"brown_rice_syrup": {
+"brown rice syrup": {
     "calories": 316,
     "protein": 0,
     "fat": 0,
     "sugar": 3,
     "carbohydrates": 79
 },
-"barley_malt_syrup": {
+"barley malt syrup": {
     "calories": 318,
     "protein": 2.5,
     "fat": 0,
     "sugar": 45,
     "carbohydrates": 76
 },
-"sorghum_syrup": {
+"sorghum syrup": {
     "calories": 290,
     "protein": 0,
     "fat": 0,
     "sugar": 65,
     "carbohydrates": 74
 },
-"cane_sugar": {
+"cane sugar": {
     "calories": 387,
     "protein": 0,
     "fat": 0,
     "sugar": 99.8,
     "carbohydrates": 100
 },
-"beet_sugar": {
+"beet sugar": {
     "calories": 387,
     "protein": 0,
     "fat": 0,
     "sugar": 99.8,
     "carbohydrates": 100
 },
-"invert_sugar": {
+"invert sugar": {
     "calories": 293,
     "protein": 0,
     "fat": 0,
@@ -9630,7 +9630,7 @@
     "sugar": 0,
     "carbohydrates": 100
 },
-"stevia_extract": {
+"stevia extract": {
     "calories": 0,
     "protein": 0,
     "fat": 0,
@@ -9658,7 +9658,7 @@
     "sugar": 0,
     "carbohydrates": 0
 },
-"monk_fruit_sweetener": {
+"monk fruit sweetener": {
     "calories": 0,
     "protein": 0,
     "fat": 0,
@@ -9686,49 +9686,49 @@
     "sugar": 100,
     "carbohydrates": 100
 },
-"yacon_syrup": {
+"yacon syrup": {
     "calories": 250,
     "protein": 0.3,
     "fat": 0,
     "sugar": 40,
     "carbohydrates": 65
 },
-"date_syrup": {
+"date syrup": {
     "calories": 280,
     "protein": 1.5,
     "fat": 0.2,
     "sugar": 65,
     "carbohydrates": 70
 },
-"carob_syrup": {
+"carob syrup": {
     "calories": 250,
     "protein": 1,
     "fat": 0.3,
     "sugar": 55,
     "carbohydrates": 65
 },
-"liquid_glucose": {
+"liquid glucose": {
     "calories": 316,
     "protein": 0,
     "fat": 0,
     "sugar": 60,
     "carbohydrates": 80
 },
-"malt_syrup": {
+"malt syrup": {
     "calories": 318,
     "protein": 2.5,
     "fat": 0,
     "sugar": 45,
     "carbohydrates": 76
 },
-"fruit_sugar": {
+"fruit sugar": {
     "calories": 400,
     "protein": 0,
     "fat": 0,
     "sugar": 100,
     "carbohydrates": 100
 },
-"sugar_cubes": {
+"sugar cubes": {
     "calories": 387,
     "protein": 0,
     "fat": 0,
@@ -9742,7 +9742,7 @@
     "sugar": 99.8,
     "carbohydrates": 100
 },
-"golden_brown_sugar": {
+"golden brown_sugar": {
     "calories": 380,
     "protein": 0.1,
     "fat": 0,
